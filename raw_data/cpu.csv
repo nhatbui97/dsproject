@@ -1,0 +1,2624 @@
+CPU,Cores,Clock,Process,L3 Cache,TDP
+Athlon 1000,1 ,1000 MHz,180 nm,N/A,54 W
+Athlon 1000,1 ,1000 MHz,180 nm,N/A,54 W
+Athlon 1100,1 ,1100 MHz,180 nm,N/A,60 W
+Athlon 1133,1 ,1133 MHz,180 nm,N/A,63 W
+Athlon 1200,1 ,1200 MHz,180 nm,N/A,66 W
+Athlon 1200,1 ,1200 MHz,180 nm,N/A,66 W
+Athlon 600,1 ,600 MHz,180 nm,N/A,38 W
+Athlon 650,1 ,650 MHz,180 nm,N/A,38 W
+Athlon 700,1 ,700 MHz,180 nm,N/A,40 W
+Athlon 750,1 ,750 MHz,180 nm,N/A,43 W
+Athlon 800,1 ,800 MHz,180 nm,N/A,45 W
+Athlon 850,1 ,850 MHz,180 nm,N/A,47 W
+Athlon 900,1 ,900 MHz,180 nm,N/A,50 W
+Athlon 950,1 ,950 MHz,180 nm,N/A,52 W
+Athlon 1300,1 ,1300 MHz,180 nm,N/A,68 W
+Athlon 1333,1 ,1333 MHz,180 nm,N/A,70 W
+Athlon 1400,1 ,1400 MHz,180 nm,N/A,72 W
+Athlon 1400,1 ,1400 MHz,180 nm,N/A,72 W
+Athlon 64 3000+,1 ,2000 MHz,90 nm,N/A,51 W
+Athlon 64 3000+,1 ,2000 MHz,90 nm,N/A,51 W
+Athlon 64 3200+,1 ,2.2 GHz,130 nm,N/A,89 W
+Athlon 64 3200+,1 ,2.2 GHz,90 nm,N/A,59 W
+Athlon 64 3400+,1 ,2.4 GHz,130 nm,N/A,89 W
+Athlon 64 3400+,1 ,2.2 GHz,90 nm,N/A,67 W
+Athlon 64 3400+,1 ,2.4 GHz,90 nm,N/A,67 W
+Athlon 64 3500+,1 ,2.2 GHz,90 nm,N/A,67 W
+Athlon 64 4000+,1 ,2.4 GHz,90 nm,N/A,89 W
+Athlon 64 X2 3600+,2 ,2000 MHz,90 nm,N/A,89 W
+Athlon XP 1500+,1 ,1333 MHz,180 nm,N/A,60 W
+Athlon XP 1600+,1 ,1400 MHz,180 nm,N/A,63 W
+Athlon XP 1600+,1 ,1400 MHz,130 nm,N/A,49 W
+Athlon XP 1700+,1 ,1467 MHz,180 nm,N/A,64 W
+Athlon XP 1700+,1 ,1467 MHz,130 nm,N/A,50 W
+Athlon XP 1700+,1 ,1467 MHz,130 nm,N/A,50 W
+Athlon XP 1800+,1 ,1533 MHz,180 nm,N/A,66 W
+Athlon XP 1800+,1 ,1533 MHz,130 nm,N/A,51 W
+Athlon XP 1900+,1 ,1600 MHz,130 nm,N/A,53 W
+Athlon XP 1900+,1 ,1600 MHz,180 nm,N/A,68 W
+Athlon XP 2100+,1 ,1733 MHz,130 nm,N/A,62 W
+Athlon XP 2200+,1 ,1800 MHz,130 nm,N/A,63 W
+Sempron 2200+,1 ,1500 MHz,130 nm,N/A,62 W
+Sempron 2300+,1 ,1583 MHz,130 nm,N/A,62 W
+Sempron 2400+,1 ,1667 MHz,130 nm,N/A,62 W
+Sempron 2500+,1 ,1750 MHz,130 nm,N/A,62 W
+Sempron 2600+,1 ,1600 MHz,130 nm,N/A,25 W
+Sempron 2600+,1 ,1833 MHz,130 nm,N/A,62 W
+Sempron 2800+,1 ,1600 MHz,130 nm,N/A,25 W
+Sempron 2800+,1 ,2000 MHz,130 nm,N/A,62 W
+Sempron 3000+,1 ,1800 MHz,130 nm,N/A,25 W
+Sempron 3100+,1 ,1800 MHz,130 nm,N/A,25 W
+Sempron 3300+,1 ,2.2 GHz,130 nm,N/A,62 W
+Celeron 2.30,1 ,2.3 GHz,130 nm,N/A,73 W
+Celeron 2.40,1 ,2.4 GHz,130 nm,N/A,73 W
+Celeron 2.60,1 ,2.6 GHz,130 nm,N/A,73 W
+Celeron 2.70,1 ,2.7 GHz,130 nm,N/A,73 W
+Celeron 2.80,1 ,2.8 GHz,130 nm,N/A,73 W
+Mobile Pentium 4 2.40,1  / 2,2.4 GHz,130 nm,N/A,60 W
+Mobile Pentium 4 2.66,1  / 2,2.667 GHz,130 nm,N/A,66 W
+Mobile Pentium 4 2.80,1  / 2,2.8 GHz,130 nm,N/A,68 W
+Mobile Pentium 4 3.06,1  / 2,3.067 GHz,130 nm,N/A,70 W
+Mobile Pentium 4 HT 2.66,1  / 2,2.667 GHz,130 nm,N/A,66 W
+Mobile Pentium 4 HT 2.80,1  / 2,2.8 GHz,130 nm,N/A,68 W
+Mobile Pentium 4 HT 3.06,1  / 2,3.067 GHz,130 nm,N/A,70 W
+Mobile Pentium 4 HT 3.20,1  / 2,3.2 GHz,130 nm,N/A,76 W
+Pentium 4 HT 2.40,1  / 2,2.4 GHz,130 nm,N/A,66 W
+Pentium 4 HT 2.60,1  / 2,2.6 GHz,130 nm,N/A,69 W
+Pentium 4 HT 2.80,1  / 2,2.8 GHz,130 nm,N/A,70 W
+Pentium 4 HT 3.00,1  / 2,3 GHz,130 nm,N/A,82 W
+Pentium 4 HT 3.06,1  / 2,3.06 GHz,130 nm,N/A,110 W
+Pentium 4 HT 3.20,1  / 2,3.2 GHz,130 nm,N/A,82 W
+Pentium 4 HT EE 3.20,1  / 2,3.2 GHz,130 nm,2MB,110 W
+Pentium 4-M 2.40,1 ,2.4 GHz,130 nm,N/A,35 W
+Pentium 4-M 2.50,1 ,2.5 GHz,130 nm,N/A,35 W
+Pentium 4-M 2.60,1 ,2.6 GHz,130 nm,N/A,35 W
+Pentium M 1.30,1 ,1300 MHz,130 nm,N/A,24 W
+Pentium M 1.40,1 ,1400 MHz,130 nm,N/A,24 W
+Pentium M 1.50,1 ,1500 MHz,130 nm,N/A,24 W
+Pentium M 1.60,1 ,1600 MHz,130 nm,N/A,24 W
+Pentium M 1.70,1 ,1700 MHz,130 nm,N/A,24 W
+Xeon 3.06,1 ,3.066 GHz,130 nm,1MB,97 W
+Xeon 3.06,1 ,3.066 GHz,130 nm,2MB,97 W
+Xeon 3.06,1 ,3.066 GHz,130 nm,N/A,89 W
+Xeon 3.20,1 ,3.2 GHz,130 nm,1MB,97 W
+Athlon XP 1800+,1 ,1533 MHz,130 nm,N/A,51 W
+Athlon XP 2000+,1 ,1667 MHz,130 nm,N/A,60 W
+Athlon XP 2000+,1 ,1667 MHz,130 nm,N/A,60 W
+Athlon XP 2000+,1 ,1667 MHz,180 nm,N/A,70 W
+Athlon XP 2100+,1 ,1733 MHz,180 nm,N/A,72 W
+Athlon XP 2200+,1 ,1800 MHz,130 nm,N/A,68 W
+Athlon XP 2400+,1 ,2000 MHz,130 nm,N/A,65 W
+Athlon XP 2400+,1 ,2000 MHz,130 nm,N/A,68 W
+Athlon XP 2600+,1 ,2.133 GHz,130 nm,N/A,68 W
+Athlon XP 2600+,1 ,2.083 GHz,130 nm,N/A,68 W
+Athlon XP 2700+,1 ,2.167 GHz,130 nm,N/A,68 W
+Athlon XP 2800+,1 ,2.25 GHz,130 nm,N/A,74 W
+Athlon XP-M 2200+,1 ,1800 MHz,130 nm,N/A,45 W
+Pentium 4 1.3,1 ,1300 MHz,180 nm,N/A,52 W
+Pentium 4 1.4,1 ,1400 MHz,180 nm,N/A,55 W
+Pentium 4 1.5,1 ,1500 MHz,180 nm,N/A,58 W
+Pentium 4 1.6,1 ,1600 MHz,180 nm,N/A,61 W
+Pentium 4 1.6,1 ,1600 MHz,180 nm,N/A,61 W
+Pentium 4 1.7,1 ,1700 MHz,180 nm,N/A,64 W
+Pentium 4 1.7,1 ,1700 MHz,180 nm,N/A,64 W
+Pentium 4 1.80,1 ,1800 MHz,180 nm,N/A,67 W
+Pentium 4 1.8A,1 ,1800 MHz,180 nm,N/A,67 W
+Pentium 4 1.9,1 ,1900 MHz,180 nm,N/A,69 W
+Pentium 4 1.9,1 ,1900 MHz,180 nm,N/A,69 W
+Pentium 4 2.0,1 ,2000 MHz,130 nm,N/A,110 W
+Pentium 4 2.0,1 ,2000 MHz,180 nm,N/A,72 W
+Pentium 4 2.0,1 ,2000 MHz,180 nm,N/A,72 W
+Pentium 4 HT 524,1  / 2,3.06 GHz,90 nm,N/A,84 W
+Pentium III  800,1 ,800 MHz,180 nm,N/A,38 W
+Pentium III  866,1 ,866 MHz,180 nm,N/A,38 W
+Pentium III  933,1 ,933 MHz,180 nm,N/A,27 W
+Pentium III 1000,1 ,1000 MHz,130 nm,N/A,30 W
+Pentium III 1000,1 ,1000 MHz,180 nm,N/A,29 W
+Pentium III 1000S,1 ,1000 MHz,130 nm,N/A,30 W
+Pentium III 1133,1 ,1133 MHz,130 nm,N/A,29 W
+Pentium III 1133,1 ,1133 MHz,180 nm,N/A,29 W
+Pentium III 1133S,1 ,1133 MHz,130 nm,N/A,29 W
+Pentium III 1200,1 ,1200 MHz,130 nm,N/A,30 W
+Pentium III 1266S,1 ,1266 MHz,130 nm,N/A,30 W
+Pentium III 1333,1 ,1333 MHz,130 nm,N/A,30 W
+Pentium III 1400,1 ,1400 MHz,130 nm,N/A,31 W
+Athlon 64 2700+,1 ,1600 MHz,130 nm,N/A,32 W
+Athlon 64 2800+,1 ,1800 MHz,130 nm,N/A,32 W
+Athlon 64 2800+,1 ,1800 MHz,130 nm,N/A,89 W
+Athlon 64 2800+,1 ,1800 MHz,130 nm,N/A,89 W
+Athlon 64 3000+,1 ,2000 MHz,130 nm,N/A,89 W
+Athlon 64 3000+,1 ,1800 MHz,90 nm,N/A,67 W
+Athlon 64 3000+,1 ,1800 MHz,130 nm,N/A,32 W
+Athlon 64 3000+,1 ,1800 MHz,130 nm,N/A,89 W
+Athlon 64 3200+,1 ,2000 MHz,130 nm,N/A,89 W
+Athlon 64 3200+,1 ,2000 MHz,90 nm,N/A,67 W
+Athlon 64 3200+,1 ,2.2 GHz,130 nm,N/A,89 W
+Athlon 64 3300+,1 ,2.4 GHz,130 nm,N/A,89 W
+Athlon 64 3400+,1 ,2.4 GHz,130 nm,N/A,89 W
+Athlon 64 3400+,1 ,2.2 GHz,130 nm,N/A,89 W
+Athlon 64 3400+,1 ,2.2 GHz,130 nm,N/A,89 W
+Athlon 64 3500+,1 ,2.2 GHz,90 nm,N/A,67 W
+Athlon 64 3500+,1 ,2.2 GHz,130 nm,N/A,89 W
+Athlon 64 3500+,1 ,2.2 GHz,130 nm,N/A,89 W
+Athlon 64 3600+,1 ,2.4 GHz,130 nm,N/A,89 W
+Athlon 64 3700+,1 ,2.4 GHz,130 nm,N/A,89 W
+Athlon 64 3700+,1 ,2.2 GHz,90 nm,N/A,89 W
+Athlon 64 3800+,1 ,2.4 GHz,130 nm,N/A,89 W
+Athlon 64 3800+,1 ,2.4 GHz,130 nm,N/A,89 W
+Athlon 64 4000+,1 ,2.4 GHz,130 nm,N/A,89 W
+Athlon 64 4000+,1 ,2.4 GHz,90 nm,N/A,89 W
+Athlon 64 FX-53,1 ,2.4 GHz,130 nm,N/A,89 W
+Athlon 64 FX-53,1 ,2.4 GHz,130 nm,N/A,89 W
+Athlon 64 FX-55,1 ,2.6 GHz,90 nm,N/A,104 W
+Athlon 64 FX-55,1 ,2.6 GHz,130 nm,N/A,104 W
+Athlon XP 2600+ DTR,1 ,1917 MHz,130 nm,N/A,55 W
+Athlon XP 2800+ DTR,1 ,2.083 GHz,130 nm,N/A,55 W
+Athlon XP-M 2200+,1 ,1667 MHz,130 nm,N/A,27 W
+Athlon XP-M 2800+,1 ,2.133 GHz,130 nm,N/A,55 W
+Athlon XP-M 2800+ (72W),1 ,2.133 GHz,130 nm,N/A,72 W
+Mobile Athlon 64 2700+,1 ,1600 MHz,130 nm,N/A,82 W
+Mobile Athlon 64 2800+,1 ,1800 MHz,130 nm,N/A,35 W
+Mobile Athlon 64 2800+,1 ,1800 MHz,130 nm,N/A,62 W
+Mobile Athlon 64 2800+,1 ,1800 MHz,130 nm,N/A,82 W
+Mobile Athlon 64 3000+,1 ,1800 MHz,130 nm,N/A,62 W
+Mobile Athlon 64 3000+,1 ,2000 MHz,130 nm,N/A,35 W
+Mobile Athlon 64 3200+,1 ,2000 MHz,130 nm,N/A,62 W
+Opteron 140,1 ,1400 MHz,130 nm,N/A,82 W
+Opteron 140 EE,1 ,1400 MHz,130 nm,N/A,30 W
+Opteron 142,1 ,1600 MHz,130 nm,N/A,82 W
+Opteron 144,1 ,1800 MHz,130 nm,N/A,82 W
+Opteron 146 HE,1 ,2000 MHz,130 nm,N/A,55 W
+Opteron 148,1 ,2.2 GHz,130 nm,N/A,89 W
+Opteron 148 HE,1 ,2.2 GHz,90 nm,N/A,55 W
+Opteron 150,1 ,2.4 GHz,130 nm,N/A,89 W
+Opteron 240,1 ,1400 MHz,130 nm,N/A,82 W
+Opteron 240 EE,1 ,1400 MHz,130 nm,N/A,30 W
+Opteron 242,1 ,1600 MHz,130 nm,N/A,82 W
+Opteron 242,1 ,1600 MHz,90 nm,N/A,85 W
+Opteron 244,1 ,1800 MHz,130 nm,N/A,82 W
+Opteron 244,1 ,1800 MHz,90 nm,N/A,85 W
+Opteron 246,1 ,2000 MHz,90 nm,N/A,85 W
+Opteron 246,1 ,2000 MHz,90 nm,N/A,85 W
+Opteron 246 HE,1 ,2000 MHz,130 nm,N/A,55 W
+Opteron 248,1 ,2.2 GHz,90 nm,N/A,85 W
+Opteron 248,1 ,2.2 GHz,90 nm,N/A,85 W
+Opteron 248,1 ,2.2 GHz,130 nm,N/A,89 W
+Opteron 250,1 ,2.4 GHz,90 nm,N/A,85 W
+Opteron 250,1 ,2.4 GHz,130 nm,N/A,89 W
+Opteron 840,1 ,1400 MHz,130 nm,N/A,82 W
+Opteron 840 EE,1 ,1400 MHz,130 nm,N/A,30 W
+Opteron 842,1 ,1600 MHz,90 nm,N/A,85 W
+Opteron 842,1 ,1600 MHz,130 nm,N/A,82 W
+Opteron 844,1 ,1800 MHz,130 nm,N/A,82 W
+Opteron 844,1 ,1800 MHz,90 nm,N/A,85 W
+Opteron 846,1 ,2000 MHz,90 nm,N/A,85 W
+Opteron 846,1 ,2000 MHz,90 nm,N/A,85 W
+Opteron 846 HE,1 ,2000 MHz,130 nm,N/A,55 W
+Opteron 848,1 ,2.2 GHz,90 nm,N/A,85 W
+Opteron 848,1 ,2.2 GHz,130 nm,N/A,89 W
+Opteron 850,1 ,2.4 GHz,90 nm,N/A,85 W
+Opteron 850,1 ,2.4 GHz,130 nm,N/A,89 W
+Sempron 2200+,1 ,1500 MHz,130 nm,N/A,62 W
+Sempron 2200+,1 ,1500 MHz,130 nm,N/A,62 W
+Sempron 2300+,1 ,1583 MHz,130 nm,N/A,62 W
+Sempron 2400+,1 ,1667 MHz,130 nm,N/A,62 W
+Sempron 2400+,1 ,1667 MHz,130 nm,N/A,62 W
+Sempron 2500+,1 ,1750 MHz,130 nm,N/A,62 W
+Sempron 2600+,1 ,1600 MHz,90 nm,N/A,25 W
+Sempron 2600+,1 ,1600 MHz,90 nm,N/A,62 W
+Sempron 2600+,1 ,1600 MHz,90 nm,N/A,62 W
+Sempron 2600+,1 ,1833 MHz,130 nm,N/A,62 W
+Sempron 2800+,1 ,1600 MHz,90 nm,N/A,25 W
+Sempron 2800+,1 ,1600 MHz,90 nm,N/A,62 W
+Sempron 2800+,1 ,1600 MHz,90 nm,N/A,62 W
+Sempron 2800+,1 ,1992 MHz,130 nm,N/A,62 W
+Sempron 2800+,1 ,1992 MHz,130 nm,N/A,62 W
+Sempron 3000+,1 ,2000 MHz,130 nm,N/A,62 W
+Sempron 3000+,1 ,1800 MHz,90 nm,N/A,62 W
+Sempron 3000+,1 ,1800 MHz,90 nm,N/A,25 W
+Sempron 3100+,1 ,1800 MHz,130 nm,N/A,62 W
+Pentium 4 1.4,1 ,1400 MHz,180 nm,N/A,55 W
+Pentium 4 1.5,1 ,1500 MHz,180 nm,N/A,58 W
+Pentium III 1133,1 ,1133 MHz,180 nm,N/A,29 W
+Celeron D 325,1 ,2.533 GHz,90 nm,N/A,73 W
+Celeron D 326,1 ,2.53 GHz,90 nm,N/A,73 W
+Celeron D 330,1 ,2.667 GHz,90 nm,N/A,84 W
+Celeron D 335,1 ,2.8 GHz,90 nm,N/A,84 W
+Celeron D 335,1 ,2.8 GHz,90 nm,N/A,84 W
+Celeron D 340,1 ,2.93 GHz,90 nm,N/A,84 W
+Celeron D 341,1 ,2.93 GHz,90 nm,N/A,84 W
+Celeron D 346,1 ,3.06 GHz,90 nm,N/A,73 W
+Mobile Pentium 4 HT 518,1  / 2,2.8 GHz,90 nm,N/A,88 W
+Mobile Pentium 4 HT 532,1  / 2,3.067 GHz,90 nm,N/A,88 W
+Mobile Pentium 4 HT 538,1  / 2,3.2 GHz,90 nm,N/A,88 W
+Mobile Pentium 4 HT 548,1  / 2,3.334 GHz,90 nm,N/A,88 W
+Pentium 4 2.40,1 ,2.4 GHz,90 nm,N/A,110 W
+Pentium 4 505,1 ,2.66 GHz,90 nm,N/A,84 W
+Pentium 4 505J,1 ,2.66 GHz,90 nm,N/A,84 W
+Pentium 4 519,1 ,3.06 GHz,90 nm,N/A,84 W
+Pentium 4 HT 2.8E,1  / 2,2.8 GHz,90 nm,N/A,115 W
+Pentium 4 HT 3.0E,1  / 2,3 GHz,90 nm,N/A,115 W
+Pentium 4 HT 3.2E,1  / 2,3.2 GHz,90 nm,N/A,115 W
+Pentium 4 HT 3.40,1  / 2,3.4 GHz,130 nm,N/A,89 W
+Pentium 4 HT 3.4E,1  / 2,3.4 GHz,90 nm,N/A,115 W
+Pentium 4 HT 3.6E,1  / 2,3.6 GHz,90 nm,N/A,115 W
+Pentium 4 HT 515,1  / 2,2.933 GHz,90 nm,N/A,84 W
+Pentium 4 HT 515,1  / 2,2.933 GHz,90 nm,N/A,84 W
+Pentium 4 HT 516,1  / 2,2.933 GHz,90 nm,N/A,84 W
+Pentium 4 HT 516,1  / 2,2.933 GHz,90 nm,N/A,84 W
+Pentium 4 HT 517,1  / 2,2.933 GHz,90 nm,N/A,84 W
+Pentium 4 HT 517,1  / 2,2.933 GHz,90 nm,N/A,84 W
+Pentium 4 HT 520,1  / 2,2.933 GHz,90 nm,N/A,84 W
+Pentium 4 HT 520,1  / 2,2.8 GHz,90 nm,N/A,84 W
+Pentium 4 HT 520,1  / 2,2.8 GHz,90 nm,N/A,84 W
+Pentium 4 HT 520,1  / 2,2.8 GHz,90 nm,N/A,84 W
+Pentium 4 HT 530,1  / 2,3 GHz,90 nm,N/A,84 W
+Pentium 4 HT 540,1  / 2,3.2 GHz,90 nm,N/A,84 W
+Pentium 4 HT 550,1  / 2,3.4 GHz,90 nm,N/A,115 W
+Pentium 4 HT 560,1  / 2,3.6 GHz,90 nm,N/A,115 W
+Pentium 4 HT 570,1  / 2,3.8 GHz,90 nm,N/A,115 W
+Pentium 4 HT EE 3.40,1  / 2,3.4 GHz,130 nm,2MB,110 W
+Pentium 4 HT EE 3.40,1  / 2,3.4 GHz,130 nm,2MB,110 W
+Pentium 4 HT EE 3.46,1  / 2,3.46 GHz,130 nm,2MB,110 W
+Pentium M 715,1 ,1500 MHz,90 nm,N/A,21 W
+Pentium M 725,1 ,1600 MHz,90 nm,N/A,21 W
+Pentium M 735,1 ,1700 MHz,90 nm,N/A,21 W
+Pentium M 745,1 ,1800 MHz,90 nm,N/A,21 W
+Pentium M 755,1 ,2000 MHz,90 nm,N/A,21 W
+Pentium M 765,1 ,2.1 GHz,90 nm,N/A,21 W
+Xeon 2.8,1 ,2.8 GHz,90 nm,N/A,135 W
+Xeon 3.0,1 ,3 GHz,90 nm,N/A,135 W
+Xeon 3.2,1 ,3.2 GHz,90 nm,N/A,135 W
+Xeon 3.20,1 ,3.2 GHz,130 nm,2MB,97 W
+Xeon 3.4,1 ,3.4 GHz,90 nm,N/A,135 W
+Xeon 3.6,1 ,3.6 GHz,90 nm,N/A,135 W
+Xeon MP 3.0,1  / 2,3 GHz,130 nm,4MB,85 W
+Celeron D 350,1 ,3.2 GHz,90 nm,N/A,84 W
+Core Duo T2050,2 ,1600 MHz,65 nm,N/A,31 W
+Mobile Pentium 4 HT 552,1  / 2,3.467 GHz,90 nm,N/A,88 W
+Pentium 4 506,1 ,2.66 GHz,90 nm,N/A,84 W
+Pentium 4 506,1 ,2.66 GHz,90 nm,N/A,84 W
+Pentium 4 506,1 ,2.66 GHz,90 nm,N/A,84 W
+Pentium 4 511,1 ,2.8 GHz,90 nm,N/A,84 W
+Pentium 4 511,1 ,2.8 GHz,90 nm,N/A,84 W
+Pentium 4 511,1 ,2.8 GHz,90 nm,N/A,84 W
+Pentium 4 519K,1 ,3.06 GHz,90 nm,N/A,84 W
+Pentium 4 519K,1 ,3.06 GHz,90 nm,N/A,84 W
+Pentium 4 HT 521,1  / 2,2.8 GHz,90 nm,N/A,84 W
+Pentium 4 HT 531,1  / 2,3 GHz,90 nm,N/A,84 W
+Pentium 4 HT 541,1  / 2,3.2 GHz,90 nm,N/A,84 W
+Pentium 4 HT 551,1  / 2,3.4 GHz,90 nm,N/A,115 W
+Pentium 4 HT 561,1  / 2,3.6 GHz,90 nm,N/A,115 W
+Pentium 4 HT 571,1  / 2,3.8 GHz,90 nm,N/A,115 W
+Pentium 4 HT 620,1  / 2,2.8 GHz,90 nm,N/A,84 W
+Pentium 4 HT 630,1  / 2,3 GHz,90 nm,N/A,84 W
+Pentium 4 HT 640,1  / 2,3.2 GHz,90 nm,N/A,84 W
+Pentium 4 HT 650,1  / 2,3.4 GHz,90 nm,N/A,84 W
+Pentium 4 HT 660,1  / 2,3.6 GHz,90 nm,N/A,84 W
+Pentium 4 HT 662,1  / 2,3.6 GHz,90 nm,N/A,84 W
+Pentium 4 HT 670,1  / 2,3.8 GHz,90 nm,N/A,84 W
+Pentium 4 HT 672,1  / 2,3.8 GHz,90 nm,N/A,84 W
+Pentium 4 HT EE 3.73,1  / 2,3.733 GHz,90 nm,N/A,115 W
+Pentium D 820,2 ,2.8 GHz,90 nm,N/A,130 W
+Pentium D 820,2 ,2.8 GHz,90 nm,N/A,130 W
+Pentium D 830,2 ,3 GHz,90 nm,N/A,130 W
+Pentium D 840,2 ,3.2 GHz,90 nm,N/A,130 W
+Pentium D 840 EE,2  / 4,3.2 GHz,90 nm,N/A,130 W
+Pentium M 730,1 ,1600 MHz,90 nm,N/A,27 W
+Pentium M 740,1 ,1730 MHz,90 nm,N/A,27 W
+Pentium M 750,1 ,1860 MHz,90 nm,N/A,27 W
+Pentium M 760,1 ,2000 MHz,90 nm,N/A,27 W
+Pentium M 770,1 ,2.13 GHz,90 nm,N/A,27 W
+Pentium M 780,1 ,2.26 GHz,90 nm,N/A,27 W
+Xeon 2.8,2 ,2.8 GHz,90 nm,N/A,135 W
+Xeon 3.0,1 ,3 GHz,90 nm,N/A,135 W
+Xeon 3.2,1 ,3.2 GHz,90 nm,N/A,135 W
+Xeon 3.4,1 ,3.4 GHz,90 nm,N/A,135 W
+Xeon 3.6,1 ,3.6 GHz,90 nm,N/A,135 W
+Xeon MP 2.83,1 ,2.833 GHz,90 nm,4MB,129 W
+Xeon MP 2.83,1 ,2.833 GHz,90 nm,8MB,135 W
+Xeon MP 3.00,1 ,3 GHz,90 nm,4MB,135 W
+Xeon MP 3.00,1 ,3 GHz,90 nm,8MB,135 W
+Xeon MP 3.16,1 ,3.167 GHz,90 nm,4MB,135 W
+Xeon MP 3.16,1 ,3.167 GHz,90 nm,8MB,135 W
+Xeon MP 3.16,1 ,3.167 GHz,90 nm,N/A,135 W
+Xeon MP 3.33,1 ,3.334 GHz,90 nm,N/A,135 W
+Xeon MP 3.33,1 ,3.333 GHz,90 nm,8MB,135 W
+Xeon MP 3.33,1 ,3.333 GHz,90 nm,4MB,135 W
+Xeon MP 3.50,1 ,3.5 GHz,90 nm,N/A,135 W
+Xeon MP 3.66,1 ,3.667 GHz,90 nm,N/A,135 W
+Xeon MP 7020 Dual-Core,2 ,2.667 GHz,90 nm,N/A,135 W
+Xeon MP 7030 Dual-Core,2 ,2.8 GHz,90 nm,N/A,135 W
+Xeon MP 7030 Dual-Core,2 ,2.833 GHz,90 nm,N/A,135 W
+Xeon MP 7040 Dual-Core,2 ,3 GHz,90 nm,N/A,135 W
+Xeon MP 7041 Dual-Core,2 ,3 GHz,90 nm,N/A,135 W
+Celeron 2.0,1 ,2000 MHz,130 nm,N/A,73 W
+Celeron 2.0,1 ,2000 MHz,130 nm,N/A,73 W
+Celeron 2.10,1 ,2.1 GHz,130 nm,N/A,73 W
+Celeron 2.20,1 ,2.2 GHz,130 nm,N/A,73 W
+Pentium 4 2.0,1 ,2000 MHz,130 nm,N/A,92 W
+Pentium 4 2.2,1 ,2.2 GHz,130 nm,N/A,92 W
+Pentium 4 2.26,1 ,2.261 GHz,130 nm,N/A,110 W
+Pentium 4 2.4,1 ,2.4 GHz,130 nm,N/A,92 W
+Pentium 4 2.4,1 ,2.4 GHz,130 nm,N/A,110 W
+Pentium 4 2.53,1 ,2.527 GHz,130 nm,N/A,110 W
+Pentium 4 2.60,1 ,2.6 GHz,130 nm,N/A,92 W
+Pentium 4 2.66,1 ,2.66 GHz,130 nm,N/A,110 W
+Pentium 4 2.80,1 ,2.793 GHz,130 nm,N/A,110 W
+Pentium 4-M 1.40,1 ,1400 MHz,130 nm,N/A,21 W
+Pentium 4-M 1.50,1 ,1500 MHz,130 nm,N/A,26 W
+Pentium 4-M 1.60,1 ,1600 MHz,130 nm,N/A,30 W
+Pentium 4-M 1.70,1 ,1700 MHz,130 nm,N/A,30 W
+Pentium 4-M 1.80,1 ,1800 MHz,130 nm,N/A,30 W
+Pentium 4-M 1.90,1 ,1900 MHz,130 nm,N/A,32 W
+Pentium 4-M 2.00,1 ,2000 MHz,130 nm,N/A,32 W
+Pentium 4-M 2.20,1 ,2.2 GHz,130 nm,N/A,35 W
+Pentium III 1400S,1 ,1400 MHz,130 nm,N/A,32 W
+Xeon 2.0,1 ,2000 MHz,130 nm,N/A,89 W
+Xeon 2.4,1 ,2.394 GHz,130 nm,N/A,89 W
+Xeon 2.66,1 ,2.66 GHz,130 nm,N/A,89 W
+Xeon 2.8,1 ,2.79 GHz,130 nm,N/A,89 W
+Athlon 64 3000+,1 ,1800 MHz,90 nm,N/A,62 W
+Athlon 64 3200+,1 ,2000 MHz,90 nm,N/A,62 W
+Athlon 64 3500+,1 ,2.2 GHz,90 nm,N/A,62 W
+Athlon 64 3800+,1 ,2.4 GHz,90 nm,N/A,62 W
+Athlon 64 FX-60,2 ,2.6 GHz,90 nm,N/A,110 W
+Athlon 64 FX-62,2 ,2.8 GHz,90 nm,N/A,125 W
+Athlon 64 FX-70,2 ,2.6 GHz,90 nm,N/A,125 W
+Athlon 64 FX-72,2 ,2.8 GHz,90 nm,N/A,125 W
+Athlon 64 FX-74,2 ,3 GHz,90 nm,N/A,125 W
+Athlon 64 FX-76,2 ,3.2 GHz,90 nm,N/A,125 W
+Athlon 64 X2 3600+,2 ,1900 MHz,65 nm,N/A,65 W
+Athlon 64 X2 3600+ EE,2 ,2000 MHz,90 nm,N/A,65 W
+Athlon 64 X2 3800+,2 ,2000 MHz,90 nm,N/A,89 W
+Athlon 64 X2 3800+ EE,2 ,2000 MHz,90 nm,N/A,65 W
+Athlon 64 X2 3800+ EE SFF,2 ,2000 MHz,90 nm,N/A,35 W
+Athlon 64 X2 4000+,2 ,2.1 GHz,65 nm,N/A,65 W
+Athlon 64 X2 4000+,2 ,2000 MHz,90 nm,N/A,89 W
+Athlon 64 X2 4000+ EE,2 ,2000 MHz,90 nm,N/A,65 W
+Athlon 64 X2 4200+,2 ,2.2 GHz,90 nm,N/A,89 W
+Athlon 64 X2 4200+,2 ,2.2 GHz,90 nm,N/A,89 W
+Athlon 64 X2 4200+,2 ,2.2 GHz,90 nm,N/A,89 W
+Athlon 64 X2 4200+,2 ,2.2 GHz,65 nm,N/A,65 W
+Athlon 64 X2 4200+ EE,2 ,2.2 GHz,90 nm,N/A,65 W
+Athlon 64 X2 4400+,2 ,2.2 GHz,90 nm,N/A,89 W
+Athlon 64 X2 4400+,2 ,2.2 GHz,90 nm,N/A,110 W
+Athlon 64 X2 4400+,2 ,2.3 GHz,65 nm,N/A,65 W
+Athlon 64 X2 4400+ EE,2 ,2.2 GHz,90 nm,N/A,65 W
+Athlon 64 X2 4600+,2 ,2.4 GHz,90 nm,N/A,110 W
+Athlon 64 X2 4600+,2 ,2.4 GHz,90 nm,N/A,89 W
+Athlon 64 X2 4600+,2 ,2.4 GHz,90 nm,N/A,89 W
+Athlon 64 X2 4600+ EE,2 ,2.4 GHz,90 nm,N/A,65 W
+Athlon 64 X2 4800+,2 ,2.4 GHz,90 nm,N/A,89 W
+Athlon 64 X2 4800+,2 ,2.5 GHz,65 nm,N/A,65 W
+Athlon 64 X2 4800+,2 ,2.4 GHz,90 nm,N/A,110 W
+Athlon 64 X2 4800+ EE,2 ,2.4 GHz,90 nm,N/A,65 W
+Athlon 64 X2 5000+,2 ,2.6 GHz,65 nm,N/A,65 W
+Athlon 64 X2 5000+,2 ,2.6 GHz,90 nm,N/A,89 W
+Athlon 64 X2 5000+ EE,2 ,2.6 GHz,90 nm,N/A,65 W
+Athlon 64 X2 5200+,2 ,2.6 GHz,90 nm,N/A,89 W
+Athlon 64 X2 5200+ EE,2 ,2.6 GHz,90 nm,N/A,65 W
+Athlon 64 X2 5400+,2 ,2.8 GHz,90 nm,N/A,89 W
+Athlon 64 X2 5600+,2 ,2.8 GHz,90 nm,N/A,89 W
+Opteron 856,1 ,3 GHz,90 nm,N/A,92 W
+Opteron X2 185,2 ,2.6 GHz,90 nm,N/A,110 W
+Opteron X2 275 HE,2 ,2.2 GHz,90 nm,N/A,55 W
+Opteron X2 285,2 ,2.6 GHz,90 nm,N/A,95 W
+Opteron X2 290,2 ,2.8 GHz,90 nm,N/A,95 W
+Opteron X2 875 HE,2 ,2.2 GHz,90 nm,N/A,55 W
+Opteron X2 885,2 ,2.6 GHz,90 nm,N/A,95 W
+Opteron X2 890,2 ,2.8 GHz,90 nm,N/A,95 W
+Sempron 2800+,1 ,1600 MHz,90 nm,N/A,62 W
+Sempron 3000+,1 ,1600 MHz,90 nm,N/A,62 W
+Sempron 3000+ EE SFF,1 ,1600 MHz,90 nm,N/A,35 W
+Sempron 3200+,1 ,1800 MHz,90 nm,N/A,62 W
+Sempron 3200+ EE SFF,1 ,1800 MHz,90 nm,N/A,35 W
+Sempron 3400+,1 ,2000 MHz,90 nm,N/A,62 W
+Sempron 3400+,1 ,1800 MHz,90 nm,N/A,62 W
+Sempron 3400+,1 ,2000 MHz,90 nm,N/A,25 W
+Sempron 3400+ EE SFF,1 ,1800 MHz,90 nm,N/A,35 W
+Sempron 3500+,1 ,2000 MHz,90 nm,N/A,62 W
+Sempron 3500+ EE SFF,1 ,2000 MHz,90 nm,N/A,35 W
+Sempron 3600+,1 ,2000 MHz,90 nm,N/A,62 W
+Sempron 3600+,1 ,2.2 GHz,90 nm,N/A,62 W
+Sempron 3800+,1 ,2.2 GHz,90 nm,N/A,62 W
+Turion 64 ML-44,1 ,2.4 GHz,90 nm,N/A,35 W
+Turion X2 RM-70,2 ,2000 MHz,65 nm,N/A,31 W
+Athlon 64 1500+,1 ,1000 MHz,90 nm,N/A,9 W
+Athlon 64 3000+,1 ,1800 MHz,130 nm,N/A,62 W
+Athlon 64 3000+,1 ,1800 MHz,90 nm,N/A,67 W
+Athlon 64 3200+,1 ,2000 MHz,90 nm,N/A,67 W
+Athlon 64 3200+,1 ,2000 MHz,130 nm,N/A,83 W
+Athlon 64 3200+,1 ,2000 MHz,130 nm,N/A,62 W
+Athlon 64 3200+,1 ,2000 MHz,90 nm,N/A,67 W
+Athlon 64 3400+,1 ,2.2 GHz,130 nm,N/A,83 W
+Athlon 64 3500+,1 ,2.2 GHz,90 nm,N/A,67 W
+Athlon 64 3500+,1 ,2.2 GHz,90 nm,N/A,67 W
+Athlon 64 3700+,1 ,2.4 GHz,130 nm,N/A,83 W
+Athlon 64 3700+,1 ,2.2 GHz,90 nm,N/A,89 W
+Athlon 64 3800+,1 ,2.4 GHz,90 nm,N/A,89 W
+Athlon 64 4000+,1 ,2.6 GHz,130 nm,N/A,62 W
+Athlon 64 FX-57,1 ,2.8 GHz,90 nm,N/A,104 W
+Athlon 64 X2 3800+,2 ,2000 MHz,90 nm,N/A,89 W
+Athlon 64 X2 3800+,2 ,2000 MHz,90 nm,N/A,89 W
+Mobile Athlon 64 2700+,1 ,1600 MHz,130 nm,N/A,35 W
+Mobile Athlon 64 2700+,1 ,1600 MHz,130 nm,N/A,35 W
+Mobile Athlon 64 3400+,1 ,2.2 GHz,130 nm,N/A,62 W
+Mobile Athlon 64 3400+,1 ,2.2 GHz,130 nm,N/A,82 W
+Mobile Athlon 64 3700+,1 ,2.4 GHz,130 nm,N/A,82 W
+Opteron 144,1 ,1800 MHz,90 nm,N/A,67 W
+Opteron 144,1 ,1800 MHz,90 nm,N/A,67 W
+Opteron 146,1 ,2000 MHz,90 nm,N/A,67 W
+Opteron 146,1 ,2000 MHz,90 nm,N/A,67 W
+Opteron 146,1 ,2000 MHz,90 nm,N/A,67 W
+Opteron 148,1 ,2.2 GHz,90 nm,N/A,85 W
+Opteron 148,1 ,2.2 GHz,90 nm,N/A,85 W
+Opteron 150,1 ,2.4 GHz,90 nm,N/A,85 W
+Opteron 150,1 ,2.4 GHz,90 nm,N/A,85 W
+Opteron 152,1 ,2.6 GHz,90 nm,N/A,104 W
+Opteron 152,1 ,2.6 GHz,90 nm,N/A,104 W
+Opteron 154,1 ,2.8 GHz,90 nm,N/A,104 W
+Opteron 156,1 ,3 GHz,90 nm,N/A,104 W
+Opteron 246 HE,1 ,2000 MHz,90 nm,N/A,55 W
+Opteron 248 HE,1 ,2.2 GHz,90 nm,N/A,55 W
+Opteron 250 HE,1 ,2.4 GHz,90 nm,N/A,55 W
+Opteron 252,1 ,2.6 GHz,90 nm,N/A,92 W
+Opteron 254,1 ,2.8 GHz,90 nm,N/A,92 W
+Opteron 846 HE,1 ,2000 MHz,90 nm,N/A,55 W
+Opteron 848 HE,1 ,2.2 GHz,90 nm,N/A,55 W
+Opteron 850 HE,1 ,2.4 GHz,90 nm,N/A,55 W
+Opteron 852,1 ,2.6 GHz,90 nm,N/A,92 W
+Opteron 854,1 ,2.8 GHz,90 nm,N/A,92 W
+Opteron X2 165,2 ,1800 MHz,90 nm,N/A,110 W
+Opteron X2 170,2 ,2000 MHz,90 nm,N/A,110 W
+Opteron X2 175,2 ,2.2 GHz,90 nm,N/A,110 W
+Opteron X2 180,2 ,2.4 GHz,90 nm,N/A,110 W
+Opteron X2 260 HE,2 ,1600 MHz,90 nm,N/A,55 W
+Opteron X2 265,2 ,1800 MHz,90 nm,N/A,95 W
+Opteron X2 265 HE,2 ,1800 MHz,90 nm,N/A,55 W
+Opteron X2 270,2 ,2000 MHz,90 nm,N/A,95 W
+Opteron X2 270 HE,2 ,2000 MHz,90 nm,N/A,55 W
+Opteron X2 275,2 ,2.2 GHz,90 nm,N/A,95 W
+Opteron X2 280,2 ,2.4 GHz,90 nm,N/A,95 W
+Opteron X2 860 HE,2 ,1600 MHz,90 nm,N/A,55 W
+Opteron X2 865,2 ,1800 MHz,90 nm,N/A,95 W
+Opteron X2 865 HE,2 ,1800 MHz,90 nm,N/A,55 W
+Opteron X2 870,2 ,2000 MHz,90 nm,N/A,95 W
+Opteron X2 870 HE,2 ,2000 MHz,90 nm,N/A,55 W
+Opteron X2 875,2 ,2.2 GHz,90 nm,N/A,95 W
+Opteron X2 880,2 ,2.4 GHz,90 nm,N/A,95 W
+Sempron 2500+,1 ,1400 MHz,90 nm,N/A,62 W
+Sempron 2800+,1 ,1600 MHz,90 nm,N/A,25 W
+Sempron 3000+,1 ,1800 MHz,130 nm,N/A,62 W
+Sempron 3000+,1 ,1800 MHz,90 nm,N/A,62 W
+Sempron 3000+,1 ,1800 MHz,90 nm,N/A,25 W
+Sempron 3000+,1 ,1800 MHz,90 nm,N/A,62 W
+Sempron 3000+,1 ,1800 MHz,90 nm,N/A,62 W
+Sempron 3100+,1 ,1800 MHz,90 nm,N/A,62 W
+Sempron 3100+,1 ,1800 MHz,90 nm,N/A,25 W
+Sempron 3100+,1 ,1800 MHz,90 nm,N/A,62 W
+Sempron 3100+,1 ,1800 MHz,90 nm,N/A,25 W
+Sempron 3100+,1 ,1800 MHz,90 nm,N/A,62 W
+Sempron 3200+,1 ,1800 MHz,90 nm,N/A,62 W
+Sempron 3300+,1 ,2000 MHz,90 nm,N/A,62 W
+Sempron 3300+,1 ,2000 MHz,90 nm,N/A,25 W
+Sempron 3300+,1 ,2000 MHz,90 nm,N/A,62 W
+Sempron 3300+,1 ,2000 MHz,90 nm,N/A,62 W
+Sempron 3400+,1 ,2000 MHz,90 nm,N/A,62 W
+Sempron 3400+,1 ,2000 MHz,90 nm,N/A,62 W
+Sempron 3500+,1 ,2000 MHz,90 nm,N/A,62 W
+Turion 64 ML-28,1 ,1600 MHz,90 nm,N/A,32 W
+Turion 64 ML-30,1 ,1600 MHz,90 nm,N/A,35 W
+Turion 64 ML-32,1 ,1800 MHz,90 nm,N/A,35 W
+Turion 64 ML-34,1 ,1800 MHz,90 nm,N/A,35 W
+Turion 64 ML-37,1 ,2000 MHz,90 nm,N/A,35 W
+Turion 64 ML-40,1 ,2.2 GHz,90 nm,N/A,35 W
+Turion 64 ML-42,1 ,2.4 GHz,90 nm,N/A,35 W
+Turion 64 MT-28,1 ,1600 MHz,90 nm,N/A,22 W
+Turion 64 MT-30,1 ,1600 MHz,90 nm,N/A,22 W
+Turion 64 MT-32,1 ,1800 MHz,90 nm,N/A,25 W
+Turion 64 MT-34,1 ,1800 MHz,90 nm,N/A,25 W
+Turion 64 MT-37,1 ,2000 MHz,90 nm,N/A,25 W
+Turion 64 MT-40,1 ,2.2 GHz,90 nm,N/A,25 W
+A100,1 ,600 MHz,90 nm,N/A,3 W
+A110,1 ,800 MHz,90 nm,N/A,3 W
+Celeron 220,1 ,1200 MHz,65 nm,N/A,19 W
+Celeron 420,1 ,1600 MHz,65 nm,N/A,35 W
+Celeron 430,1 ,1800 MHz,65 nm,N/A,35 W
+Celeron 440,1 ,2000 MHz,65 nm,N/A,35 W
+Core 2 Duo E4400,2 ,2000 MHz,65 nm,N/A,65 W
+Core 2 Duo E4500,2 ,2.2 GHz,65 nm,N/A,65 W
+Core 2 Duo E4600,2 ,2.4 GHz,65 nm,N/A,65 W
+Core 2 Duo E6320,2 ,1860 MHz,65 nm,N/A,65 W
+Core 2 Duo E6420,2 ,2.133 GHz,65 nm,N/A,65 W
+Core 2 Duo E6550,2 ,2.333 GHz,65 nm,N/A,65 W
+Core 2 Duo E6750,2 ,2.667 GHz,65 nm,N/A,65 W
+Core 2 Duo E6850,2 ,3 GHz,65 nm,N/A,75 W
+Core 2 Duo T7100,2 ,1800 MHz,65 nm,N/A,35 W
+Core 2 Duo T7250,2 ,2000 MHz,65 nm,N/A,35 W
+Core 2 Duo T7500,2 ,2.2 GHz,65 nm,N/A,35 W
+Core 2 Duo T7700,2 ,2.4 GHz,65 nm,N/A,35 W
+Core 2 Duo T7800,2 ,2.6 GHz,65 nm,N/A,35 W
+Core 2 Duo U7500,2 ,1073 MHz,65 nm,N/A,10 W
+Core 2 Duo U7600,2 ,1200 MHz,65 nm,N/A,10 W
+Core 2 Duo U7600,2 ,1200 MHz,65 nm,N/A,10 W
+Core 2 Duo U7700,2 ,1333 MHz,65 nm,N/A,10 W
+Core 2 Extreme QX6800,4 ,2.933 GHz,65 nm,N/A,130 W
+Core 2 Extreme QX6850,4 ,3 GHz,65 nm,N/A,130 W
+Core 2 Extreme QX9650,4 ,3 GHz,45 nm,N/A,130 W
+Core 2 Extreme X7900,2 ,2.8 GHz,65 nm,N/A,44 W
+Core 2 Quad Q6600 (105W),4 ,2.4 GHz,65 nm,N/A,105 W
+Core 2 Quad Q6600 (95W),4 ,2.4 GHz,65 nm,N/A,95 W
+Core 2 Quad Q6700,4 ,2.666 GHz,65 nm,N/A,95 W
+Core 2 Solo ULV U2100,1 ,1067 MHz,65 nm,N/A,5 W
+Core 2 Solo ULV U2200,1 ,1200 MHz,65 nm,N/A,5 W
+Pentium D 935,2 ,3.2 GHz,65 nm,N/A,95 W
+Pentium Dual-Core E2140,2 ,1600 MHz,65 nm,N/A,65 W
+Pentium Dual-Core E2160,2 ,1800 MHz,65 nm,N/A,65 W
+Pentium Dual-Core E2180,2 ,2000 MHz,65 nm,N/A,65 W
+Pentium Dual-Core E2200,2 ,2.2 GHz,65 nm,N/A,65 W
+Atom 230,1  / 2,1600 MHz,45 nm,N/A,4 W
+Atom 330,2  / 4,1600 MHz,45 nm,N/A,8 W
+Atom N270,1  / 2,1600 MHz,45 nm,N/A,3 W
+Atom N280,1  / 2,1667 MHz,45 nm,N/A,3 W
+Atom Z500,1 ,800 MHz,45 nm,N/A,1 W
+Atom Z510,1 ,1100 MHz,45 nm,N/A,2 W
+Atom Z520,1  / 2,1334 MHz,45 nm,N/A,2 W
+Atom Z530,1  / 2,1600 MHz,45 nm,N/A,2 W
+Atom Z540,1  / 2,1867 MHz,45 nm,N/A,2 W
+Celeron 445,1 ,1866 MHz,65 nm,N/A,65 W
+Celeron 450,1 ,2.2 GHz,65 nm,N/A,35 W
+Celeron E1200,2 ,1600 MHz,65 nm,N/A,65 W
+Celeron E1400,2 ,2000 MHz,65 nm,N/A,65 W
+Celeron E1500,2 ,2.2 GHz,65 nm,N/A,65 W
+Core 2 Duo E4700,2 ,2.6 GHz,65 nm,N/A,65 W
+Core 2 Duo E7200,2 ,2.533 GHz,45 nm,N/A,65 W
+Core 2 Duo E7300,2 ,2.667 GHz,45 nm,N/A,65 W
+Core 2 Duo E7400,2 ,2.8 GHz,45 nm,N/A,65 W
+Core 2 Duo E8190,2 ,2.667 GHz,45 nm,N/A,65 W
+Core 2 Duo E8200,2 ,2.667 GHz,45 nm,N/A,65 W
+Core 2 Duo E8300,2 ,2.833 GHz,45 nm,N/A,65 W
+Core 2 Duo E8400,2 ,3 GHz,45 nm,N/A,65 W
+Core 2 Duo E8500,2 ,3.166 GHz,45 nm,N/A,65 W
+Core 2 Duo E8600,2 ,3.333 GHz,45 nm,N/A,65 W
+Core 2 Duo P8400,2 ,2.267 GHz,45 nm,N/A,25 W
+Core 2 Duo P8600,2 ,2.4 GHz,45 nm,N/A,25 W
+Core 2 Duo P8700,2 ,2.533 GHz,45 nm,N/A,25 W
+Core 2 Duo P8800,2 ,2.667 GHz,45 nm,N/A,25 W
+Core 2 Duo P9500,2 ,2.533 GHz,45 nm,N/A,25 W
+Core 2 Duo P9600,2 ,2.667 GHz,45 nm,N/A,25 W
+Core 2 Duo T8100,2 ,2.1 GHz,45 nm,N/A,35 W
+Core 2 Duo T8300,2 ,2.4 GHz,45 nm,N/A,35 W
+Core 2 Duo T9300,2 ,2.5 GHz,45 nm,N/A,35 W
+Core 2 Duo T9400,2 ,2.533 GHz,45 nm,N/A,35 W
+Core 2 Duo T9500,2 ,2.6 GHz,45 nm,N/A,35 W
+Core 2 Duo T9550,2 ,2.667 GHz,45 nm,N/A,35 W
+Core 2 Duo T9600,2 ,2.8 GHz,45 nm,N/A,35 W
+Core 2 Duo T9800,2 ,2.933 GHz,45 nm,N/A,35 W
+Core 2 Duo U7500,2 ,1073 MHz,65 nm,N/A,10 W
+Core 2 Duo U7700,2 ,1333 MHz,65 nm,N/A,10 W
+Core 2 Extreme QX9300,4 ,2.534 GHz,45 nm,N/A,45 W
+Core 2 Extreme QX9770,4 ,3.2 GHz,45 nm,N/A,136 W
+Core 2 Extreme QX9775,4 ,3.2 GHz,45 nm,N/A,150 W
+Core 2 Extreme X9000,2 ,2.8 GHz,45 nm,N/A,44 W
+Core 2 Extreme X9100,2 ,3.067 GHz,45 nm,N/A,44 W
+Core 2 Quad Q8200,4 ,2.333 GHz,45 nm,N/A,95 W
+Core 2 Quad Q8300,4 ,2.5 GHz,45 nm,N/A,95 W
+Core 2 Quad Q9100,4 ,2.267 GHz,45 nm,N/A,45 W
+Core 2 Quad Q9300,4 ,2.5 GHz,45 nm,N/A,95 W
+Core 2 Quad Q9400,4 ,2.666 GHz,45 nm,N/A,95 W
+Core 2 Quad Q9450,4 ,2.666 GHz,45 nm,N/A,95 W
+Core 2 Quad Q9550,4 ,2.833 GHz,45 nm,N/A,95 W
+Core 2 Quad Q9650,4 ,3 GHz,45 nm,N/A,95 W
+Core 2 Solo ULV SU3300,1 ,1200 MHz,45 nm,N/A,5 W
+Core i7-920,4  / 8,2.666 to 2.933 GHz,45 nm,8MB,130 W
+Core i7-940,4  / 8,2.933 to 3.2 GHz,45 nm,8MB,130 W
+Core i7-965,4  / 8,3.2 to 3.466 GHz,45 nm,8MB,130 W
+Pentium Dual-Core E2220,2 ,2.4 GHz,65 nm,N/A,65 W
+Pentium E5200,2 ,2.5 GHz,45 nm,N/A,65 W
+Pentium E5300,2 ,2.6 GHz,45 nm,N/A,65 W
+Celeron D 352,1 ,3.2 GHz,65 nm,N/A,84 W
+Core 2 Duo E4300,2 ,1800 MHz,65 nm,N/A,65 W
+Core 2 Duo E6300,2 ,1866 MHz,65 nm,N/A,65 W
+Core 2 Duo E6400,2 ,2.133 GHz,65 nm,N/A,65 W
+Core 2 Duo E6600,2 ,2.4 GHz,65 nm,N/A,65 W
+Core 2 Duo E6700,2 ,2.667 GHz,65 nm,N/A,65 W
+Core 2 Duo T5200,2 ,1600 MHz,65 nm,N/A,35 W
+Core 2 Duo T5500,2 ,1667 MHz,65 nm,N/A,35 W
+Core 2 Duo T5600,2 ,1833 MHz,65 nm,N/A,35 W
+Core 2 Duo T7200,2 ,2000 MHz,65 nm,N/A,35 W
+Core 2 Duo T7300,2 ,2000 MHz,65 nm,N/A,35 W
+Core 2 Duo T7400,2 ,2.166 GHz,65 nm,N/A,35 W
+Core 2 Duo T7600,2 ,2.333 GHz,65 nm,N/A,35 W
+Core 2 Duo T7600G,2 ,2.333 GHz,65 nm,N/A,35 W
+Core 2 Extreme QX6700,4 ,2.666 GHz,65 nm,N/A,130 W
+Core 2 Extreme X6800,2 ,2.933 GHz,65 nm,N/A,75 W
+Core Duo LV L2300,2 ,1500 MHz,65 nm,N/A,15 W
+Core Duo LV L2400,2 ,1666 MHz,65 nm,N/A,15 W
+Core Duo LV L2500,2 ,1833 MHz,65 nm,N/A,15 W
+Core Duo T2250,2 ,1733 MHz,65 nm,N/A,31 W
+Core Duo T2300,2 ,1660 MHz,65 nm,N/A,31 W
+Core Duo T2400,2 ,1826 MHz,65 nm,N/A,31 W
+Core Duo T2500,2 ,1992 MHz,65 nm,N/A,31 W
+Core Duo T2600,2 ,2.166 GHz,65 nm,N/A,31 W
+Core Duo T2700,2 ,2.333 GHz,65 nm,N/A,31 W
+Core Duo ULV L2400,2 ,1066 MHz,65 nm,N/A,9 W
+Core Duo ULV L2500,2 ,1200 MHz,65 nm,N/A,9 W
+Core Solo T1200,1 ,1500 MHz,65 nm,N/A,27 W
+Core Solo T1300,1 ,1660 MHz,65 nm,N/A,27 W
+Core Solo T1350,1 ,1866 MHz,65 nm,N/A,27 W
+Core Solo T1400,1 ,1833 MHz,65 nm,N/A,27 W
+Core Solo ULV U1300,1 ,1066 MHz,65 nm,N/A,5 W
+Core Solo ULV U1400,1 ,1200 MHz,65 nm,N/A,5 W
+Core Solo ULV U1500,1 ,1333 MHz,65 nm,N/A,5 W
+Pentium 4 HT 524,1  / 2,3.06 GHz,90 nm,N/A,84 W
+Pentium 4 HT 631,1  / 2,3 GHz,65 nm,N/A,86 W
+Pentium 4 HT 641,1  / 2,3.2 GHz,65 nm,N/A,86 W
+Pentium 4 HT 651,1  / 2,3.4 GHz,65 nm,N/A,86 W
+Pentium 4 HT 661,1  / 2,3.6 GHz,65 nm,N/A,86 W
+Pentium D 915,2 ,2.8 GHz,65 nm,N/A,95 W
+Pentium D 920,2 ,2.8 GHz,65 nm,N/A,130 W
+Pentium D 925,2 ,3 GHz,65 nm,N/A,95 W
+Pentium D 930,2 ,3 GHz,65 nm,N/A,130 W
+Pentium D 940,2 ,3.2 GHz,65 nm,N/A,130 W
+Pentium D 945,2 ,3.4 GHz,65 nm,N/A,95 W
+Pentium D 950,2 ,3.4 GHz,65 nm,N/A,130 W
+Pentium D 955 EE,2  / 4,3.46 GHz,65 nm,N/A,130 W
+Pentium D 960,2 ,3.6 GHz,65 nm,N/A,130 W
+Pentium D 965 EE,2  / 4,3.73 GHz,65 nm,N/A,130 W
+Xeon 5020,2  / 4,2.5 GHz,65 nm,N/A,95 W
+Xeon 5030,2  / 4,2.667 GHz,65 nm,N/A,95 W
+Xeon 5040,2  / 4,2.83 GHz,65 nm,N/A,95 W
+Xeon 5050,2  / 4,3 GHz,65 nm,N/A,95 W
+Xeon 5060,2  / 4,3.2 GHz,65 nm,N/A,130 W
+Xeon 5063,2  / 4,3.2 GHz,65 nm,N/A,95 W
+Xeon 5080,2  / 4,3.73 GHz,65 nm,N/A,130 W
+Xeon 5110,2 ,1600 MHz,65 nm,N/A,65 W
+Xeon 5120,2 ,1866 MHz,65 nm,N/A,65 W
+Xeon 5130,2 ,2000 MHz,65 nm,N/A,65 W
+Xeon 5140,2 ,2.333 GHz,65 nm,N/A,65 W
+Xeon 5148,2 ,2.333 GHz,65 nm,N/A,40 W
+Xeon 5150,2 ,2.666 GHz,65 nm,N/A,65 W
+Xeon 5160,2 ,3 GHz,65 nm,N/A,80 W
+Xeon 7110M,2  / 4,2.6 GHz,65 nm,4MB,95 W
+Xeon 7110N,2  / 4,2.5 GHz,65 nm,4MB,95 W
+Xeon 7120M,2  / 4,3 GHz,65 nm,4MB,95 W
+Xeon 7120N,2  / 4,3 GHz,65 nm,4MB,95 W
+Xeon 7130M,2  / 4,3.2 GHz,65 nm,8MB,150 W
+Xeon 7130N,2  / 4,3.166 GHz,65 nm,8MB,150 W
+Xeon 7140M,2  / 4,3.4 GHz,65 nm,16MB,150 W
+Xeon 7140N,2  / 4,3.333 GHz,65 nm,16MB,150 W
+Xeon 7150N,2  / 4,3.5 GHz,65 nm,16MB,150 W
+Athlon 64 3200+,1 ,2000 MHz,65 nm,N/A,45 W
+Athlon 64 3500+,1 ,2.2 GHz,90 nm,N/A,62 W
+Athlon 64 3500+,1 ,2.2 GHz,65 nm,N/A,45 W
+Athlon 64 3500+ (F3),1 ,2.2 GHz,90 nm,N/A,59 W
+Athlon 64 3500+ EE,1 ,2.2 GHz,90 nm,N/A,35 W
+Athlon 64 3800+,1 ,2.4 GHz,65 nm,N/A,45 W
+Athlon 64 3800+,1 ,2.4 GHz,90 nm,N/A,62 W
+Athlon 64 3800+ (F3),1 ,2.4 GHz,90 nm,N/A,59 W
+Athlon 64 4000+,1 ,2.6 GHz,90 nm,N/A,62 W
+Athlon 64 4000+ (F3),1 ,2.6 GHz,90 nm,N/A,59 W
+Athlon 64 LE-1600,1 ,2.2 GHz,90 nm,N/A,45 W
+Athlon 64 LE-1600,1 ,2.2 GHz,90 nm,N/A,45 W
+Athlon 64 LE-1620,1 ,2.4 GHz,90 nm,N/A,45 W
+Athlon 64 LE-1620,1 ,2.4 GHz,90 nm,N/A,45 W
+Athlon 64 LE-1640,1 ,2.6 GHz,90 nm,N/A,45 W
+Athlon 64 X2 5000+ BE,2 ,2.6 GHz,65 nm,N/A,65 W
+Athlon 64 X2 5000+ EE,2 ,2.6 GHz,90 nm,N/A,65 W
+Athlon 64 X2 5200+,2 ,2.7 GHz,65 nm,N/A,65 W
+Athlon 64 X2 6000+,2 ,3 GHz,90 nm,N/A,125 W
+Athlon 64 X2 6000+,2 ,3.1 GHz,65 nm,N/A,89 W
+Athlon 64 X2 6400+ BE,2 ,3.2 GHz,90 nm,N/A,125 W
+Athlon X2 BE-2300,2 ,1900 MHz,65 nm,N/A,45 W
+Athlon X2 BE-2350,2 ,2.1 GHz,65 nm,N/A,45 W
+Athlon X2 BE-2400,2 ,2.3 GHz,65 nm,N/A,45 W
+Phenom X4 9500,4 ,2.2 GHz,65 nm,2MB,95 W
+Phenom X4 9600,4 ,2.3 GHz,65 nm,2MB,95 W
+Phenom X4 9600 BE,4 ,2.3 GHz,65 nm,2MB,95 W
+Sempron LE-1100,1 ,1900 MHz,65 nm,N/A,45 W
+Sempron LE-1150,1 ,2000 MHz,65 nm,N/A,45 W
+Sempron LE-1200,1 ,2.1 GHz,65 nm,N/A,45 W
+Sempron LE-1250,1 ,2.2 GHz,65 nm,N/A,45 W
+Sempron LE-1300,1 ,2.3 GHz,65 nm,N/A,45 W
+Atom D410,1  / 2,1667 MHz,45 nm,N/A,10 W
+Atom D425,1  / 2,1834 MHz,45 nm,N/A,10 W
+Atom D525,2  / 4,1834 MHz,45 nm,N/A,13 W
+Atom E620,1  / 2,600 MHz,45 nm,N/A,3 W
+Atom E620T,1  / 2,600 MHz,45 nm,N/A,3 W
+Atom E625C,1  / 2,600 MHz,45 nm,N/A,3 W
+Atom E625CT,1  / 2,600 MHz,45 nm,N/A,3 W
+Atom E640,1  / 2,1000 MHz,45 nm,N/A,3 W
+Atom E640T,1  / 2,1000 MHz,45 nm,N/A,3 W
+Atom E645C,1  / 2,1000 MHz,45 nm,N/A,4 W
+Atom E645CT,1  / 2,1000 MHz,45 nm,N/A,4 W
+Atom E660,1  / 2,1300 MHz,45 nm,N/A,3 W
+Atom E660T,1  / 2,1300 MHz,45 nm,N/A,3 W
+Atom E665C,1  / 2,1300 MHz,45 nm,N/A,4 W
+Atom E665CT,1  / 2,1300 MHz,45 nm,N/A,7 W
+Atom E680,1  / 2,1600 MHz,45 nm,N/A,4 W
+Atom E680T,1  / 2,1600 MHz,45 nm,N/A,4 W
+Atom N455,1  / 2,1667 MHz,45 nm,N/A,7 W
+Atom N470,1  / 2,1834 MHz,45 nm,N/A,7 W
+Atom N475,1  / 2,1834 MHz,45 nm,N/A,7 W
+Atom N550,2  / 4,1500 MHz,45 nm,N/A,9 W
+Atom Z560,1  / 2,2.133 GHz,45 nm,N/A,2 W
+Atom Z600,1 ,1200 MHz,45 nm,N/A,1 W
+Atom Z605,1 ,1000 MHz,45 nm,N/A,2 W
+Atom Z610,1 ,800 MHz,45 nm,N/A,1 W
+Atom Z612,1 ,900 MHz,45 nm,N/A,1 W
+Atom Z615,1 ,1600 MHz,45 nm,N/A,2 W
+Atom Z620,1 ,900 MHz,45 nm,N/A,1 W
+Atom Z625,1 ,1900 MHz,45 nm,N/A,2 W
+Aubrey Isle,32  / 128,1200 MHz,45 nm,N/A,300 W
+Celeron E3400,2 ,2.6 GHz,45 nm,N/A,65 W
+Celeron E3500,2 ,2.7 GHz,45 nm,N/A,65 W
+Celeron G1101,2 ,2.266 GHz,32 nm,2MB,73 W
+Celeron P1053,1  / 2,1333 MHz,45 nm,2MB,30 W
+Core i3-350M,2  / 4,2.267 GHz,32 nm,3MB,35 W
+Core i3-370M,2  / 4,2.4 GHz,32 nm,3MB,35 W
+Core i3-380M,2  / 4,2.534 GHz,32 nm,3MB,35 W
+Core i3-530,2  / 4,2.933 GHz,32 nm,4MB,73 W
+Core i3-540,2  / 4,3.066 GHz,32 nm,4MB,73 W
+Core i3-550,2  / 4,3.2 GHz,32 nm,4MB,73 W
+Core i3-560,2  / 4,3.333 GHz,32 nm,4MB,73 W
+Core i5-430M,2  / 4,2.267 to 2.534 GHz,32 nm,3MB,35 W
+Core i5-450M,2  / 4,2.4 to 2.666 GHz,32 nm,3MB,35 W
+Core i5-460M,2  / 4,2.534 to 2.8 GHz,32 nm,3MB,35 W
+Core i5-540M,2  / 4,2.533 to 3.073 GHz,32 nm,3MB,35 W
+Core i5-560M,2  / 4,2.667 to 3.2 GHz,32 nm,3MB,35 W
+Core i5-580M,2  / 4,2.667 to 3.333 GHz,32 nm,3MB,35 W
+Core i5-650,2  / 4,3.2 to 3.466 GHz,32 nm,4MB,73 W
+Core i5-655K,2  / 4,3.2 to 3.466 GHz,32 nm,4MB,73 W
+Core i5-660,2  / 4,3.333 to 3.6 GHz,32 nm,4MB,73 W
+Core i5-661,2  / 4,3.333 to 3.6 GHz,32 nm,4MB,87 W
+Core i5-670,2  / 4,3.466 to 3.733 GHz,32 nm,4MB,73 W
+Core i5-680,2  / 4,3.6 to 3.866 GHz,32 nm,4MB,73 W
+Core i5-750s,4 ,2.4 to 3.2 GHz,45 nm,8MB,82 W
+Core i5-760,4 ,2.8 to 3.333 GHz,45 nm,8MB,95 W
+Core i7-620M,2  / 4,2.677 to 3.333 GHz,32 nm,4MB,35 W
+Core i7-620M,2  / 4,2.677 to 3.333 GHz,32 nm,4MB,35 W
+Core i7-640M,2  / 4,2.8 to 3.467 GHz,32 nm,4MB,35 W
+Core i7-640M,2  / 4,2.8 to 3.467 GHz,32 nm,4MB,35 W
+Core i7-860S,4  / 8,2.533 to 3.466 GHz,45 nm,8MB,82 W
+Core i7-870S,4  / 8,2.666 to 3.6 GHz,45 nm,8MB,82 W
+Core i7-875K,4  / 8,2.933 to 3.6 GHz,45 nm,8MB,95 W
+Core i7-880,4  / 8,3.066 to 3.733 GHz,45 nm,8MB,95 W
+Core i7-930,4  / 8,2.8 to 3.066 GHz,45 nm,8MB,130 W
+Core i7-970,6  / 12,3.2 to 3.466 GHz,32 nm,12MB,130 W
+Core i7-980X,6  / 12,3.333 to 3.6 GHz,32 nm,12MB,130 W
+Pentium Dual-Core T4500,2 ,2.3 GHz,45 nm,N/A,35 W
+Pentium E5500,2 ,2.8 GHz,45 nm,N/A,65 W
+Pentium E5700,2 ,3 GHz,45 nm,N/A,65 W
+Pentium E5800,2 ,3.2 GHz,45 nm,N/A,65 W
+Pentium E6600,2 ,3.067 GHz,45 nm,N/A,65 W
+Pentium E6700,2 ,3.2 GHz,45 nm,N/A,65 W
+Pentium E6800,2 ,3.333 GHz,45 nm,N/A,65 W
+Pentium G6950,2 ,2.8 GHz,32 nm,3MB,73 W
+Pentium G6951,2 ,2.8 GHz,32 nm,3MB,73 W
+Pentium P6000,2 ,1877 MHz,32 nm,3MB,35 W
+Pentium P6100,2 ,2000 MHz,32 nm,3MB,35 W
+Pentium P6200,2 ,2.133 GHz,32 nm,3MB,35 W
+Pentium U5400,2 ,1200 MHz,32 nm,3MB,18 W
+Xeon E5503,2 ,2000 MHz,45 nm,4MB,80 W
+Xeon E5507,4 ,2.266 GHz,45 nm,4MB,80 W
+Xeon E5620,4  / 8,2.4 to 2.666 GHz,32 nm,12MB,80 W
+Xeon E5630,4  / 8,2.533 to 2.8 GHz,32 nm,12MB,80 W
+Xeon E5640,4  / 8,2.666 to 2.933 GHz,32 nm,12MB,80 W
+Xeon E5645,6  / 12,2.4 to 2.666 GHz,32 nm,12MB,80 W
+Xeon L5609,4 ,1866 MHz,32 nm,12MB,40 W
+Xeon L5618,4  / 8,1.866 to 2.266 GHz,32 nm,12MB,40 W
+Xeon L5630,4  / 8,2.133 to 2.4 GHz,32 nm,12MB,40 W
+Xeon L5638,6  / 12,2 to 2.4 GHz,32 nm,12MB,60 W
+Xeon L5640,6  / 12,2.266 to 2.8 GHz,32 nm,12MB,60 W
+Xeon W3530,4  / 8,2.8 to 3.066 GHz,45 nm,8MB,130 W
+Xeon W3670,6  / 12,3.2 to 3.466 GHz,32 nm,12MB,130 W
+Xeon W3680,6  / 12,3.333 to 3.6 GHz,32 nm,12MB,130 W
+Xeon X5650,6  / 12,2.666 to 3.066 GHz,32 nm,12MB,95 W
+Xeon X5660,6  / 12,2.8 to 3.2 GHz,32 nm,12MB,95 W
+Xeon X5667,4  / 8,3.066 to 3.466 GHz,32 nm,12MB,95 W
+Xeon X5670,6  / 12,2.933 to 3.333 GHz,32 nm,12MB,95 W
+Xeon X5677,4  / 8,3.466 to 3.733 GHz,32 nm,12MB,130 W
+Xeon X5680,6  / 12,3.333 to 3.6 GHz,32 nm,12MB,130 W
+Athlon 64 2000+,1 ,1000 MHz,65 nm,N/A,8 W
+Athlon 64 2600+,1 ,1600 MHz,65 nm,N/A,15 W
+Athlon 64 2850e,1 ,1800 MHz,65 nm,N/A,22 W
+Athlon 64 3100+,1 ,2000 MHz,65 nm,N/A,25 W
+Athlon 64 LE-1640,1 ,2.7 GHz,65 nm,N/A,45 W
+Athlon 64 LE-1640B,1 ,2.7 GHz,65 nm,N/A,45 W
+Athlon 64 LE-1660,1 ,2.8 GHz,65 nm,N/A,45 W
+Athlon 64 X2 4600+,2 ,2.4 GHz,65 nm,N/A,65 W
+Athlon 64 X2 5400+,2 ,2.8 GHz,65 nm,N/A,65 W
+Athlon 64 X2 5400+ BE,2 ,2.8 GHz,65 nm,N/A,65 W
+Athlon 64 X2 5600+,2 ,2.9 GHz,65 nm,N/A,65 W
+Athlon 64 X2 5800+,2 ,3 GHz,65 nm,N/A,89 W
+Athlon X2 4050e,2 ,2.1 GHz,65 nm,N/A,45 W
+Athlon X2 4450e,2 ,2.3 GHz,65 nm,N/A,45 W
+Athlon X2 4850e,2 ,2.5 GHz,65 nm,N/A,45 W
+Athlon X2 5050e,2 ,2.6 GHz,65 nm,N/A,45 W
+Athlon X2 6500 BE,2 ,2.3 GHz,65 nm,2MB,95 W
+Athlon X2 7450,2 ,2.4 GHz,65 nm,2MB,95 W
+Athlon X2 7550,2 ,2.5 GHz,65 nm,2MB,95 W
+Athlon X2 7750 BE,2 ,2.7 GHz,65 nm,2MB,95 W
+Athlon X2 QL-60,2 ,1900 MHz,65 nm,N/A,35 W
+Athlon X2 QL-62,2 ,2000 MHz,65 nm,N/A,25 W
+Athlon X2 QL-64,2 ,2.1 GHz,65 nm,N/A,35 W
+Athlon X2 QL-65,2 ,2.1 GHz,65 nm,N/A,35 W
+Athlon X2 QL-67,2 ,2.2 GHz,65 nm,N/A,35 W
+Opteron 2350 HE,4 ,2000 MHz,65 nm,2MB,79 W
+Phenom X3 8250e,3 ,1900 MHz,65 nm,2MB,65 W
+Phenom X3 8400,3 ,2.1 GHz,65 nm,2MB,95 W
+Phenom X3 8450,3 ,2.1 GHz,65 nm,2MB,95 W
+Phenom X3 8450e,3 ,2.1 GHz,65 nm,2MB,65 W
+Phenom X3 8550,3 ,2.2 GHz,65 nm,2MB,95 W
+Phenom X3 8600,3 ,2.3 GHz,65 nm,2MB,95 W
+Phenom X3 8650,3 ,2.3 GHz,65 nm,2MB,95 W
+Phenom X3 8750,3 ,2.4 GHz,65 nm,2MB,95 W
+Phenom X3 8750 BE,3 ,2.4 GHz,65 nm,2MB,95 W
+Phenom X3 8850,3 ,2.5 GHz,65 nm,2MB,95 W
+Phenom X4 9100e,4 ,1800 MHz,65 nm,2MB,65 W
+Phenom X4 9150e,4 ,1800 MHz,65 nm,2MB,65 W
+Phenom X4 9350e,4 ,2000 MHz,65 nm,2MB,65 W
+Phenom X4 9450e,4 ,2.1 GHz,65 nm,2MB,65 W
+Phenom X4 9550,4 ,2.2 GHz,65 nm,2MB,95 W
+Phenom X4 9600B,4 ,2.3 GHz,65 nm,2MB,95 W
+Phenom X4 9650,4 ,2.3 GHz,65 nm,2MB,95 W
+Phenom X4 9750 (125W),4 ,2.4 GHz,65 nm,2MB,125 W
+Phenom X4 9750 (95W),4 ,2.4 GHz,65 nm,2MB,95 W
+Phenom X4 9750B,4 ,2.4 GHz,65 nm,2MB,95 W
+Phenom X4 9850 (125W),4 ,2.5 GHz,65 nm,2MB,125 W
+Phenom X4 9850 (95W),4 ,2.5 GHz,65 nm,2MB,95 W
+Phenom X4 9850 BE,4 ,2.5 GHz,65 nm,2MB,125 W
+Phenom X4 9850B,4 ,2.5 GHz,65 nm,2MB,95 W
+Phenom X4 9950 BE (125W),4 ,2.6 GHz,65 nm,2MB,125 W
+Phenom X4 9950 BE (140W),4 ,2.6 GHz,65 nm,2MB,140 W
+Sempron X2 2100,2 ,1800 MHz,65 nm,N/A,65 W
+Sempron X2 2100,2 ,1800 MHz,65 nm,N/A,65 W
+Sempron X2 2200,2 ,2000 MHz,65 nm,N/A,65 W
+Sempron X2 2300,2 ,2.2 GHz,65 nm,N/A,65 W
+Turion X2 RM-72,2 ,2.1 GHz,65 nm,N/A,35 W
+Turion X2 RM-74,2 ,2.2 GHz,65 nm,N/A,35 W
+Turion X2 RM-75,2 ,2.2 GHz,65 nm,N/A,35 W
+Turion X2 RM-77,2 ,2.3 GHz,65 nm,N/A,35 W
+Turion X2 Ultra ZM-80,2 ,2.1 GHz,65 nm,N/A,32 W
+Turion X2 Ultra ZM-82,2 ,2.2 GHz,65 nm,N/A,35 W
+Turion X2 Ultra ZM-84,2 ,2.3 GHz,65 nm,N/A,35 W
+Turion X2 Ultra ZM-85,2 ,2.3 GHz,65 nm,N/A,35 W
+Turion X2 Ultra ZM-86,2 ,2.4 GHz,65 nm,N/A,35 W
+Turion X2 Ultra ZM-87,2 ,2.4 GHz,65 nm,N/A,35 W
+Turion X2 Ultra ZM-88,2 ,2.5 GHz,65 nm,N/A,35 W
+Athlon 64 2650e,1 ,1600 MHz,65 nm,N/A,15 W
+Athlon 64 LE-1640,1 ,2.6 GHz,90 nm,N/A,45 W
+Athlon II X2 215,2 ,2.7 GHz,45 nm,N/A,65 W
+Athlon II X2 235e,2 ,2.7 GHz,45 nm,N/A,45 W
+Athlon II X2 240,2 ,2.8 GHz,45 nm,N/A,65 W
+Athlon II X2 240e,2 ,2.8 GHz,45 nm,N/A,45 W
+Athlon II X2 245,2 ,2.9 GHz,45 nm,N/A,65 W
+Athlon II X2 250,2 ,3 GHz,45 nm,N/A,65 W
+Athlon II X2 250u,2 ,1600 MHz,45 nm,N/A,25 W
+Athlon II X2 260u,2 ,1800 MHz,45 nm,N/A,25 W
+Athlon II X3 400e,3 ,2.2 GHz,45 nm,N/A,45 W
+Athlon II X3 405e,3 ,2.3 GHz,45 nm,N/A,45 W
+Athlon II X3 425,3 ,2.7 GHz,45 nm,N/A,95 W
+Athlon II X3 435,3 ,2.9 GHz,45 nm,N/A,95 W
+Athlon II X4 600e,4 ,2.2 GHz,45 nm,N/A,45 W
+Athlon II X4 605e,4 ,2.3 GHz,45 nm,N/A,45 W
+Athlon II X4 620,4 ,2.6 GHz,45 nm,N/A,95 W
+Athlon II X4 630,4 ,2.8 GHz,45 nm,N/A,95 W
+Athlon X2 7850 BE,2 ,2.8 GHz,65 nm,2MB,95 W
+Phenom II 42 TWKR Black Edition,4 ,2000 MHz,45 nm,6MB,125 W
+Phenom II X2 545,2 ,3 GHz,45 nm,6MB,80 W
+Phenom II X2 550,2 ,3.1 GHz,45 nm,6MB,80 W
+Phenom II X2 550 BE,2 ,3.1 GHz,45 nm,6MB,80 W
+Phenom II X2 B53,2 ,2.8 GHz,45 nm,6MB,80 W
+Phenom II X2 B55,2 ,3 GHz,45 nm,6MB,80 W
+Phenom II X3 700e,3 ,2.4 GHz,45 nm,6MB,65 W
+Phenom II X3 705e,3 ,2.5 GHz,45 nm,6MB,65 W
+Phenom II X3 710,3 ,2.6 GHz,45 nm,6MB,95 W
+Phenom II X3 720 BE,3 ,2.8 GHz,45 nm,6MB,95 W
+Phenom II X3 740 BE,3 ,3 GHz,45 nm,6MB,95 W
+Phenom II X3 B73,3 ,2.8 GHz,45 nm,6MB,95 W
+Phenom II X3 B75,3 ,3 GHz,45 nm,6MB,95 W
+Phenom II X4 805,4 ,2.5 GHz,45 nm,4MB,95 W
+Phenom II X4 810,4 ,2.6 GHz,45 nm,4MB,95 W
+Phenom II X4 820,4 ,2.8 GHz,45 nm,4MB,95 W
+Phenom II X4 830,4 ,2.8 GHz,45 nm,4MB,95 W
+Phenom II X4 900e,4 ,2.4 GHz,45 nm,6MB,65 W
+Phenom II X4 905e,4 ,2.5 GHz,45 nm,6MB,65 W
+Phenom II X4 910,4 ,2.6 GHz,45 nm,6MB,95 W
+Phenom II X4 920,4 ,2.8 GHz,45 nm,6MB,125 W
+Phenom II X4 925,4 ,2.8 GHz,45 nm,6MB,95 W
+Phenom II X4 940 BE,4 ,3 GHz,45 nm,6MB,125 W
+Phenom II X4 945 (125W),4 ,3 GHz,45 nm,6MB,125 W
+Phenom II X4 945 (95W),4 ,3 GHz,45 nm,6MB,95 W
+Phenom II X4 955 (125W),4 ,3.2 GHz,45 nm,6MB,125 W
+Phenom II X4 955 (95W),4 ,3.2 GHz,45 nm,6MB,95 W
+Phenom II X4 955 BE,4 ,3.2 GHz,45 nm,6MB,125 W
+Phenom II X4 965 BE (125W),4 ,3.4 GHz,45 nm,6MB,125 W
+Phenom II X4 965 BE (140W),4 ,3.4 GHz,45 nm,6MB,140 W
+Phenom II X4 B93,4 ,2.8 GHz,45 nm,6MB,95 W
+Phenom II X4 B95,4 ,3 GHz,45 nm,6MB,95 W
+Sempron 140,1 ,2.7 GHz,45 nm,N/A,45 W
+Athlon II X2 210e,2 ,2.6 GHz,45 nm,N/A,45 W
+Athlon II X2 220,2 ,2.8 GHz,45 nm,N/A,65 W
+Athlon II X2 245e,2 ,2.9 GHz,45 nm,N/A,45 W
+Athlon II X2 250e,2 ,3 GHz,45 nm,N/A,45 W
+Athlon II X2 255,2 ,3.1 GHz,45 nm,N/A,65 W
+Athlon II X2 260,2 ,3.2 GHz,45 nm,N/A,65 W
+Athlon II X2 265,2 ,3.3 GHz,45 nm,N/A,65 W
+Athlon II X2 270u,2 ,2000 MHz,45 nm,N/A,25 W
+Athlon II X3 415e,3 ,2.5 GHz,45 nm,N/A,45 W
+Athlon II X3 420e,3 ,2.6 GHz,45 nm,N/A,45 W
+Athlon II X3 440,3 ,3 GHz,45 nm,N/A,95 W
+Athlon II X3 445,3 ,3.1 GHz,45 nm,N/A,95 W
+Athlon II X3 450,3 ,3.2 GHz,45 nm,N/A,95 W
+Athlon II X3 455,3 ,3.3 GHz,45 nm,N/A,95 W
+Athlon II X4 610e,4 ,2.4 GHz,45 nm,N/A,45 W
+Athlon II X4 615e,4 ,2.5 GHz,45 nm,N/A,45 W
+Athlon II X4 635,4 ,2.9 GHz,45 nm,N/A,95 W
+Athlon II X4 640,4 ,3 GHz,45 nm,N/A,95 W
+Athlon II X4 645,4 ,3.1 GHz,45 nm,N/A,95 W
+Opteron 6168,12 ,1900 MHz,45 nm,12MB,115 W
+Phenom II X2 555 BE,2 ,3.2 GHz,45 nm,6MB,80 W
+Phenom II X2 560 BE,2 ,3.3 GHz,45 nm,6MB,80 W
+Phenom II X2 565 BE,2 ,3.4 GHz,45 nm,6MB,80 W
+Phenom II X2 570 BE,2 ,3.5 GHz,45 nm,6MB,80 W
+Phenom II X2 B57,2 ,3.2 GHz,45 nm,6MB,80 W
+Phenom II X3 715 BE,3 ,2.8 GHz,45 nm,6MB,95 W
+Phenom II X3 720,3 ,2.8 GHz,45 nm,6MB,95 W
+Phenom II X3 B77,3 ,3.2 GHz,45 nm,6MB,95 W
+Phenom II X4 840T,4 ,2.9 to 3.2 GHz,45 nm,6MB,95 W
+Phenom II X4 910e,4 ,2.6 GHz,45 nm,6MB,65 W
+Phenom II X4 960T BE,4 ,3 to 3.4 GHz,45 nm,6MB,95 W
+Phenom II X4 970 BE,4 ,3.5 GHz,45 nm,6MB,125 W
+Phenom II X4 970 BE,4 ,3.5 GHz,45 nm,6MB,125 W
+Phenom II X4 B97,4 ,3.2 GHz,45 nm,6MB,95 W
+Phenom II X6 1035T,6 ,2.6 to 3.1 GHz,45 nm,6MB,95 W
+Phenom II X6 1045T,6 ,2.7 to 3.2 GHz,45 nm,6MB,95 W
+Phenom II X6 1055T (125W),6 ,2.8 to 3.3 GHz,45 nm,6MB,125 W
+Phenom II X6 1055T (95W),6 ,2.8 to 3.3 GHz,45 nm,6MB,95 W
+Phenom II X6 1065T,6 ,2.9 to 3.4 GHz,45 nm,6MB,125 W
+Phenom II X6 1075T,6 ,3 to 3.5 GHz,45 nm,6MB,125 W
+Phenom II X6 1090T BE,6 ,3.2 to 3.6 GHz,45 nm,6MB,125 W
+Phenom II X6 1100T BE,6 ,3.3 to 3.7 GHz,45 nm,6MB,125 W
+Sempron 145,1 ,2.8 GHz,45 nm,N/A,45 W
+Sempron 150,1 ,2.9 GHz,45 nm,N/A,45 W
+Sempron 180,2 ,2.4 GHz,45 nm,N/A,45 W
+Athlon 64 3000+,1 ,2000 MHz,130 nm,N/A,89 W
+Athlon 64 3200+,1 ,2000 MHz,130 nm,N/A,89 W
+Athlon 64 FX-51,1 ,2.2 GHz,130 nm,N/A,89 W
+Athlon XP 2000+,1 ,1667 MHz,130 nm,N/A,60 W
+Athlon XP 2000+,1 ,1667 MHz,130 nm,N/A,60 W
+Athlon XP 2200+,1 ,1800 MHz,130 nm,N/A,63 W
+Athlon XP 2200+,1 ,1800 MHz,130 nm,N/A,63 W
+Athlon XP 2400+,1 ,2000 MHz,130 nm,N/A,68 W
+Athlon XP 2400+,1 ,2000 MHz,130 nm,N/A,68 W
+Athlon XP 2500+,1 ,1833 MHz,130 nm,N/A,68 W
+Athlon XP 2500+ DTR,1 ,1833 MHz,130 nm,N/A,55 W
+Athlon XP 2600+,1 ,1917 MHz,130 nm,N/A,68 W
+Athlon XP 2600+,1 ,2.083 GHz,130 nm,N/A,68 W
+Athlon XP 2600+,1 ,2.133 GHz,130 nm,N/A,68 W
+Athlon XP 2800+,1 ,2.083 GHz,130 nm,N/A,68 W
+Athlon XP 3000+ (333FSB),1 ,2.167 GHz,130 nm,N/A,68 W
+Athlon XP 3000+ (400FSB),1 ,2.1 GHz,130 nm,N/A,68 W
+Athlon XP 3100+,1 ,2.2 GHz,130 nm,N/A,68 W
+Athlon XP 3200+ (333FSB),1 ,2.333 GHz,130 nm,N/A,79 W
+Athlon XP 3200+ (400FSB),1 ,2.2 GHz,130 nm,N/A,77 W
+Athlon XP-M 1800+ (25W),1 ,1400 MHz,130 nm,N/A,25 W
+Athlon XP-M 1800+ (25W),1 ,1400 MHz,130 nm,N/A,25 W
+Athlon XP-M 2000+ (25W),1 ,1533 MHz,130 nm,N/A,25 W
+Athlon XP-M 2000+ (35W),1 ,1533 MHz,130 nm,N/A,35 W
+Athlon XP-M 2200+,1 ,1667 MHz,130 nm,N/A,35 W
+Athlon XP-M 2400+,1 ,1800 MHz,130 nm,N/A,45 W
+Athlon XP-M 2400+ (35W),1 ,1800 MHz,130 nm,N/A,35 W
+Athlon XP-M 2400+ (72W),1 ,1800 MHz,130 nm,N/A,72 W
+Athlon XP-M 2500+,1 ,1862 MHz,130 nm,N/A,45 W
+Athlon XP-M 2500+ (35W),1 ,1867 MHz,130 nm,N/A,35 W
+Athlon XP-M 2500+ (72W),1 ,1867 MHz,130 nm,N/A,72 W
+Athlon XP-M 2600+,1 ,2000 MHz,130 nm,N/A,45 W
+Athlon XP-M 2600+ (72W),1 ,2000 MHz,130 nm,N/A,72 W
+Athlon XP-M 3000+,1 ,2.2 GHz,130 nm,N/A,72 W
+Mobile Athlon 64 2800+,1 ,1800 MHz,130 nm,N/A,82 W
+Mobile Athlon 64 3000+,1 ,1800 MHz,130 nm,N/A,82 W
+Mobile Athlon 64 3200+,1 ,2000 MHz,130 nm,N/A,82 W
+Opteron 140,1 ,1400 MHz,130 nm,N/A,82 W
+Opteron 140,1 ,1400 MHz,130 nm,N/A,85 W
+Opteron 142,1 ,1600 MHz,130 nm,N/A,82 W
+Opteron 142,1 ,1600 MHz,130 nm,N/A,85 W
+Opteron 144,1 ,1800 MHz,130 nm,N/A,82 W
+Opteron 144,1 ,1800 MHz,130 nm,N/A,85 W
+Opteron 146,1 ,2000 MHz,130 nm,N/A,89 W
+Opteron 148,1 ,2.2 GHz,130 nm,N/A,89 W
+Opteron 240,1 ,1400 MHz,130 nm,N/A,85 W
+Opteron 240,1 ,1400 MHz,130 nm,N/A,82 W
+Opteron 242,1 ,1600 MHz,130 nm,N/A,82 W
+Opteron 242,1 ,1600 MHz,130 nm,N/A,85 W
+Opteron 244,1 ,1800 MHz,130 nm,N/A,85 W
+Opteron 244,1 ,1800 MHz,130 nm,N/A,82 W
+Opteron 246,1 ,2000 MHz,130 nm,N/A,89 W
+Opteron 248,1 ,2.2 GHz,130 nm,N/A,89 W
+Opteron 840,1 ,1400 MHz,130 nm,N/A,85 W
+Opteron 840,1 ,1400 MHz,130 nm,N/A,82 W
+Opteron 842,1 ,1600 MHz,130 nm,N/A,85 W
+Opteron 842,1 ,1600 MHz,130 nm,N/A,82 W
+Opteron 844,1 ,1800 MHz,130 nm,N/A,85 W
+Opteron 844,1 ,1800 MHz,130 nm,N/A,82 W
+Opteron 846,1 ,2000 MHz,130 nm,N/A,89 W
+Opteron 848,1 ,2.2 GHz,130 nm,N/A,89 W
+A10-4600M,4 ,2.3 to 3.2 GHz,32 nm,N/A,35 W
+A10-4655M,4 ,2 to 2.8 GHz,32 nm,N/A,25 W
+A10-5700,4 ,3.4 to 4 GHz,32 nm,N/A,65 W
+A10-5800B,4 ,3.8 to 4.2 GHz,32 nm,N/A,100 W
+A10-5800K,4 ,3.8 to 4.2 GHz,32 nm,N/A,100 W
+A4-4300M,2 ,2.5 to 3 GHz,32 nm,N/A,35 W
+A4-4355M,2 ,1.9 to 2.4 GHz,32 nm,N/A,17 W
+A4-5300,2 ,3.4 to 3.6 GHz,32 nm,N/A,65 W
+A4-5300B,2 ,3.4 to 3.6 GHz,32 nm,N/A,65 W
+A6-4400M,2 ,2.7 to 3.2 GHz,32 nm,N/A,35 W
+A6-4455M,2 ,2.1 to 2.6 GHz,32 nm,N/A,17 W
+A6-5400B,2 ,3.6 to 3.8 GHz,32 nm,N/A,65 W
+A6-5400K,2 ,3.6 to 3.8 GHz,32 nm,N/A,65 W
+A8-4500M,4 ,1.9 to 2.8 GHz,32 nm,N/A,35 W
+A8-4555M,4 ,1.6 to 2.4 GHz,32 nm,N/A,19 W
+A8-5500,4 ,3.2 to 3.7 GHz,32 nm,N/A,65 W
+A8-5500B,4 ,3.2 to 3.7 GHz,32 nm,N/A,65 W
+A8-5600K,4 ,3.6 to 3.9 GHz,32 nm,N/A,100 W
+Athlon II X4 638,4 ,2.7 GHz,32 nm,N/A,65 W
+Athlon II X4 641,4 ,2.8 GHz,32 nm,N/A,100 W
+Athlon X2 340,2 ,3.2 to 3.6 GHz,32 nm,N/A,65 W
+Athlon X4 730,4 ,2.8 to 3.2 GHz,32 nm,N/A,65 W
+Athlon X4 740,4 ,3.2 to 3.7 GHz,32 nm,N/A,65 W
+Athlon X4 750K,4 ,3.4 to 4 GHz,32 nm,N/A,100 W
+C-70,2 ,1000 to 1333 MHz,40 nm,N/A,9 W
+E1-1200,2 ,1400 MHz,40 nm,N/A,18 W
+E2-1800,2 ,1700 MHz,40 nm,N/A,18 W
+FX-4120,4 ,3.9 to 4.1 GHz,32 nm,8MB,95 W
+FX-4150,4 ,3.8 to 4 GHz,32 nm,8MB,95 W
+FX-4170,4 ,4.2 to 4.3 GHz,32 nm,8MB,125 W
+FX-4300,4 ,3.8 to 4 GHz,32 nm,8MB,95 W
+FX-4320,4 ,4 to 4.2 GHz,32 nm,8MB,95 W
+FX-6120,6 ,3.6 to 4.2 GHz,32 nm,8MB,95 W
+FX-6130,6 ,3.6 to 3.9 GHz,32 nm,8MB,95 W
+FX-6200,6 ,3.8 to 4.1 GHz,32 nm,8MB,125 W
+FX-6300,6 ,3.5 to 4.1 GHz,32 nm,8MB,95 W
+FX-8140,8 ,3.2 to 4.1 GHz,32 nm,8MB,95 W
+FX-8170,8 ,3.9 to 4.5 GHz,32 nm,8MB,125 W
+FX-8300,8 ,3.3 to 3.9 GHz,32 nm,8MB,95 W
+FX-8320,8 ,3.5 to 4 GHz,32 nm,8MB,125 W
+FX-8350,8 ,4 to 4.2 GHz,32 nm,8MB,125 W
+FirePro A300,4 ,3.4 to 4 GHz,32 nm,N/A,65 W
+FirePro A320,4 ,3.8 to 4.2 GHz,32 nm,N/A,100 W
+Opteron 3320 EE,4 ,1.9 to 2.5 GHz,32 nm,8MB,25 W
+Opteron 3350 HE,4 ,2.8 to 3.8 GHz,32 nm,8MB,45 W
+Opteron 3380,8 ,2.6 to 3.6 GHz,32 nm,8MB,65 W
+Opteron 4310 EE,4 ,2.2 to 3 GHz,32 nm,8MB,35 W
+Opteron 4332 HE,6 ,3 to 3.7 GHz,32 nm,8MB,65 W
+Opteron 4334,6 ,3.1 to 3.5 GHz,32 nm,8MB,95 W
+Opteron 4340,6 ,3.5 to 3.8 GHz,32 nm,8MB,95 W
+Opteron 4376 HE,8 ,2.6 to 3.6 GHz,32 nm,8MB,65 W
+Opteron 4386,8 ,3.1 to 3.8 GHz,32 nm,8MB,95 W
+Opteron 43CX EE,4 ,2.2 to 3 GHz,32 nm,8MB,35 W
+Opteron 43GK HE,8 ,2.6 to 3.6 GHz,32 nm,8MB,65 W
+Opteron 6278,16 ,2.4 to 3.3 GHz,32 nm,8MB,115 W
+Opteron 6284 SE,16 ,2.7 to 3.4 GHz,32 nm,8MB,140 W
+Opteron 6348,12 ,2.8 to 3.4 GHz,32 nm,8MB,115 W
+Opteron 6366 HE,16 ,1.8 to 3.1 GHz,32 nm,8MB,85 W
+Opteron 6376,16 ,2.3 to 3.2 GHz,32 nm,8MB,115 W
+Opteron 6378,16 ,2.4 to 3.3 GHz,32 nm,8MB,115 W
+Opteron 6380,16 ,2.5 to 3.4 GHz,32 nm,8MB,115 W
+Opteron 6386 SE,16 ,2.8 to 3.5 GHz,32 nm,8MB,140 W
+Sempron X2 240,2 ,2.9 to 3.3 GHz,32 nm,N/A,65 W
+Z-60,2 ,1000 MHz,40 nm,N/A,5 W
+A4-3300,2 ,2.5 GHz,32 nm,N/A,65 W
+A4-3300M,2 ,1.9 to 2.5 GHz,32 nm,N/A,35 W
+A4-3305M,2 ,1.9 to 2.5 GHz,32 nm,N/A,35 W
+A4-3310MX,2 ,2.1 to 2.5 GHz,32 nm,N/A,35 W
+A4-3320M,2 ,2 to 2.6 GHz,32 nm,N/A,35 W
+A4-3330MX,2 ,2.2 to 2.6 GHz,32 nm,N/A,45 W
+A4-3400,2 ,2.7 GHz,32 nm,N/A,65 W
+A4-3420,2 ,2.8 GHz,32 nm,N/A,65 W
+A6-3400M,4 ,1.4 to 2.3 GHz,32 nm,N/A,35 W
+A6-3410MX,4 ,1.6 to 2.3 GHz,32 nm,N/A,45 W
+A6-3420M,4 ,1.5 to 2.4 GHz,32 nm,N/A,35 W
+A6-3430MX,4 ,1.7 to 2.4 GHz,32 nm,N/A,45 W
+A6-3500,3 ,2.1 to 2.4 GHz,32 nm,N/A,65 W
+A6-3600,4 ,2.1 to 2.4 GHz,32 nm,N/A,65 W
+A6-3620,4 ,2.2 to 2.5 GHz,32 nm,N/A,65 W
+A6-3650,4 ,2.6 GHz,32 nm,N/A,100 W
+A6-3670K,4 ,2.7 GHz,32 nm,N/A,100 W
+A8-3500M,4 ,1.5 to 2.4 GHz,32 nm,N/A,35 W
+A8-3510MX,4 ,1.8 to 2.5 GHz,32 nm,N/A,45 W
+A8-3520M,4 ,1.6 to 2.5 GHz,32 nm,N/A,35 W
+A8-3530MX,4 ,1.9 to 2.6 GHz,32 nm,N/A,45 W
+A8-3550MX,4 ,2 to 2.7 GHz,32 nm,N/A,45 W
+A8-3800,4 ,2.4 to 2.7 GHz,32 nm,N/A,65 W
+A8-3820,4 ,2.5 to 2.8 GHz,32 nm,N/A,65 W
+A8-3850,4 ,2.9 GHz,32 nm,N/A,100 W
+A8-3870K,4 ,3 GHz,32 nm,N/A,100 W
+Athlon II X2 270,2 ,3.4 GHz,45 nm,N/A,65 W
+Athlon II X3 425e,3 ,2.7 GHz,45 nm,N/A,45 W
+Athlon II X3 460,3 ,3.4 GHz,45 nm,N/A,95 W
+Athlon II X4 620e,4 ,2.6 GHz,45 nm,N/A,45 W
+Athlon II X4 631,4 ,2.6 GHz,32 nm,N/A,100 W
+Athlon II X4 651,4 ,3 GHz,32 nm,N/A,100 W
+Athlon II X4 651K,4 ,3 GHz,32 nm,N/A,100 W
+C-30,1 ,1200 MHz,40 nm,N/A,9 W
+C-50,2 ,1000 MHz,40 nm,N/A,9 W
+C-60,2 ,1000 to 1333 MHz,40 nm,N/A,9 W
+E-240,1 ,1500 MHz,40 nm,N/A,18 W
+E-300,2 ,1300 MHz,40 nm,N/A,18 W
+E-350,2 ,1600 MHz,40 nm,N/A,18 W
+E-450,2 ,1650 MHz,40 nm,N/A,18 W
+E2-3000M,2 ,1.8 to 2.4 GHz,32 nm,N/A,35 W
+E2-3200,2 ,2.4 GHz,32 nm,N/A,65 W
+FX-4100,4 ,3.6 to 3.9 GHz,32 nm,8MB,95 W
+FX-6100,6 ,3.3 to 3.9 GHz,32 nm,8MB,95 W
+FX-8100,8 ,2.8 to 3.7 GHz,32 nm,8MB,95 W
+FX-8120,8 ,3.1 to 4 GHz,32 nm,8MB,125 W
+FX-8150,8 ,3.6 to 4.2 GHz,32 nm,8MB,125 W
+Opteron 6180 SE,12 ,2.5 GHz,45 nm,12MB,140 W
+Opteron 6262 HE,16 ,1.6 to 2.9 GHz,32 nm,16MB,85 W
+Opteron 6272,16 ,2.1 to 3 GHz,32 nm,16MB,115 W
+Opteron 6274,16 ,2.2 to 3.1 GHz,32 nm,16MB,115 W
+Opteron 6276,16 ,2.3 to 3.2 GHz,32 nm,8MB,115 W
+Opteron 6282 SE,16 ,2.6 to 3.3 GHz,32 nm,8MB,140 W
+Phenom II X4 650T,4 ,2.7 to 3.2 GHz,45 nm,4MB,95 W
+Phenom II X4 840,4 ,3.2 GHz,45 nm,N/A,95 W
+Phenom II X4 850,4 ,3.3 GHz,45 nm,N/A,95 W
+Phenom II X4 975 BE,4 ,3.6 GHz,45 nm,6MB,125 W
+Phenom II X4 980 BE,4 ,3.7 GHz,45 nm,6MB,125 W
+Sempron 130,1 ,2.6 GHz,45 nm,N/A,45 W
+Z-01,2 ,1000 MHz,40 nm,N/A,6 W
+Atom S1220,2  / 4,1600 MHz,32 nm,N/A,8 W
+Atom S1240,2  / 4,1600 MHz,32 nm,N/A,6 W
+Atom S1260,2  / 4,2000 MHz,32 nm,N/A,9 W
+Atom Z2760,2 ,1800 MHz,32 nm,N/A,3 W
+Celeron 807,1 ,1500 MHz,32 nm,1.5MB,17 W
+Celeron 877,2 ,1400 MHz,32 nm,2MB,17 W
+Celeron 887,2 ,1500 MHz,32 nm,2MB,17 W
+Celeron B730,1 ,1800 MHz,32 nm,1.5MB,35 W
+Celeron B820,2 ,1700 MHz,32 nm,2MB,35 W
+Celeron B830,2 ,1800 MHz,32 nm,2MB,35 W
+Celeron G1610,2 ,2.6 GHz,22 nm,2MB,55 W
+Celeron G1610T,2 ,2.3 GHz,22 nm,2MB,35 W
+Celeron G1620,2 ,2.7 GHz,22 nm,2MB,55 W
+Celeron G465,1 ,1900 MHz,32 nm,1.5MB,35 W
+Celeron G550,2 ,2.6 GHz,32 nm,2MB,65 W
+Celeron G555,2 ,2.7 GHz,32 nm,2MB,65 W
+Core i3-2328M,2  / 4,2.2 GHz,32 nm,3MB,35 W
+Core i3-2377M,2  / 4,1500 MHz,32 nm,3MB,17 W
+Core i3-3110M,2  / 4,2.4 GHz,22 nm,3MB,35 W
+Core i3-3110M,2  / 4,2.4 GHz,22 nm,3MB,35 W
+Core i3-3120M,2  / 4,2.5 GHz,22 nm,3MB,35 W
+Core i3-3120M,2  / 4,2.5 GHz,22 nm,3MB,35 W
+Core i3-3120ME,2  / 4,2.4 GHz,22 nm,3MB,35 W
+Core i3-3217U,2  / 4,1800 MHz,22 nm,3MB,17 W
+Core i3-3217UE,2  / 4,1600 MHz,22 nm,3MB,17 W
+Core i3-3220,2  / 4,3.3 GHz,22 nm,3MB,55 W
+Core i3-3220T,2  / 4,2.8 GHz,22 nm,3MB,35 W
+Core i3-3225,2  / 4,3.3 GHz,22 nm,3MB,55 W
+Core i3-3240,2  / 4,3.4 GHz,22 nm,3MB,55 W
+Core i3-3240T,2  / 4,3 GHz,22 nm,3MB,35 W
+Core i5-3210M,2  / 4,2.5 to 3.1 GHz,22 nm,3MB,35 W
+Core i5-3210M,2  / 4,2.5 to 3.1 GHz,22 nm,3MB,35 W
+Core i5-3317U,2  / 4,1.7 to 2.6 GHz,22 nm,3MB,17 W
+Core i5-3320M,2  / 4,2.6 to 3.3 GHz,22 nm,3MB,35 W
+Core i5-3320M,2  / 4,2.6 to 3.3 GHz,22 nm,3MB,35 W
+Core i5-3330,4 ,3 to 3.2 GHz,22 nm,6MB,77 W
+Core i5-3330S,4 ,2.7 to 3.2 GHz,22 nm,6MB,77 W
+Core i5-3335S,4 ,2.7 to 3.2 GHz,22 nm,6MB,65 W
+Core i5-3350P,4 ,3.1 to 3.3 GHz,22 nm,6MB,69 W
+Core i5-3360M,2  / 4,2.8 to 3.5 GHz,22 nm,3MB,35 W
+Core i5-3360M,2  / 4,2.8 to 3.5 GHz,22 nm,3MB,35 W
+Core i5-3365M,2  / 4,2.8 to 3.5 GHz,22 nm,3MB,35 W
+Core i5-3427U,2  / 4,1.8 to 2.8 GHz,22 nm,3MB,17 W
+Core i5-3470,4 ,3.2 to 3.6 GHz,22 nm,6MB,77 W
+Core i5-3470S,4 ,2.9 to 3.6 GHz,22 nm,6MB,65 W
+Core i5-3470T,2  / 4,2.9 to 3.6 GHz,22 nm,3MB,35 W
+Core i5-3475S,4 ,2.9 to 3.6 GHz,22 nm,6MB,65 W
+Core i5-3570,4 ,3.4 to 3.8 GHz,22 nm,6MB,77 W
+Core i5-3570S,4 ,3.1 to 3.8 GHz,22 nm,6MB,65 W
+Core i5-3610ME,2  / 4,2.7 to 3.3 GHz,22 nm,3MB,35 W
+Core i5-3610ME,2  / 4,2.7 to 3.3 GHz,22 nm,3MB,35 W
+Core i7-3517U,2  / 4,1.9 to 3 GHz,22 nm,4MB,17 W
+Core i7-3517UE,2  / 4,1.7 to 2.8 GHz,22 nm,4MB,17 W
+Core i7-3520M,2  / 4,2.9 to 3.6 GHz,22 nm,4MB,35 W
+Core i7-3520M,2  / 4,2.9 to 3.6 GHz,22 nm,4MB,35 W
+Core i7-3525M,2  / 4,2.9 to 3.6 GHz,22 nm,4MB,35 W
+Core i7-3555LE,2  / 4,2.5 to 3.2 GHz,22 nm,4MB,25 W
+Core i7-3630QM,4  / 8,2.4 to 3.4 GHz,22 nm,6MB,45 W
+Core i7-3632QM,4  / 8,2.2 to 3.2 GHz,22 nm,6MB,35 W
+Core i7-3632QM,4  / 8,2.2 to 3.2 GHz,22 nm,6MB,35 W
+Core i7-3635QM,4  / 8,2.4 to 3.4 GHz,22 nm,6MB,45 W
+Core i7-3667U,2  / 4,2 to 3.2 GHz,22 nm,4MB,17 W
+Core i7-3740QM,4  / 8,2.7 to 3.7 GHz,22 nm,6MB,45 W
+Core i7-3740QM,4  / 8,2.7 to 3.7 GHz,22 nm,6MB,45 W
+Core i7-3840QM,4  / 8,2.8 to 3.8 GHz,22 nm,8MB,45 W
+Core i7-3840QM,4  / 8,2.8 to 3.8 GHz,22 nm,8MB,45 W
+Core i7-3940XM,4  / 8,3 to 3.9 GHz,22 nm,8MB,55 W
+Core i7-3970X,6  / 12,3.5 to 4 GHz,32 nm,15MB,150 W
+Pentium 2020M,2 ,2.4 GHz,22 nm,2MB,35 W
+Pentium 2117U,2 ,1800 MHz,22 nm,2MB,17 W
+Pentium 2117U,2 ,1800 MHz,22 nm,2MB,17 W
+Pentium 2129Y,2 ,1100 MHz,22 nm,2MB,10 W
+Pentium 997,2 ,1600 MHz,32 nm,2MB,17 W
+Pentium B980,2 ,2.4 GHz,32 nm,2MB,35 W
+Pentium G2100T,2 ,2.6 GHz,22 nm,3MB,35 W
+Pentium G2120,2 ,3.1 GHz,22 nm,3MB,55 W
+Pentium G640,2 ,2.8 GHz,32 nm,3MB,65 W
+Pentium G640T,2 ,2.4 GHz,32 nm,3MB,35 W
+Pentium G645,2 ,2.9 GHz,32 nm,3MB,65 W
+Pentium G645T,2 ,2.5 GHz,32 nm,3MB,35 W
+Pentium G860T,2 ,2.6 GHz,32 nm,3MB,35 W
+Pentium G870,2 ,3.1 GHz,32 nm,3MB,65 W
+Xeon E3-1220 v2,4 ,3.1 to 3.5 GHz,22 nm,8MB,69 W
+Xeon E3-1220L v2,2  / 4,2.3 to 3.5 GHz,22 nm,8MB,17 W
+Xeon E3-1225 v2,4 ,3.2 to 3.6 GHz,22 nm,8MB,77 W
+Xeon E3-1230 v2,4  / 8,3.3 to 3.7 GHz,22 nm,8MB,69 W
+Xeon E3-1240 v2,4  / 8,3.4 to 3.8 GHz,22 nm,8MB,69 W
+Xeon E3-1245 v2,4  / 8,3.4 to 3.8 GHz,22 nm,8MB,77 W
+Xeon E3-1265L v2,4  / 8,2.5 to 3.5 GHz,22 nm,8MB,45 W
+Xeon E3-1270 v2,4  / 8,3.5 to 3.9 GHz,22 nm,8MB,69 W
+Xeon E3-1275 v2,4  / 8,3.5 to 3.9 GHz,22 nm,8MB,77 W
+Xeon E3-1280 v2,4  / 8,3.6 to 4 GHz,22 nm,8MB,69 W
+Xeon E3-1290 v2,4  / 8,3.7 to 4.1 GHz,22 nm,8MB,87 W
+Xeon E5-4607,6  / 12,2.2 GHz,32 nm,15MB,95 W
+Xeon E5-4610,6  / 12,2.4 to 2.9 GHz,32 nm,15MB,130 W
+Xeon Phi 3110X,61  / 244,1053 MHz,22 nm,N/A,300 W
+Xeon Phi 5110P,60  / 240,1053 MHz,22 nm,N/A,225 W
+Xeon Phi 7110P,61  / 244,1250 MHz,22 nm,N/A,300 W
+Xeon Phi 7110X,61  / 244,1250 MHz,22 nm,N/A,300 W
+Xeon Phi SE10P,61  / 244,1100 MHz,22 nm,N/A,300 W
+Xeon Phi SE10X,61  / 244,1100 MHz,22 nm,N/A,300 W
+Atom CE4100,1 ,1200 MHz,45 nm,N/A,7 W
+Atom CE4130,1 ,1200 MHz,45 nm,N/A,7 W
+Atom CE4150,1 ,1200 MHz,45 nm,N/A,7 W
+Atom D510,2  / 4,1667 MHz,45 nm,N/A,13 W
+Atom N450,1  / 2,1667 MHz,45 nm,N/A,6 W
+Atom Z510P,1  / 2,1100 MHz,45 nm,N/A,2 W
+Atom Z510PT,1  / 2,1100 MHz,45 nm,N/A,2 W
+Atom Z515,1 ,1200 MHz,45 nm,N/A,1 W
+Atom Z520PT,1  / 2,1334 MHz,45 nm,N/A,2 W
+Atom Z530P,1  / 2,1600 MHz,45 nm,N/A,2 W
+Atom Z550,1  / 2,2000 MHz,45 nm,N/A,2 W
+Celeron E1600,2 ,2.4 GHz,65 nm,N/A,65 W
+Celeron E3200,2 ,2.4 GHz,45 nm,N/A,65 W
+Celeron E3300,2 ,2.5 GHz,45 nm,N/A,65 W
+Core 2 Duo E7500,2 ,2.933 GHz,45 nm,N/A,65 W
+Core 2 Duo E7600,2 ,3.067 GHz,45 nm,N/A,65 W
+Core 2 Duo E8135,2 ,2.667 GHz,45 nm,N/A,44 W
+Core 2 Duo E8235,2 ,2.8 GHz,45 nm,N/A,44 W
+Core 2 Duo E8335,2 ,2.933 GHz,45 nm,N/A,44 W
+Core 2 Duo E8435,2 ,3.067 GHz,45 nm,N/A,44 W
+Core 2 Duo P9700,2 ,2.8 GHz,45 nm,N/A,28 W
+Core 2 Duo T9900,2 ,3.067 GHz,45 nm,N/A,35 W
+Core 2 Quad Q7600,4 ,2.7 GHz,45 nm,N/A,95 W
+Core 2 Quad Q8200S,4 ,2.333 GHz,45 nm,N/A,65 W
+Core 2 Quad Q8400,4 ,2.666 GHz,45 nm,N/A,95 W
+Core 2 Quad Q8400S,4 ,2.666 GHz,45 nm,N/A,65 W
+Core 2 Quad Q9400S,4 ,2.666 GHz,45 nm,N/A,65 W
+Core 2 Quad Q9505,4 ,2.833 GHz,45 nm,N/A,95 W
+Core 2 Quad Q9550S,4 ,2.833 GHz,45 nm,N/A,65 W
+Core 2 Solo ULV SU3500,1 ,1400 MHz,45 nm,N/A,5 W
+Core i5-750,4 ,2.666 to 3.2 GHz,45 nm,8MB,95 W
+Core i7-860,4  / 8,2.8 to 3.466 GHz,45 nm,8MB,95 W
+Core i7-870,4  / 8,2.933 to 3.6 GHz,45 nm,8MB,95 W
+Core i7-950,4  / 8,3.066 to 3.333 GHz,45 nm,8MB,130 W
+Core i7-960,4  / 8,3.2 to 3.466 GHz,45 nm,8MB,130 W
+Core i7-975,4  / 8,3.333 to 3.6 GHz,45 nm,8MB,130 W
+Pentium Dual-Core E2210,2 ,2.2 GHz,45 nm,N/A,65 W
+Pentium Dual-Core T4200,2 ,2000 MHz,45 nm,N/A,35 W
+Pentium Dual-Core T4300,2 ,2.1 GHz,45 nm,N/A,35 W
+Pentium Dual-Core T4400,2 ,2.2 GHz,45 nm,N/A,35 W
+Pentium E5400,2 ,2.7 GHz,45 nm,N/A,65 W
+Pentium E6300,2 ,2.8 GHz,45 nm,N/A,65 W
+Pentium E6500,2 ,2.933 GHz,45 nm,N/A,65 W
+Pentium E6500K,2 ,2.933 GHz,45 nm,N/A,65 W
+Pentium SU2700,1 ,1300 MHz,45 nm,N/A,10 W
+Pentium SU4100,2 ,1300 MHz,45 nm,N/A,10 W
+Xeon E5502,2 ,1866 MHz,45 nm,4MB,80 W
+Xeon E5504,4 ,2000 MHz,45 nm,4MB,80 W
+Xeon E5506,4 ,2.133 GHz,45 nm,4MB,80 W
+Xeon E5520,4  / 8,2.266 to 2.533 GHz,45 nm,8MB,80 W
+Xeon E5530,4  / 8,2.4 to 2.666 GHz,45 nm,8MB,80 W
+Xeon E5540,4  / 8,2.533 to 2.8 GHz,45 nm,8MB,80 W
+Xeon L5506,4 ,2.133 GHz,45 nm,4MB,60 W
+Xeon L5508,2  / 4,2 to 2.4 GHz,45 nm,8MB,38 W
+Xeon L5518,4  / 8,2.133 to 2.4 GHz,45 nm,8MB,60 W
+Xeon L5520,4  / 8,2.266 to 2.533 GHz,45 nm,8MB,60 W
+Xeon L5530,4  / 8,2.4 to 2.666 GHz,45 nm,8MB,60 W
+Xeon W3503,2 ,2.4 GHz,45 nm,4MB,130 W
+Xeon W3505,2 ,2.533 GHz,45 nm,4MB,130 W
+Xeon W3520,4  / 8,2.666 to 2.933 GHz,45 nm,8MB,130 W
+Xeon W3540,4  / 8,2.933 to 3.2 GHz,45 nm,8MB,130 W
+Xeon W3550,4  / 8,3.066 to 3.333 GHz,45 nm,8MB,130 W
+Xeon W3565,4  / 8,3.2 to 3.466 GHz,45 nm,8MB,130 W
+Xeon W3570,4  / 8,3.2 to 3.466 GHz,45 nm,8MB,130 W
+Xeon W3580,4  / 8,3.333 to 3.6 GHz,45 nm,8MB,130 W
+Xeon W5580,4  / 8,3.2 to 3.466 GHz,45 nm,8MB,130 W
+Xeon W5590,4  / 8,3.333 to 3.6 GHz,45 nm,8MB,130 W
+Xeon X5550,4  / 8,2.666 to 3.066 GHz,45 nm,8MB,95 W
+Xeon X5560,4  / 8,2.8 to 3.2 GHz,45 nm,8MB,95 W
+Xeon X5570,4  / 8,2.933 to 3.333 GHz,45 nm,8MB,95 W
+A10-5745M,4 ,2.1 to 2.9 GHz,32 nm,N/A,25 W
+A10-5750M,4 ,2.5 to 3.5 GHz,32 nm,N/A,35 W
+A10-5757M,4 ,2.5 to 3.5 GHz,32 nm,N/A,35 W
+A10-6700,4 ,3.7 to 4.3 GHz,32 nm,N/A,65 W
+A10-6700T,4 ,2.5 to 3.5 GHz,32 nm,N/A,45 W
+A10-6790B,4 ,4 to 4.3 GHz,32 nm,N/A,100 W
+A10-6790K,4 ,4 to 4.3 GHz,32 nm,N/A,100 W
+A10-6800K,4 ,4.1 to 4.4 GHz,32 nm,N/A,100 W
+A4-1200,2 ,1000 MHz,28 nm,N/A,4 W
+A4-1250,2 ,1000 MHz,28 nm,N/A,8 W
+A4-1350,4 ,1000 MHz,28 nm,N/A,8 W
+A4-4000,2 ,3 to 3.2 GHz,32 nm,N/A,65 W
+A4-5000,4 ,1500 MHz,28 nm,N/A,15 W
+A4-5145M,2 ,2 to 2.6 GHz,32 nm,N/A,17 W
+A4-5150M,2 ,2.7 to 3.3 GHz,32 nm,N/A,35 W
+A4-6300,2 ,3.7 to 3.9 GHz,32 nm,N/A,65 W
+A4-6300B,2 ,3.7 to 3.9 GHz,32 nm,N/A,65 W
+A4-6320,2 ,3.8 to 4 GHz,32 nm,N/A,65 W
+A6-1450,4 ,1000 to 1400 MHz,28 nm,N/A,8 W
+A6-5200,4 ,2000 MHz,28 nm,N/A,25 W
+A6-5345M,2 ,2.2 to 2.8 GHz,32 nm,N/A,17 W
+A6-5350M,2 ,2.9 to 3.5 GHz,32 nm,N/A,35 W
+A6-5357M,2 ,2.9 to 3.5 GHz,32 nm,N/A,35 W
+A6-6400B,2 ,3.9 to 4.1 GHz,32 nm,N/A,65 W
+A6-6400K,2 ,3.9 to 4.1 GHz,32 nm,N/A,65 W
+A8-5545M,4 ,1.7 to 2.7 GHz,32 nm,N/A,25 W
+A8-5550M,4 ,2.1 to 3.1 GHz,32 nm,N/A,35 W
+A8-5557M,4 ,2.1 to 3.1 GHz,32 nm,N/A,35 W
+A8-6500,4 ,3.5 to 4.1 GHz,32 nm,N/A,65 W
+A8-6500B,4 ,3.5 to 4.1 GHz,32 nm,N/A,65 W
+A8-6500T,4 ,2.1 to 3.1 GHz,32 nm,N/A,45 W
+A8-6600K,4 ,3.9 to 4.2 GHz,32 nm,N/A,100 W
+Athlon II X2 280,2 ,3.6 GHz,45 nm,N/A,65 W
+Athlon X4 750,4 ,3.4 to 4 GHz,32 nm,N/A,65 W
+Athlon X4 760K,4 ,3.8 to 4.1 GHz,32 nm,N/A,100 W
+E1-1500,2 ,1480 MHz,40 nm,N/A,18 W
+E1-2100,2 ,1000 MHz,28 nm,N/A,9 W
+E1-2500,2 ,1400 MHz,28 nm,N/A,15 W
+E2-2000,2 ,1750 MHz,40 nm,N/A,18 W
+E2-3000,2 ,1650 MHz,28 nm,N/A,15 W
+E2-3800,4 ,1300 MHz,28 nm,N/A,15 W
+FX-4130,4 ,3.8 to 4 GHz,32 nm,8MB,125 W
+FX-4350,4 ,4.2 to 4.3 GHz,32 nm,8MB,125 W
+FX-6350,6 ,3.9 to 4.2 GHz,32 nm,8MB,125 W
+FX-9370,8 ,4.4 to 4.7 GHz,32 nm,8MB,220 W
+FX-9590,8 ,4.7 to 5 GHz,32 nm,8MB,220 W
+Opteron X1150,4 ,2000 MHz,28 nm,N/A,17 W
+Opteron X2150,4 ,1900 MHz,28 nm,N/A,22 W
+Atom D2500,2  / 4,1867 MHz,32 nm,N/A,10 W
+Atom D2550,2  / 4,1867 MHz,32 nm,N/A,10 W
+Atom D2700,2  / 4,2.133 GHz,32 nm,N/A,10 W
+Atom N2600,2  / 4,1600 MHz,32 nm,N/A,4 W
+Atom N2800,2  / 4,1867 MHz,32 nm,N/A,7 W
+Atom N570,2  / 4,1667 MHz,45 nm,N/A,9 W
+Atom Z650,1 ,1200 MHz,45 nm,N/A,3 W
+Atom Z670,1 ,1500 MHz,45 nm,N/A,3 W
+Celeron 725C,1 ,1300 MHz,32 nm,1.5MB,17 W
+Celeron 787,1 ,1300 MHz,32 nm,1.5MB,17 W
+Celeron 847,2 ,1100 MHz,32 nm,2MB,17 W
+Celeron 857,2 ,1200 MHz,32 nm,2MB,17 W
+Celeron B710,1 ,1600 MHz,32 nm,1.5MB,35 W
+Celeron B800,2 ,1500 MHz,32 nm,2MB,35 W
+Celeron B810,2 ,1600 MHz,32 nm,2MB,35 W
+Celeron B840,2 ,1900 MHz,32 nm,2MB,35 W
+Celeron G440,1 ,1600 MHz,32 nm,1MB,35 W
+Celeron G460,1 ,1800 MHz,32 nm,1.5MB,35 W
+Celeron G530,2 ,2.4 GHz,32 nm,2MB,65 W
+Celeron G530T,2 ,2000 MHz,32 nm,2MB,35 W
+Celeron G540,2 ,2.5 GHz,32 nm,2MB,65 W
+Celeron G540T,2 ,2.1 GHz,32 nm,2MB,35 W
+Celeron G550T,2 ,2.2 GHz,32 nm,2MB,35 W
+Core i3-2100,2  / 4,3.1 GHz,32 nm,3MB,65 W
+Core i3-2100T,2  / 4,2.5 GHz,32 nm,3MB,35 W
+Core i3-2102,2  / 4,3.1 GHz,32 nm,3MB,65 W
+Core i3-2105,2  / 4,3.1 GHz,32 nm,3MB,65 W
+Core i3-2120,2  / 4,3.3 GHz,32 nm,3MB,65 W
+Core i3-2120T,2  / 4,2.6 GHz,32 nm,3MB,35 W
+Core i3-2125,2  / 4,3.3 GHz,32 nm,3MB,65 W
+Core i3-2130,2  / 4,3.4 GHz,32 nm,3MB,65 W
+Core i3-2312M,2  / 4,2.1 GHz,32 nm,3MB,35 W
+Core i3-2312M,2  / 4,2.1 GHz,32 nm,3MB,35 W
+Core i3-2330E,2  / 4,2.2 GHz,32 nm,3MB,35 W
+Core i3-2330M,2  / 4,2.2 GHz,32 nm,3MB,35 W
+Core i3-2330M,2  / 4,2.2 GHz,32 nm,3MB,35 W
+Core i3-2332M,2  / 4,2.2 GHz,32 nm,3MB,35 W
+Core i3-2340UE,2  / 4,1300 MHz,32 nm,3MB,17 W
+Core i3-2350M,2  / 4,2.3 GHz,32 nm,3MB,35 W
+Core i3-2357M,2  / 4,1300 MHz,32 nm,3MB,17 W
+Core i3-2367M,2  / 4,1400 MHz,32 nm,3MB,17 W
+Core i5-2310,4 ,2.9 to 3.2 GHz,32 nm,6MB,95 W
+Core i5-2320,4 ,3 to 3.3 GHz,32 nm,6MB,95 W
+Core i5-2390T,2  / 4,2.7 to 3.5 GHz,32 nm,3MB,35 W
+Core i5-2405S,4 ,2.5 to 3.3 GHz,32 nm,6MB,65 W
+Core i5-2415M,2  / 4,2.3 GHz,32 nm,3MB,35 W
+Core i5-2430M,2  / 4,2.4 GHz,32 nm,3MB,35 W
+Core i5-2430M,2  / 4,2.4 GHz,32 nm,3MB,35 W
+Core i5-2435M,2  / 4,2.4 GHz,32 nm,3MB,35 W
+Core i5-2435M,2  / 4,2.4 GHz,32 nm,3MB,35 W
+Core i5-2467M,2  / 4,1600 MHz,32 nm,3MB,17 W
+Core i5-2557M,2  / 4,1700 MHz,32 nm,3MB,17 W
+Core i7-2670QM,4  / 8,2.2 to 3.1 GHz,32 nm,6MB,45 W
+Core i7-2675QM,4  / 8,2.2 to 3.1 GHz,32 nm,6MB,45 W
+Core i7-2700K,4  / 8,3.5 to 3.9 GHz,32 nm,8MB,95 W
+Core i7-2760QM,4  / 8,2.4 to 3.5 GHz,32 nm,6MB,45 W
+Core i7-2760QM,4  / 8,2.4 to 3.5 GHz,32 nm,6MB,45 W
+Core i7-2860QM,4  / 8,2.5 to 3.6 GHz,32 nm,8MB,45 W
+Core i7-2860QM,4  / 8,2.5 to 3.6 GHz,32 nm,8MB,45 W
+Core i7-2960XM,4  / 8,2.7 to 3.7 GHz,32 nm,8MB,55 W
+Core i7-3930K,6  / 12,3.2 to 3.8 GHz,32 nm,12MB,130 W
+Core i7-3960X,6  / 12,3.3 to 3.9 GHz,32 nm,15MB,130 W
+Core i7-980,6  / 12,3.333 to 3.6 GHz,32 nm,12MB,130 W
+Core i7-990X,6  / 12,3.466 to 3.733 GHz,32 nm,12MB,130 W
+Pentium 350,2  / 4,1200 MHz,32 nm,3MB,15 W
+Pentium 957,2 ,1200 MHz,32 nm,2MB,17 W
+Pentium 967,2 ,1300 MHz,32 nm,2MB,17 W
+Pentium B940,2 ,2000 MHz,32 nm,2MB,35 W
+Pentium B950,2 ,2.1 GHz,32 nm,2MB,35 W
+Pentium B960,2 ,2.2 GHz,32 nm,2MB,35 W
+Pentium G620,2 ,2.6 GHz,32 nm,3MB,65 W
+Pentium G620T,2 ,2.2 GHz,32 nm,3MB,35 W
+Pentium G622,2 ,2.6 GHz,32 nm,3MB,65 W
+Pentium G630,2 ,2.7 GHz,32 nm,3MB,65 W
+Pentium G630T,2 ,2.3 GHz,32 nm,3MB,35 W
+Pentium G632,2 ,2.7 GHz,32 nm,3MB,65 W
+Pentium G840,2 ,2.8 GHz,32 nm,3MB,65 W
+Pentium G850,2 ,2.9 GHz,32 nm,3MB,65 W
+Pentium G860,2 ,3 GHz,32 nm,3MB,65 W
+Xeon E3-1220,4 ,3.1 to 3.4 GHz,32 nm,8MB,80 W
+Xeon E3-1220L,2  / 4,2.2 to 3.4 GHz,32 nm,3MB,20 W
+Xeon E3-1225,4 ,3.1 to 3.4 GHz,32 nm,6MB,95 W
+Xeon E3-1230,4  / 8,3.2 to 3.6 GHz,32 nm,8MB,80 W
+Xeon E3-1235,4  / 8,3.2 to 3.6 GHz,32 nm,8MB,95 W
+Xeon E3-1240,4  / 8,3.3 to 3.7 GHz,32 nm,8MB,80 W
+Xeon E3-1245,4  / 8,3.3 to 3.7 GHz,32 nm,8MB,95 W
+Xeon E3-1260L,4  / 8,2.4 to 3.3 GHz,32 nm,8MB,45 W
+Xeon E3-1270,4  / 8,3.4 to 3.8 GHz,32 nm,8MB,80 W
+Xeon E3-1275,4  / 8,3.4 to 3.8 GHz,32 nm,8MB,95 W
+Xeon E3-1280,4  / 8,3.5 to 3.9 GHz,32 nm,8MB,95 W
+Xeon E3-1290,4  / 8,3.6 to 4 GHz,32 nm,8MB,95 W
+Xeon E5603,4 ,1600 MHz,32 nm,4MB,80 W
+Xeon E5606,4 ,2.133 GHz,32 nm,8MB,80 W
+Xeon E5607,4 ,2.266 GHz,32 nm,8MB,80 W
+Xeon E7-8850,10  / 20,2 to 2.4 GHz,32 nm,30MB,130 W
+Xeon E7-8860,10  / 20,2.276 to 2.667 GHz,32 nm,30MB,130 W
+Xeon E7-8870,10  / 20,2.4 to 2.8 GHz,32 nm,30MB,130 W
+Xeon W3690,6  / 12,3.466 to 3.733 GHz,32 nm,12MB,130 W
+Xeon X5647,4  / 8,2.933 to 3.2 GHz,32 nm,12MB,130 W
+Xeon X5672,4  / 8,3.2 to 3.6 GHz,32 nm,12MB,95 W
+Xeon X5687,4  / 8,3.6 to 3.866 GHz,32 nm,12MB,130 W
+Atom E3815,1 ,1467 MHz,22 nm,N/A,5 W
+Atom E3825,2 ,1333 MHz,22 nm,N/A,6 W
+Atom E3826,2 ,1467 MHz,22 nm,N/A,7 W
+Atom E3827,2 ,1750 MHz,22 nm,N/A,8 W
+Atom E3845,4 ,1910 MHz,22 nm,N/A,10 W
+Atom Z3740,4 ,1333 to 1867 MHz,22 nm,N/A,2 W
+Atom Z3770,4 ,1.467 to 2.4 GHz,22 nm,N/A,8 W
+Celeron 2950M,2 ,2000 MHz,22 nm,2MB,37 W
+Celeron 2950M,2 ,2000 MHz,22 nm,2MB,37 W
+Celeron 2955U,2 ,1400 MHz,22 nm,2MB,15 W
+Celeron 2955U,2 ,1400 MHz,22 nm,2MB,15 W
+Celeron 2961Y,2 ,1100 MHz,22 nm,2MB,12 W
+Celeron 2980U,2 ,1600 MHz,22 nm,2MB,15 W
+Celeron G1620T,2 ,2.4 GHz,22 nm,2MB,35 W
+Celeron G1630,2 ,2.8 GHz,22 nm,2MB,55 W
+Celeron G1820,2 ,2.7 GHz,22 nm,3MB,54 W
+Celeron G1820T,2 ,2.4 GHz,22 nm,3MB,54 W
+Celeron G1820TE,2 ,2.2 GHz,22 nm,3MB,54 W
+Celeron G1830,2 ,2.8 GHz,22 nm,3MB,54 W
+Celeron N2805,2 ,1463 MHz,22 nm,N/A,4 W
+Celeron N2806,2 ,1.58 to 2 GHz,22 nm,N/A,4 W
+Celeron N2810,2 ,2000 MHz,22 nm,N/A,7 W
+Celeron N2820,2 ,2.17 to 2.39 GHz,22 nm,N/A,7 W
+Celeron N2910,4 ,1600 MHz,22 nm,N/A,7 W
+Celeron N2920,4 ,1.86 to 2 GHz,22 nm,N/A,7 W
+Core i3-4000M,2  / 4,2.4 GHz,22 nm,3MB,37 W
+Core i3-4005U,2  / 4,1700 MHz,22 nm,3MB,15 W
+Core i3-4100E,2  / 4,2.4 GHz,22 nm,3MB,37 W
+Core i3-4102E,2  / 4,1600 MHz,22 nm,3MB,25 W
+Core i3-4130,2  / 4,3.4 GHz,22 nm,3MB,54 W
+Core i3-4130T,2  / 4,2.9 GHz,22 nm,3MB,35 W
+Core i3-4330,2  / 4,3.5 GHz,22 nm,4MB,54 W
+Core i3-4330T,2  / 4,3 GHz,22 nm,4MB,35 W
+Core i3-4340,2  / 4,3.6 GHz,22 nm,4MB,54 W
+Core i5-4200Y,2  / 4,1400 to 1900 MHz,22 nm,3MB,12 W
+Core i5-4300M,2  / 4,2.6 to 3.6 GHz,22 nm,3MB,37 W
+Core i5-4330M,2  / 4,2.8 to 3.8 GHz,22 nm,3MB,37 W
+Core i5-4350U,2  / 4,1.4 to 2.9 GHz,22 nm,3MB,15 W
+Core i5-4440,4 ,3.1 to 3.3 GHz,22 nm,6MB,84 W
+Core i5-4440S,4 ,2.8 to 3.3 GHz,22 nm,6MB,65 W
+Core i7-3910K,6  / 12,3 to 3.6 GHz,32 nm,12MB,130 W
+Core i7-4500U,2  / 4,1.8 to 3 GHz,22 nm,4MB,15 W
+Core i7-4550U,2  / 4,1.5 to 3 GHz,22 nm,4MB,15 W
+Core i7-4558U,2  / 4,2.8 to 3.3 GHz,22 nm,4MB,28 W
+Core i7-4600M,2  / 4,2.9 to 3.6 GHz,22 nm,4MB,37 W
+Core i7-4600U,2  / 4,2.1 to 3.3 GHz,22 nm,4MB,15 W
+Core i7-4650U,2  / 4,1.7 to 3.3 GHz,22 nm,4MB,15 W
+Core i7-4771,4  / 8,3.5 to 3.9 GHz,22 nm,8MB,84 W
+Core i7-4820K,4  / 8,3.7 to 3.9 GHz,22 nm,10MB,130 W
+Core i7-4850EQ,4  / 8,1.6 to 3.2 GHz,22 nm,8MB,47 W
+Core i7-4860EQ,4  / 8,1.8 to 3.2 GHz,22 nm,8MB,47 W
+Core i7-4930K,6  / 12,3.4 to 3.9 GHz,22 nm,12MB,130 W
+Core i7-4950HQ,4  / 8,2.4 to 3.6 GHz,22 nm,6MB,47 W
+Core i7-4960HQ,4  / 8,2.6 to 3.8 GHz,22 nm,8MB,47 W
+Core i7-4960X,6  / 12,3.6 to 4 GHz,22 nm,15MB,130 W
+Core i7-4980HQ,4  / 8,2.8 to 4 GHz,22 nm,6MB,47 W
+Pentium 3550M,2 ,2.3 GHz,22 nm,2MB,37 W
+Pentium 3556U,2 ,1700 MHz,22 nm,2MB,15 W
+Pentium 3560Y,2 ,1200 MHz,22 nm,2MB,12 W
+Pentium G3220,2 ,3 GHz,22 nm,3MB,54 W
+Pentium G3220T,2 ,2.6 GHz,22 nm,3MB,35 W
+Pentium G3420,2 ,3.2 GHz,22 nm,3MB,54 W
+Pentium G3420T,2 ,2.7 GHz,22 nm,3MB,35 W
+Pentium G3430,2 ,3.3 GHz,22 nm,3MB,54 W
+Xeon E5-1607 v2,4 ,3 GHz,22 nm,10MB,130 W
+Xeon E5-1620 v2,4  / 8,3.7 to 3.9 GHz,22 nm,10MB,130 W
+Xeon E5-1650 v2,6  / 12,3.5 to 3.9 GHz,22 nm,12MB,130 W
+Xeon E5-1660 v2,6  / 12,3.7 to 4 GHz,22 nm,15MB,130 W
+Xeon E5-1680 v2,8  / 16,3 to 3.9 GHz,22 nm,25MB,130 W
+Xeon E5-2403 v2,4 ,1800 MHz,22 nm,10MB,80 W
+Xeon E5-2407 v2,4 ,2.4 GHz,22 nm,10MB,80 W
+Xeon E5-2420 v2,6  / 12,2.2 GHz,22 nm,15MB,80 W
+Xeon E5-2430 v2,6  / 12,2.5 GHz,22 nm,15MB,80 W
+Xeon E5-2440 v2,8  / 16,1900 MHz,22 nm,20MB,95 W
+Xeon E5-2450 v2,8  / 16,2.5 GHz,22 nm,20MB,95 W
+Xeon E5-2470 v2,10  / 20,2.4 GHz,22 nm,25MB,95 W
+Xeon E5-2603 v2,4 ,1800 MHz,22 nm,10MB,80 W
+Xeon E5-2609 v2,4 ,2.5 GHz,22 nm,10MB,80 W
+Xeon E5-2620 v2,6  / 12,2.1 GHz,22 nm,15MB,80 W
+Xeon E5-2630 v2,6  / 12,2.6 GHz,22 nm,15MB,80 W
+Xeon E5-2630L v2,6  / 12,2.4 GHz,22 nm,15MB,60 W
+Xeon E5-2637 v2,4  / 8,3.5 GHz,22 nm,10MB,130 W
+Xeon E5-2640 v2,8  / 16,2000 MHz,22 nm,20MB,95 W
+Xeon E5-2643 v2,6  / 12,3.5 GHz,22 nm,15MB,130 W
+Xeon E5-2650 v2,8  / 16,2.6 to 3.4 GHz,22 nm,20MB,95 W
+Xeon E5-2650L v2,10  / 20,1700 MHz,22 nm,25MB,70 W
+Xeon E5-2660 v2,10  / 20,2.2 to 3 GHz,22 nm,25MB,95 W
+Xeon E5-2667 v2,8  / 16,3.3 GHz,22 nm,20MB,130 W
+Xeon E5-2670 v2,10  / 20,2.5 to 3.3 GHz,22 nm,25MB,115 W
+Xeon E5-2680 v2,10  / 20,2.8 to 3.6 GHz,22 nm,25MB,115 W
+Xeon E5-2687W v2,8  / 16,3.4 to 4 GHz,22 nm,20MB,130 W
+Xeon E5-2690 v2,10  / 20,3 to 3.8 GHz,22 nm,25MB,130 W
+Xeon E5-2692 v2,12  / 24,2.2 to 3 GHz,22 nm,30MB,100 W
+Xeon E5-2695 v2,12  / 24,2.4 to 3.2 GHz,22 nm,30MB,115 W
+Xeon E5-2697 v2,12  / 24,2.7 to 3.5 GHz,22 nm,30MB,130 W
+Xeon Phi 3120A,57  / 228,1100 MHz,22 nm,N/A,300 W
+Xeon Phi 3120P,57  / 228,1100 MHz,22 nm,N/A,300 W
+Xeon Phi 31S1P,57  / 228,1100 MHz,22 nm,N/A,270 W
+Xeon Phi 5120D,60  / 240,1053 MHz,22 nm,N/A,245 W
+Xeon Phi 7120P,61  / 244,1238 to 1333 MHz,22 nm,N/A,300 W
+Xeon Phi 7120X,61  / 244,1238 to 1333 MHz,22 nm,N/A,300 W
+Atom x3-3205RK,4 ,1200 MHz,28 nm,N/A,2 W
+Celeron 3205U,2 ,1500 MHz,14 nm,2MB,15 W
+Celeron 3755U,2 ,1700 MHz,14 nm,2MB,15 W
+Celeron G3900,2 ,2.8 GHz,14 nm,4MB,51 W
+Celeron G3920,2 ,2.9 GHz,14 nm,4MB,51 W
+Core i3-5005U,2  / 4,2000 MHz,14 nm,3MB,15 W
+Core i3-5010U,2  / 4,2.1 GHz,14 nm,3MB,15 W
+Core i3-5015U,2  / 4,2.1 GHz,14 nm,3MB,15 W
+Core i3-5020U,2  / 4,2.2 GHz,14 nm,3MB,15 W
+Core i3-5157U,2  / 4,2.5 GHz,14 nm,3MB,28 W
+Core i3-6100,2  / 4,3.7 GHz,14 nm,4MB,51 W
+Core i3-6300,2  / 4,3.8 GHz,14 nm,4MB,51 W
+Core i3-6320,2  / 4,3.9 GHz,14 nm,4MB,51 W
+Core i5-5200U,2  / 4,2.2 to 2.7 GHz,14 nm,3MB,15 W
+Core i5-5250U,2  / 4,1.6 to 2.7 GHz,14 nm,3MB,15 W
+Core i5-5257U,2  / 4,2.7 to 3.1 GHz,14 nm,3MB,28 W
+Core i5-5287U,2  / 4,2.9 to 3.3 GHz,14 nm,3MB,28 W
+Core i5-5300U,2  / 4,2.3 to 2.9 GHz,14 nm,3MB,15 W
+Core i5-5350H,2  / 4,3.1 to 3.5 GHz,14 nm,4MB,47 W
+Core i5-5350U,2  / 4,1.8 to 2.9 GHz,14 nm,3MB,15 W
+Core i5-5575R,4 ,2.8 to 3.3 GHz,14 nm,4MB,65 W
+Core i5-5675C,4 ,3.1 to 3.6 GHz,14 nm,4MB,65 W
+Core i5-5675R,4 ,3.1 to 3.6 GHz,14 nm,4MB,65 W
+Core i5-6400,4 ,2.7 to 3.3 GHz,14 nm,6MB,65 W
+Core i5-6500,4 ,3.2 to 3.6 GHz,14 nm,6MB,65 W
+Core i5-6600,4 ,3.3 to 3.9 GHz,14 nm,6MB,65 W
+Core i5-6600K,4 ,3.5 to 3.9 GHz,14 nm,6MB,95 W
+Core i7-5500U,2  / 4,2.4 to 3 GHz,14 nm,4MB,15 W
+Core i7-5550U,2  / 4,2 to 3 GHz,14 nm,4MB,15 W
+Core i7-5557U,2  / 4,3.1 to 3.4 GHz,14 nm,4MB,28 W
+Core i7-5600U,2  / 4,2.6 to 3.2 GHz,14 nm,4MB,15 W
+Core i7-5650U,2  / 4,2.2 to 3.2 GHz,14 nm,4MB,15 W
+Core i7-5700HQ,4  / 8,2.7 to 3.5 GHz,14 nm,6MB,47 W
+Core i7-5750HQ,4  / 8,2.5 to 3.4 GHz,14 nm,6MB,47 W
+Core i7-5775C,4  / 8,3.3 to 3.7 GHz,14 nm,6MB,65 W
+Core i7-5775R,4  / 8,3.3 to 3.8 GHz,14 nm,6MB,65 W
+Core i7-5850HQ,4  / 8,2.7 to 3.6 GHz,14 nm,6MB,47 W
+Core i7-5950HQ,4  / 8,2.9 to 3.8 GHz,14 nm,6MB,47 W
+Core i7-6700,4  / 8,3.4 to 4 GHz,14 nm,8MB,65 W
+Core i7-6700K,4  / 8,4 to 4.2 GHz,14 nm,8MB,95 W
+Core i7-6700T,4  / 8,2.8 to 3.6 GHz,14 nm,8MB,35 W
+Core i7-6700TE,4  / 8,2.4 to 3.4 GHz,14 nm,8MB,35 W
+Pentium 3805U,2 ,1900 MHz,14 nm,2MB,15 W
+Pentium 3825U,2  / 4,1900 MHz,14 nm,2MB,15 W
+Pentium G4400,2 ,3.3 GHz,14 nm,4MB,51 W
+Pentium G4500,2 ,3.5 GHz,14 nm,4MB,51 W
+Pentium G4520,2 ,3.6 GHz,14 nm,4MB,51 W
+Xeon D-1518,4  / 8,2.2 GHz,14 nm,1.5MB,35 W
+Xeon D-1520,4  / 8,2.2 to 2.6 GHz,14 nm,1.5MB,45 W
+Xeon D-1521,4  / 8,2.4 to 2.7 GHz,14 nm,1.5MB,45 W
+Xeon D-1527,4  / 8,2.2 to 2.7 GHz,14 nm,1.5MB,35 W
+Xeon D-1528,6  / 12,1.9 to 2.5 GHz,14 nm,1.5MB,35 W
+Xeon D-1531,6  / 12,2.2 to 2.7 GHz,14 nm,1.5MB,35 W
+Xeon D-1537,8  / 16,1.7 to 2.3 GHz,14 nm,1.5MB,35 W
+Xeon D-1540,8  / 16,2 to 2.6 GHz,14 nm,1.5MB,45 W
+Xeon D-1541,8  / 16,2.1 to 2.7 GHz,14 nm,1.5MB,45 W
+Xeon D-1548,8  / 16,2 to 2.6 GHz,14 nm,1.5MB,45 W
+Xeon E3-1258L v4,4  / 8,1.8 to 3.2 GHz,14 nm,6MB,47 W
+Xeon E3-1265L v4,4  / 8,2.3 to 3.3 GHz,14 nm,6MB,35 W
+Xeon E3-1270L v4,4  / 8,3 to 3.6 GHz,14 nm,6MB,45 W
+Xeon E3-1278L v4,4  / 8,2 to 3.3 GHz,14 nm,6MB,47 W
+Xeon E3-1280 v5,4  / 8,3.7 to 4 GHz,14 nm,8MB,80 W
+Xeon E3-1283L v4,4  / 8,2.9 to 3.8 GHz,14 nm,6MB,47 W
+Xeon E3-1284L v4,4  / 8,2.9 to 3.8 GHz,14 nm,6MB,47 W
+Xeon E3-1285 v4,4  / 8,3.5 to 3.8 GHz,14 nm,6MB,95 W
+Xeon E3-1285L v4,4  / 8,3.4 to 3.8 GHz,14 nm,6MB,65 W
+Xeon E5-2658A V3,12  / 24,2.2 to 2.9 GHz,22 nm,30MB,105 W
+Xeon E5-2669 V3,12  / 24,2.3 to 3.1 GHz,22 nm,30MB,120 W
+Xeon E5-2676 V3,12  / 24,2.4 to 3 GHz,22 nm,30MB,120 W
+Xeon E5-2678 V3,12  / 24,2.5 to 3.3 GHz,22 nm,30MB,120 W
+Xeon E5-2698B V3,16  / 32,2 to 3.4 GHz,22 nm,40MB,135 W
+Xeon E5-4610 V3,10  / 20,1700 MHz,22 nm,25MB,105 W
+Xeon E5-4620 V3,10  / 20,2 to 2.6 GHz,22 nm,25MB,105 W
+Xeon E5-4627 V3,10  / 20,2.6 to 3.2 GHz,22 nm,25MB,135 W
+Xeon E5-4640 V3,12  / 24,1.9 to 2.6 GHz,22 nm,30MB,105 W
+Xeon E5-4648 V3,12  / 24,1.7 to 2.2 GHz,22 nm,30MB,105 W
+Xeon E5-4650 V3,12  / 24,2.1 to 2.8 GHz,22 nm,30MB,105 W
+Xeon E5-4655 V3,6  / 12,2.9 to 3.2 GHz,22 nm,30MB,135 W
+Xeon E5-4660 V3,14  / 28,2.1 to 2.9 GHz,22 nm,35MB,120 W
+Xeon E5-4667 V3,16  / 32,2 to 2.9 GHz,22 nm,40MB,135 W
+Xeon E5-4669 V3,18  / 36,2.1 to 2.9 GHz,22 nm,45MB,135 W
+Xeon E7-4809 v3,8  / 16,2000 MHz,22 nm,20MB,115 W
+Xeon E7-4820 v3,10  / 20,1900 MHz,22 nm,25MB,115 W
+Xeon E7-4830 v3,12  / 24,2.1 to 2.7 GHz,22 nm,30MB,115 W
+Xeon E7-4850 v3,14  / 28,2.2 to 2.8 GHz,22 nm,35MB,115 W
+Xeon E7-8860 v3,16  / 32,2.2 to 3.2 GHz,22 nm,40MB,140 W
+Xeon E7-8867 v3,16  / 32,2.5 to 3.3 GHz,22 nm,45MB,165 W
+Xeon E7-8870 v3,18  / 36,2.1 to 2.9 GHz,22 nm,45MB,140 W
+Xeon E7-8880 v3,18  / 36,2.3 to 3.1 GHz,22 nm,45MB,150 W
+Xeon E7-8880L v3,18  / 36,2 to 2.8 GHz,22 nm,45MB,115 W
+Xeon E7-8890 v3,18  / 36,2.5 to 3.3 GHz,22 nm,45MB,165 W
+Xeon E7-8891 v3,10  / 20,2.8 to 3.5 GHz,22 nm,45MB,165 W
+Xeon E7-8893 v3,4  / 8,3.2 to 3.5 GHz,22 nm,45MB,140 W
+A10 PRO-7800B,4 ,3.5 to 3.9 GHz,28 nm,N/A,65 W
+A10 PRO-7850B,4 ,3.7 to 4 GHz,28 nm,N/A,95 W
+A10-7700K,4 ,3.4 to 3.8 GHz,28 nm,N/A,95 W
+A10-7800,4 ,3.5 to 3.9 GHz,28 nm,N/A,65 W
+A10-7850K,4 ,3.7 to 4 GHz,28 nm,N/A,95 W
+A4 PRO-7300B,2 ,3.8 to 4 GHz,32 nm,N/A,65 W
+A4 PRO-7350B,2 ,3.4 to 3.8 GHz,28 nm,N/A,65 W
+A4-4020,2 ,3.2 to 3.4 GHz,32 nm,N/A,65 W
+A4-5050,4 ,1550 MHz,28 nm,N/A,15 W
+A4-6320B,2 ,3.8 to 4 GHz,32 nm,N/A,65 W
+A4-7300,2 ,3.8 to 4 GHz,32 nm,N/A,65 W
+A6 PRO-7400B,2 ,3.5 to 3.9 GHz,28 nm,N/A,65 W
+A6-6420K,2 ,4 to 4.2 GHz,32 nm,N/A,65 W
+A6-7400K,2 ,3.5 to 3.9 GHz,28 nm,N/A,65 W
+A8 PRO-7600B,4 ,3.1 to 3.8 GHz,28 nm,N/A,65 W
+A8-7600,4 ,3.1 to 3.8 GHz,28 nm,N/A,65 W
+Athlon 5150,4 ,1600 MHz,28 nm,N/A,25 W
+Athlon 5350,4 ,2.05 GHz,28 nm,N/A,25 W
+Athlon 5370,4 ,2.2 GHz,28 nm,N/A,25 W
+Athlon X2 450,2 ,3.5 to 3.9 GHz,28 nm,N/A,65 W
+Athlon X4 840,4 ,3.1 to 3.8 GHz,28 nm,N/A,65 W
+Athlon X4 860K,4 ,3.7 to 4 GHz,28 nm,N/A,95 W
+E1-2150,2 ,1050 MHz,28 nm,N/A,9 W
+FX-770K,4 ,3.5 to 3.9 GHz,28 nm,N/A,65 W
+FX-8320E,8 ,3.2 to 4 GHz,32 nm,8MB,95 W
+FX-8370,8 ,4 to 4.3 GHz,32 nm,8MB,125 W
+FX-8370E,8 ,3.3 to 4.3 GHz,32 nm,8MB,95 W
+Sempron 2650,2 ,1450 MHz,28 nm,N/A,25 W
+Sempron 3850,4 ,1300 MHz,28 nm,N/A,25 W
+A10-7860K,4 ,3.6 to 4 GHz,28 nm,N/A,65 W
+A10-7890K,4 ,4 to 4.3 GHz,28 nm,N/A,95 W
+A6-7470K,2 ,3.7 to 4 GHz,28 nm,N/A,65 W
+A6-9500,2 ,3.5 to 3.8 GHz,28 nm,N/A,65 W
+A6-9500E,2 ,3 to 3.4 GHz,28 nm,N/A,35 W
+A9-9400 SoC,2 ,2.4 to 3.2 GHz,28 nm,N/A,10 W
+A9-9410 SoC,2 ,2.9 to 3.5 GHz,28 nm,N/A,25 W
+A9-9420 SoC,2 ,3 to 3.6 GHz,28 nm,N/A,15 W
+A9-9425 SoC,2 ,3.1 to 3.7 GHz,28 nm,N/A,15 W
+Athlon X4 845,4 ,3.5 to 3.8 GHz,28 nm,N/A,65 W
+Opteron A1120,4 ,1700 MHz,28 nm,8MB,25 W
+Opteron A1150,8 ,1700 MHz,28 nm,8MB,32 W
+Opteron A1170,8 ,2000 MHz,28 nm,8MB,32 W
+Opteron X2170,4 ,2.4 GHz,28 nm,N/A,25 W
+PRO A10-8770,4 ,3.5 to 3.8 GHz,28 nm,N/A,65 W
+PRO A10-8770E,4 ,2.8 to 3.5 GHz,28 nm,N/A,35 W
+PRO A10-9700E,4 ,3 to 3.5 GHz,28 nm,N/A,35 W
+PRO A12-8870,4 ,3.7 to 4.2 GHz,28 nm,N/A,65 W
+PRO A12-8870E,4 ,2.9 to 3.7 GHz,28 nm,N/A,35 W
+PRO A12-9800,4 ,3.8 to 4.2 GHz,28 nm,N/A,65 W
+PRO A6-9500,2 ,3.5 to 3.8 GHz,28 nm,N/A,65 W
+PRO A6-9500E,2 ,3 to 3.4 GHz,28 nm,N/A,35 W
+PRO A8-9600,4 ,3.1 to 3.4 GHz,28 nm,N/A,65 W
+A6-7480,2 ,3.5 to 3.8 GHz,28 nm,N/A,45 W
+A8-7680,4 ,3.5 to 3.8 GHz,28 nm,N/A,45 W
+Athlon 200GE,2  / 4,3.2 GHz,14 nm,4MB,35 W
+Athlon 220GE,2  / 4,3.4 GHz,14 nm,4MB,35 W
+Athlon 240GE,2  / 4,3.5 GHz,14 nm,4MB,35 W
+Athlon PRO 200GE,2 ,3.2 GHz,14 nm,4MB,35 W
+EPYC 7261,8  / 16,2.5 to 2.9 GHz,14 nm,32MB,170 W
+EPYC 7371,16  / 32,3.1 to 3.8 GHz,14 nm,64MB,170 W
+EPYC Embedded 3251,8  / 16,2.5 to 3.1 GHz,14 nm,16MB,50 W
+PRO A6-8570,2 ,3.5 to 3.8 GHz,28 nm,N/A,65 W
+PRO A6-8570E,2 ,3 to 3.4 GHz,28 nm,N/A,65 W
+Ryzen 3 2200G,4 ,3.5 to 3.7 GHz,14 nm,4MB,65 W
+Ryzen 3 2200GE,4 ,3.2 to 3.6 GHz,14 nm,4MB,35 W
+Ryzen 3 2200U,2  / 4,2.5 to 3.4 GHz,14 nm,4MB,15 W
+Ryzen 3 2300U,4 ,2 to 3.4 GHz,14 nm,4MB,15 W
+Ryzen 3 2300X,4 ,3.5 to 4 GHz,12 nm,4MB,65 W
+Ryzen 3 PRO 2200GE,4 ,3.2 to 3.6 GHz,14 nm,4MB,35 W
+Ryzen 5 2400G,4  / 8,3.6 to 3.9 GHz,14 nm,4MB,65 W
+Ryzen 5 2400GE,4  / 8,3.2 to 3.8 GHz,14 nm,4MB,35 W
+Ryzen 5 2500X,4  / 8,3.6 to 4 GHz,12 nm,8MB,65 W
+Ryzen 5 2600,6  / 12,3.4 to 3.9 GHz,12 nm,16MB,65 W
+Ryzen 5 2600E,6  / 12,3.1 to 4 GHz,12 nm,16MB,65 W
+Ryzen 5 2600H,4  / 8,3.3 to 3.6 GHz,14 nm,4MB,15 W
+Ryzen 5 2600X,6  / 12,3.6 to 4.25 GHz,12 nm,16MB,95 W
+Ryzen 5 PRO 2400G,4  / 8,3.6 to 3.9 GHz,14 nm,4MB,65 W
+Ryzen 5 PRO 2400GE,4  / 8,3.2 to 3.8 GHz,14 nm,4MB,35 W
+Ryzen 5 PRO 2600,6  / 12,3.4 to 3.9 GHz,12 nm,16MB,65 W
+Ryzen 7 2700,8  / 16,3.2 to 4.1 GHz,12 nm,16MB,65 W
+Ryzen 7 2700E,8  / 16,2.8 to 4 GHz,12 nm,16MB,65 W
+Ryzen 7 2700X,8  / 16,3.7 to 4.35 GHz,12 nm,16MB,105 W
+Ryzen 7 2800H,4  / 8,3.4 to 3.8 GHz,14 nm,4MB,15 W
+Ryzen 7 PRO 2700,8  / 16,3.2 to 4.1 GHz,12 nm,16MB,65 W
+Ryzen 7 PRO 2700X,8  / 16,3.6 to 4.1 GHz,12 nm,16MB,95 W
+Ryzen Embedded V1202B,2  / 4,2.3 to 3.2 GHz,14 nm,2MB,15 W
+Ryzen Embedded V1605B,4  / 8,2 to 3.6 GHz,14 nm,2MB,15 W
+Ryzen Embedded V1756B,4  / 8,3.25 to 3.6 GHz,14 nm,2MB,45 W
+Ryzen Embedded V1807B,4  / 8,3.35 to 3.8 GHz,14 nm,2MB,45 W
+Ryzen Threadripper 2920X,12  / 24,3.5 to 4.3 GHz,12 nm,32MB,180 W
+Ryzen Threadripper 2950X,16  / 32,3.5 to 4.4 GHz,12 nm,32MB,180 W
+Ryzen Threadripper 2970WX,24  / 48,3 to 4.2 GHz,12 nm,64MB,250 W
+Ryzen Threadripper 2990WX,32  / 64,3 to 4.2 GHz,12 nm,64MB,250 W
+A10-7870K,4 ,3.9 to 4.1 GHz,28 nm,N/A,95 W
+A8-7650K,4 ,3.3 to 3.8 GHz,28 nm,N/A,95 W
+A8-7670K,4 ,3.6 to 3.9 GHz,28 nm,N/A,95 W
+Athlon X4 830,4 ,3 to 3.4 GHz,28 nm,N/A,65 W
+Athlon X4 850,4 ,3.2 to 3.9 GHz,28 nm,N/A,65 W
+Athlon X4 870K,4 ,3.9 to 4.1 GHz,28 nm,N/A,95 W
+Athlon X4 880K,4 ,4 to 4.2 GHz,28 nm,N/A,95 W
+FX-6330,6 ,3.6 to 4.2 GHz,32 nm,8MB,125 W
+PRO A10-8750B,4 ,3.6 to 4 GHz,28 nm,N/A,95 W
+PRO A10-8850B,4 ,3.9 to 4.1 GHz,28 nm,N/A,95 W
+PRO A4-8350B,2 ,3.5 to 3.9 GHz,28 nm,N/A,65 W
+PRO A6-8550B,2 ,3.5 to 4 GHz,28 nm,N/A,65 W
+PRO A8-8650B,4 ,3.2 to 3.9 GHz,28 nm,N/A,65 W
+Celeron G3930,2 ,2.9 GHz,14 nm,2MB,51 W
+Celeron G3930T,2 ,2.7 GHz,14 nm,2MB,35 W
+Celeron G3950,2 ,3 GHz,14 nm,2MB,51 W
+Core i3-7100,2  / 4,3.9 GHz,14 nm,3MB,51 W
+Core i3-7100T,2  / 4,3.4 GHz,14 nm,3MB,35 W
+Core i3-7120,2  / 4,4 GHz,14 nm,3MB,51 W
+Core i3-7120T,2  / 4,3.6 GHz,14 nm,3MB,35 W
+Core i3-7300,2  / 4,4 GHz,14 nm,4MB,51 W
+Core i3-7300T,2  / 4,3.5 GHz,14 nm,4MB,35 W
+Core i3-7320,2  / 4,4.1 GHz,14 nm,4MB,51 W
+Core i3-7320T,2  / 4,3.6 GHz,14 nm,4MB,35 W
+Core i3-7340,2  / 4,4.2 GHz,14 nm,4MB,51 W
+Core i3-7350K,2  / 4,4.2 GHz,14 nm,4MB,60 W
+Core i3-7360X,2  / 4,4.3 GHz,14 nm,4MB,112 W
+Core i3-8100,4 ,2.8 to 3.6 GHz,14 nm,6MB,62 W
+Core i3-8350K,4 ,4 GHz,14 nm,8MB,91 W
+Core i5-7300HQ,4 ,2.5 to 3.5 GHz,14 nm,6MB,45 W
+Core i5-7400,4 ,3 to 3.5 GHz,14 nm,6MB,65 W
+Core i5-7400T,4 ,2.4 to 3 GHz,14 nm,6MB,35 W
+Core i5-7500,4 ,3.4 to 3.8 GHz,14 nm,6MB,65 W
+Core i5-7500T,4 ,2.7 to 3.3 GHz,14 nm,6MB,35 W
+Core i5-7600,4 ,3.5 to 4.1 GHz,14 nm,6MB,65 W
+Core i5-7600K,4 ,3.8 to 4.2 GHz,14 nm,6MB,91 W
+Core i5-7600T,4 ,2.8 to 3.7 GHz,14 nm,6MB,35 W
+Core i5-7640X,4 ,3.9 to 4.3 GHz,14 nm,6MB,112 W
+Core i5-8250U,4  / 8,1.6 to 3.4 GHz,14 nm,6MB,15 W
+Core i5-8350U,4  / 8,1.7 to 3.6 GHz,14 nm,6MB,15 W
+Core i5-8400,6 ,2.8 to 4 GHz,14 nm,9MB,65 W
+Core i5-8600K,6 ,3.6 to 4.3 GHz,14 nm,9MB,95 W
+Core i7-7700,4  / 8,3.6 to 4.2 GHz,14 nm,8MB,65 W
+Core i7-7700K,4  / 8,4.2 to 4.5 GHz,14 nm,8MB,91 W
+Core i7-7700T,4  / 8,2.9 to 3.8 GHz,14 nm,8MB,35 W
+Core i7-7740X,4  / 8,4.3 to 4.6 GHz,14 nm,8MB,112 W
+Core i7-7800X,6  / 12,3.5 to 4 GHz,14 nm,8.25MB,140 W
+Core i7-7820X,8  / 16,3.6 to 4.5 GHz,14 nm,11MB,140 W
+Core i7-8550U,4  / 8,1.8 to 4 GHz,14 nm,8MB,15 W
+Core i7-8650U,4  / 8,1.9 to 4.2 GHz,14 nm,8MB,15 W
+Core i7-8700K,6  / 12,3.7 to 4.7 GHz,14 nm,12MB,95 W
+Core i9-7900X,10  / 20,3.3 to 4.5 GHz,14 nm,14MB,140 W
+Core i9-7920X,12  / 24,2.9 to 4.4 GHz,14 nm,16.5MB,140 W
+Core i9-7940X,14  / 28,3.1 to 4.4 GHz,14 nm,19.25MB,165 W
+Core i9-7960X,16  / 32,2.8 to 4.4 GHz,14 nm,22MB,165 W
+Core i9-7980XE,18  / 36,2.6 to 4.4 GHz,14 nm,24.75MB,165 W
+Pentium G4560,2  / 4,3.5 GHz,14 nm,3MB,51 W
+Pentium G4560T,2  / 4,2.9 GHz,14 nm,3MB,35 W
+Pentium G4600,2  / 4,3.6 GHz,14 nm,3MB,51 W
+Pentium G4600T,2  / 4,3 GHz,14 nm,3MB,35 W
+Pentium G4620,2  / 4,3.7 GHz,14 nm,3MB,51 W
+Pentium Silver J5005,4 ,1.5 to 2.4 GHz,14 nm,N/A,10 W
+Xeon Bronze 3106,8 ,2.1 to 3 GHz,14 nm,11MB,85 W
+Xeon E3-1285 v6,4  / 8,4.1 to 4.5 GHz,14 nm,8MB,79 W
+Xeon Gold 6154,18  / 36,3 to 3.7 GHz,14 nm,24.75MB,200 W
+Xeon Phi 7235,64  / 256,1300 to 1400 MHz,14 nm,N/A,250 W
+Xeon Phi 7285,68  / 272,1300 to 1400 MHz,14 nm,N/A,250 W
+Xeon Phi 7295,72  / 288,1500 to 1600 MHz,14 nm,N/A,320 W
+Xeon Platinum 8180,28  / 56,2.5 to 3.8 GHz,14 nm,38.5MB,205 W
+Xeon Platinum 8180M,28  / 56,2.5 to 3.8 GHz,14 nm,38.5MB,205 W
+Xeon Silver 4116,12  / 24,2.1 to 3 GHz,14 nm,16.5MB,85 W
+Xeon W-2195,18  / 36,2.3 to 4.3 GHz,14 nm,24.75MB,140 W
+A6-9120C SoC,2 ,1.6 to 2.4 GHz,28 nm,N/A,6 W
+A6-9220C SoC,2 ,1.8 to 2.7 GHz,28 nm,N/A,6 W
+A6-9400,2 ,3.4 to 3.7 GHz,28 nm,N/A,65 W
+Athlon 3000G,2  / 4,3.5 GHz,14 nm,4MB,35 W
+Athlon 300U,2  / 4,2.4 to 3.3 GHz,14 nm,4MB,15 W
+Athlon PRO 300U,2  / 4,2.4 to 3.3 GHz,14 nm,4MB,15 W
+EPYC 7232P,8  / 16,3.1 to 3.2 GHz,7 nm,32MB,120 W
+EPYC 7252,8  / 16,2.8 to 3.2 GHz,7 nm,64MB,120 W
+EPYC 7262,8  / 16,3.1 to 3.3 GHz,7 nm,128MB,155 W
+EPYC 7272,12  / 24,2.6 to 3.2 GHz,7 nm,64MB,120 W
+EPYC 7282,16  / 32,2.8 to 3.2 GHz,7 nm,64MB,120 W
+EPYC 7302,16  / 32,3 to 3.3 GHz,7 nm,128MB,155 W
+EPYC 7302P,16  / 32,3 to 3.3 GHz,7 nm,128MB,155 W
+EPYC 7352,24  / 48,2.4 to 3.3 GHz,7 nm,128MB,155 W
+EPYC 7402,24  / 48,2.8 to 3.35 GHz,7 nm,128MB,180 W
+EPYC 7402P,24  / 48,2.8 to 3.35 GHz,7 nm,128MB,180 W
+EPYC 7452,32  / 64,2.2 to 3.35 GHz,7 nm,128MB,155 W
+EPYC 7502,32  / 64,2.5 to 3.35 GHz,7 nm,128MB,180 W
+EPYC 7502P,32  / 64,2.5 to 3.35 GHz,7 nm,128MB,180 W
+EPYC 7542,32  / 64,2.9 to 3.4 GHz,7 nm,128MB,225 W
+EPYC 7552,48  / 96,2.2 to 3.35 GHz,7 nm,192MB,200 W
+EPYC 7642,48  / 96,2.4 to 3.4 GHz,7 nm,256MB,225 W
+EPYC 7702,64  / 128,2 to 3.35 GHz,7 nm,256MB,200 W
+EPYC 7702P,64  / 128,2 to 3.35 GHz,7 nm,256MB,200 W
+EPYC 7742,64  / 128,2.25 to 3.4 GHz,7 nm,256MB,225 W
+EPYC 7H12,64  / 128,2.6 to 3.3 GHz,7 nm,256MB,280 W
+Ryzen 3 3200G,4 ,3.6 to 4 GHz,12 nm,4MB,65 W
+Ryzen 3 3200GE,4 ,3.3 to 4 GHz,12 nm,4MB,35 W
+Ryzen 3 3200U,2  / 4,2.6 to 3.5 GHz,14 nm,4MB,15 W
+Ryzen 3 3300U,4 ,2.1 to 3.5 GHz,12 nm,4MB,15 W
+Ryzen 3 PRO 2300U,4 ,2 to 3.4 GHz,14 nm,4MB,15 W
+Ryzen 3 PRO 3200GE,4 ,3.3 to 4 GHz,12 nm,4MB,35 W
+Ryzen 3 PRO 3300U,4 ,2.1 to 3.5 GHz,12 nm,4MB,15 W
+Ryzen 5 1600AF,6  / 12,3.2 to 3.6 GHz,12 nm,16MB,65 W
+Ryzen 5 3400G,4  / 8,3.7 to 4.2 GHz,12 nm,4MB,65 W
+Ryzen 5 3400GE,4  / 8,3.3 to 4 GHz,12 nm,4MB,35 W
+Ryzen 5 3500U,4  / 8,2.1 to 3.7 GHz,12 nm,4MB,15 W
+Ryzen 5 3500X,6 ,3.6 to 4.1 GHz,7 nm,32MB,65 W
+Ryzen 5 3550H,4  / 8,2.1 to 3.7 GHz,12 nm,4MB,35 W
+Ryzen 5 3580U,4  / 8,2.1 to 3.7 GHz,12 nm,4MB,15 W
+Ryzen 5 3600,6  / 12,3.6 to 4.2 GHz,7 nm,32MB,65 W
+Ryzen 5 3600X,6  / 12,3.8 to 4.4 GHz,7 nm,32MB,95 W
+Ryzen 5 3600XT,6  / 12,3.8 to 4.5 GHz,7 nm,32MB,95 W
+Ryzen 5 PRO 2500U,4  / 8,2 to 3.6 GHz,14 nm,4MB,15 W
+Ryzen 5 PRO 3400GE,4  / 8,3.3 to 4 GHz,12 nm,4MB,35 W
+Ryzen 5 PRO 3500U,4  / 8,2.1 to 3.7 GHz,12 nm,4MB,15 W
+Ryzen 7 2700X 50th Anniversary,8  / 16,3.7 to 4.35 GHz,12 nm,16MB,105 W
+Ryzen 7 3700U,4  / 8,2.3 to 4 GHz,12 nm,4MB,15 W
+Ryzen 7 3700X,8  / 16,3.6 to 4.4 GHz,7 nm,32MB,65 W
+Ryzen 7 3750H,4  / 8,2.3 to 4 GHz,12 nm,4MB,35 W
+Ryzen 7 3780U,4  / 8,2.3 to 4 GHz,12 nm,4MB,15 W
+Ryzen 7 3800X,8  / 16,3.9 to 4.5 GHz,7 nm,32MB,105 W
+Ryzen 7 PRO 3700U,4  / 8,2.3 to 4 GHz,12 nm,4MB,15 W
+Ryzen 9 3900X,12  / 24,3.8 to 4.6 GHz,7 nm,64MB,105 W
+Ryzen 9 3950X,16  / 32,3.5 to 4.7 GHz,7 nm,64MB,105 W
+Ryzen Threadripper 3960X,24  / 48,3.8 to 4.5 GHz,7 nm,128MB,280 W
+Ryzen Threadripper 3970X,32  / 64,3.7 to 4.5 GHz,7 nm,128MB,280 W
+Celeron G5900,2 ,3.4 GHz,14 nm,2MB,58 W
+Celeron G5920,2 ,3.5 GHz,14 nm,2MB,58 W
+Core i3-10100,4  / 8,3.6 to 4.3 GHz,14 nm,6MB,65 W
+Core i3-10300,4  / 8,3.7 to 4.4 GHz,14 nm,8MB,62 W
+Core i3-10320,4  / 8,3.8 to 4.6 GHz,14 nm,8MB,91 W
+A10-9700,4 ,3.5 to 3.8 GHz,28 nm,N/A,65 W
+A10-9700E,4 ,3 to 3.5 GHz,28 nm,N/A,35 W
+A12-9800,4 ,3.8 to 4.2 GHz,28 nm,N/A,65 W
+A12-9800E,4 ,3.1 to 3.8 GHz,28 nm,N/A,35 W
+A6-9550,2 ,3.8 to 4 GHz,28 nm,N/A,65 W
+A8-9600,4 ,3.1 to 3.4 GHz,28 nm,N/A,65 W
+Athlon X4 940,4 ,3.2 to 3.6 GHz,28 nm,N/A,65 W
+Athlon X4 950,4 ,3.5 to 3.8 GHz,28 nm,N/A,65 W
+Athlon X4 970,4 ,3.8 to 4 GHz,28 nm,N/A,65 W
+EPYC 7251,8  / 16,2.1 to 2.9 GHz,14 nm,32MB,120 W
+EPYC 7281,16  / 32,2.1 to 2.7 GHz,14 nm,32MB,170 W
+Core i3-10350K,4  / 8,4.1 to 4.8 GHz,14 nm,8MB,91 W
+Core i3-1110G4,2  / 4,1.8 to 3.9 GHz,10 nm,6MB,15 W
+Core i3-1115G4,2  / 4,3 to 4.1 GHz,10 nm,6MB,28 W
+Core i3-1120G4,4  / 8,1.1 to 3.5 GHz,10 nm,8MB,15 W
+Core i3-1125G4,4  / 8,2 to 3.7 GHz,10 nm,8MB,28 W
+Core i5-10200H,4  / 8,2.4 to 4.1 GHz,14 nm,6MB,45 W
+Core i5-10300H,4  / 8,2.5 to 4.5 GHz,14 nm,6MB,45 W
+Core i5-1038NG7,4  / 8,2 to 3.8 GHz,10 nm,6MB,28 W
+Core i5-10400,6  / 12,2.9 to 4.3 GHz,14 nm,12MB,65 W
+Core i5-10400F,6  / 12,2.9 to 4.3 GHz,14 nm,12MB,65 W
+Core i5-10400H,4  / 8,2.6 to 4.6 GHz,14 nm,6MB,45 W
+Core i5-10500,6  / 12,3.1 to 4.5 GHz,14 nm,12MB,65 W
+Core i5-10600,6  / 12,3.3 to 4.8 GHz,14 nm,12MB,65 W
+Core i5-10600K,6  / 12,4.1 to 4.8 GHz,14 nm,12MB,125 W
+EPYC 7301,16  / 32,2.2 to 2.7 GHz,14 nm,64MB,170 W
+EPYC 7351,16  / 32,2.4 to 2.9 GHz,14 nm,64MB,170 W
+EPYC 7351P,16  / 32,2.4 to 2.9 GHz,14 nm,64MB,170 W
+EPYC 7401,24  / 48,2 to 3 GHz,14 nm,64MB,170 W
+EPYC 7401P,24  / 48,2 to 3 GHz,14 nm,64MB,170 W
+EPYC 7451,24  / 48,2.3 to 3.2 GHz,14 nm,64MB,180 W
+EPYC 7501,32  / 64,2 to 3 GHz,14 nm,64MB,170 W
+EPYC 7551,32  / 64,2 to 3 GHz,14 nm,64MB,180 W
+EPYC 7551P,32  / 64,2 to 3 GHz,14 nm,64MB,180 W
+EPYC 7601,32  / 64,2.2 to 3.2 GHz,14 nm,64MB,180 W
+PRO A10-9700,4 ,3.5 to 3.8 GHz,28 nm,N/A,65 W
+PRO A12-9800E,4 ,3.1 to 3.8 GHz,28 nm,N/A,35 W
+Ryzen 3 1200,4 ,3.1 to 3.4 GHz,14 nm,8MB,65 W
+Ryzen 3 1300,4 ,3.2 to 3.5 GHz,14 nm,8MB,65 W
+Ryzen 3 1300X,4 ,3.4 to 3.7 GHz,14 nm,8MB,65 W
+Ryzen 3 PRO 1200,4 ,3.1 to 3.4 GHz,14 nm,8MB,65 W
+Core i5-10600KF,6  / 12,4.1 to 4.8 GHz,14 nm,12MB,95 W
+Core i5-1130G7,4  / 8,1.1 to 4 GHz,10 nm,8MB,15 W
+Core i5-1135G7,4  / 8,2.4 to 4.2 GHz,10 nm,8MB,28 W
+Core i5-1145G7,4  / 8,2.6 to 4.4 GHz,10 nm,8MB,28 W
+Core i7-10610U,4  / 8,1.8 to 4.9 GHz,14 nm,8MB,25 W
+Core i7-10700,8  / 16,2.9 to 4.8 GHz,14 nm,16MB,65 W
+Core i7-10700F,8  / 16,2.9 to 4.8 GHz,14 nm,16MB,65 W
+Core i7-10700K,8  / 16,3.8 to 5.1 GHz,14 nm,16MB,125 W
+Core i7-10700KF,8  / 16,3.8 to 5.1 GHz,14 nm,16MB,125 W
+Core i7-10750H,6  / 12,2.6 to 5 GHz,14 nm,12MB,45 W
+Core i7-10810U,6  / 12,1.1 to 4.9 GHz,14 nm,12MB,25 W
+Core i7-10850H,6  / 12,2.7 to 5.1 GHz,14 nm,12MB,45 W
+Core i7-10870H,8  / 16,2.2 to 5 GHz,14 nm,16MB,45 W
+Core i7-10875H,8  / 16,2.1 to 5.1 GHz,14 nm,16MB,45 W
+Core i7-1160G7,4  / 8,1.2 to 4.4 GHz,10 nm,12MB,15 W
+Core i7-1165G7,4  / 8,2.8 to 4.7 GHz,10 nm,12MB,28 W
+Core i7-1185G7,4  / 8,3 to 4.8 GHz,10 nm,12MB,28 W
+Ryzen 3 PRO 1300,4 ,3.5 to 3.7 GHz,14 nm,8MB,65 W
+Ryzen 5 1400,4  / 8,3.2 to 3.4 GHz,14 nm,8MB,65 W
+Ryzen 5 1500X,4  / 8,3.5 to 3.7 GHz,14 nm,16MB,65 W
+Ryzen 5 1600,6  / 12,3.2 to 3.6 GHz,14 nm,16MB,65 W
+Ryzen 5 1600X,6  / 12,3.6 to 4 GHz,14 nm,16MB,95 W
+Ryzen 5 2500U,4  / 8,2 to 3.6 GHz,14 nm,4MB,15 W
+Ryzen 5 PRO 1500,4  / 8,3.5 to 3.7 GHz,14 nm,16MB,65 W
+Ryzen 5 PRO 1600,6  / 12,3.2 to 3.6 GHz,14 nm,16MB,65 W
+Ryzen 7 1700,8  / 16,3 to 3.7 GHz,14 nm,16MB,65 W
+Ryzen 7 1700X,8  / 16,3.4 to 3.8 GHz,14 nm,16MB,95 W
+Ryzen 7 1800X,8  / 16,3.6 to 4 GHz,14 nm,16MB,95 W
+Ryzen 7 2700U,4  / 8,2.2 to 3.8 GHz,14 nm,4MB,15 W
+Ryzen 7 PRO 1700,8  / 16,3 to 3.7 GHz,14 nm,16MB,65 W
+Ryzen 7 PRO 1700X,8  / 16,3.4 to 3.8 GHz,14 nm,16MB,95 W
+Ryzen 7 PRO 2700U,4  / 8,2.2 to 3.8 GHz,14 nm,4MB,15 W
+Ryzen Threadripper 1900,8  / 16,3.1 to 3.7 GHz,14 nm,32MB,125 W
+Core i9-10800F,10  / 20,2.7 to 5 GHz,14 nm,20MB,65 W
+Core i9-10850K,10  / 20,3.6 to 5.2 GHz,14 nm,20MB,125 W
+Core i9-10885H,8  / 16,2.4 to 5.3 GHz,14 nm,16MB,45 W
+Core i9-10900,10  / 20,2.8 to 5.2 GHz,14 nm,20MB,65 W
+Core i9-10900F,10  / 20,2.8 to 5.2 GHz,14 nm,20MB,65 W
+Core i9-10900K,10  / 20,3.7 to 5.3 GHz,14 nm,20MB,125 W
+Core i9-10900KF,10  / 20,3.7 to 5.3 GHz,14 nm,20MB,125 W
+Core i9-10980HK,8  / 16,2.4 to 5.3 GHz,14 nm,16MB,45 W
+Core i9-10990XE,22  / 44,4 to 5 GHz,14 nm,30.25MB,380 W
+Pentium Gold G6400,2  / 4,4 GHz,14 nm,4MB,58 W
+Pentium Gold G6500,2  / 4,4.1 GHz,14 nm,4MB,58 W
+Pentium Gold G6600,2  / 4,4.2 GHz,14 nm,4MB,58 W
+Xeon W-1290,10  / 20,3.2 to 5.2 GHz,14 nm,20MB,80 W
+Xeon W-1290P,10  / 20,3.7 to 5.3 GHz,10 nm,20MB,125 W
+Ryzen Threadripper 1900X,8  / 16,3.8 to 4 GHz,14 nm,32MB,180 W
+Ryzen Threadripper 1920,12  / 24,3.2 to 3.8 GHz,14 nm,32MB,140 W
+Ryzen Threadripper 1920X,12  / 24,3.5 to 4 GHz,14 nm,32MB,180 W
+Ryzen Threadripper 1940,14  / 28,3.2 to 3.7 GHz,14 nm,32MB,180 W
+Ryzen Threadripper 1940X,14  / 28,3.5 to 4 GHz,14 nm,32MB,180 W
+Ryzen Threadripper 1950,16  / 32,3.2 GHz,14 nm,32MB,180 W
+Ryzen Threadripper 1950X,16  / 32,3.4 to 4 GHz,14 nm,32MB,180 W
+Core i5-11260H,6  / 12,2.1 to 4.4 GHz,10 nm,12MB,35 W
+Core i5-11320H,4  / 8,2.5 to 4.5 GHz,10 nm,8MB,28 W
+Core i5-11400H,6  / 12,2.2 to 4.5 GHz,10 nm,12MB,35 W
+Core i5-11500H,6  / 12,2.4 to 4.6 GHz,10 nm,12MB,35 W
+Core i5-1155G7,4  / 8,2.5 to 4.5 GHz,10 nm,8MB,28 W
+Core i5-11600,6  / 12,2.8 to 4.8 GHz,14 nm,12MB,65 W
+Core i5-11600K,6  / 12,3.9 to 4.9 GHz,14 nm,12MB,125 W
+Core i5-11600KF,6  / 12,3.9 to 4.9 GHz,14 nm,12MB,125 W
+Core i5-11600T,6  / 12,1.7 to 4.1 GHz,14 nm,12MB,35 W
+Core i5-12600K,10  / 16,3.7 to 4.9 GHz,10 nm,20MB,125 W
+Core i5-12600KF,10  / 16,3.7 to 4.9 GHz,10 nm,20MB,125 W
+Core i7-11390H,4  / 8,2.9 to 5 GHz,10 nm,12MB,28 W
+Core i7-11600H,6  / 12,2.5 to 4.6 GHz,10 nm,18MB,35 W
+Core i7-11700,8  / 16,2.5 to 4.9 GHz,14 nm,16MB,65 W
+Core i7-11700F,8  / 16,2.5 to 4.9 GHz,14 nm,16MB,65 W
+Core i7-11700K,8  / 16,3.6 to 5 GHz,14 nm,16MB,125 W
+Core i7-11700KF,8  / 16,3.6 to 5 GHz,14 nm,16MB,125 W
+Core i7-11700T,8  / 16,1.4 to 4.6 GHz,14 nm,16MB,35 W
+Core i7-11800H,8  / 16,1.9 to 4.6 GHz,10 nm,24MB,35 W
+Core i7-11850H,8  / 16,2.1 to 4.8 GHz,10 nm,24MB,35 W
+Core i7-1195G7,4  / 8,2.9 to 5 GHz,10 nm,12MB,28 W
+Core i7-12700K,12  / 20,3.6 to 5 GHz,10 nm,25MB,125 W
+Core i7-12700KF,12  / 20,3.6 to 5 GHz,10 nm,25MB,125 W
+Core i9-11900,8  / 16,2.5 to 5.2 GHz,14 nm,16MB,65 W
+Core i9-11900F,8  / 16,2.5 to 5.2 GHz,14 nm,16MB,65 W
+Core i9-11900H,8  / 16,2.1 to 4.9 GHz,10 nm,24MB,35 W
+Core i9-11900K,8  / 16,3.5 to 5.3 GHz,14 nm,16MB,125 W
+Core i9-11900KB,8  / 16,3.3 to 5.3 GHz,10 nm,24MB,65 W
+Core i9-11900KF,8  / 16,3.5 to 5.3 GHz,14 nm,16MB,125 W
+Core i9-11900T,8  / 16,1.5 to 4.9 GHz,14 nm,16MB,35 W
+Core i9-11950H,8  / 16,2.1 to 5 GHz,10 nm,24MB,35 W
+Core i9-11980HK,8  / 16,2.6 to 5 GHz,10 nm,24MB,45 W
+Core i9-12900K,16  / 24,3.2 to 5.2 GHz,10 nm,30MB,125 W
+Core i9-12900KF,16  / 24,3.2 to 5.2 GHz,10 nm,30MB,125 W
+Xeon E-2314,4 ,2.8 to 4.5 GHz,14 nm,8MB,65 W
+Xeon E-2324G,4 ,3.1 to 4.6 GHz,14 nm,8MB,65 W
+Xeon E-2334,4  / 8,3.4 to 4.8 GHz,14 nm,8MB,65 W
+Xeon E-2336,6  / 12,2.9 to 4.8 GHz,14 nm,12MB,65 W
+Xeon E-2356G,6  / 12,3.2 to 5 GHz,14 nm,12MB,80 W
+Xeon E-2374G,4  / 8,3.7 to 5 GHz,14 nm,8MB,80 W
+Xeon E-2378,8  / 16,2.6 to 4.8 GHz,14 nm,16MB,65 W
+Xeon E-2378G,8  / 16,2.8 to 5.1 GHz,14 nm,16MB,80 W
+Xeon E-2386G,6  / 12,3.5 to 5.1 GHz,14 nm,12MB,95 W
+Xeon E-2388G,8  / 16,3.2 to 5.1 GHz,14 nm,16MB,95 W
+Xeon Gold 5315Y,8  / 16,3.2 to 3.6 GHz,10 nm,12MB,140 W
+Xeon Gold 5317,12  / 24,3 to 3.6 GHz,10 nm,18MB,150 W
+Xeon Gold 5318H,18  / 36,2.5 to 3.8 GHz,14 nm,24.75MB,150 W
+Xeon Gold 5318N,24  / 48,2.1 to 3.4 GHz,10 nm,36MB,150 W
+Xeon Gold 5318S,24  / 48,2.1 to 3.4 GHz,10 nm,36MB,165 W
+Xeon Gold 5318Y,24  / 48,2.1 to 3.4 GHz,10 nm,36MB,165 W
+Xeon Gold 5320,26  / 52,2.2 to 3.4 GHz,10 nm,39MB,185 W
+Xeon Gold 5320H,20  / 40,2.4 to 4.2 GHz,14 nm,27.5MB,150 W
+Xeon Gold 5320T,20  / 40,2.3 to 3.5 GHz,10 nm,30MB,150 W
+Xeon Gold 6312U,24  / 48,2.4 to 3.6 GHz,10 nm,36MB,185 W
+Xeon Gold 6314U,32  / 64,2.3 to 3.4 GHz,10 nm,48MB,205 W
+Xeon Gold 6326,16  / 32,2.9 to 3.5 GHz,10 nm,24MB,185 W
+Xeon Gold 6328H,16  / 32,2.8 to 4.3 GHz,14 nm,22MB,165 W
+Xeon Gold 6328HL,16  / 32,2.8 to 4.3 GHz,14 nm,22MB,165 W
+Xeon Gold 6330,28  / 56,2 to 3.1 GHz,10 nm,42MB,205 W
+Xeon Gold 6330H,24  / 48,2 to 3.7 GHz,14 nm,33MB,150 W
+Xeon Gold 6334,8  / 16,3.6 to 3.7 GHz,10 nm,18MB,165 W
+Xeon Gold 6336Y,24  / 48,2.4 to 3.6 GHz,10 nm,36MB,185 W
+Xeon Gold 6338N,32  / 64,2.2 to 3.5 GHz,10 nm,48MB,185 W
+Xeon Gold 6338T,24  / 48,2.1 to 3.4 GHz,10 nm,36MB,165 W
+Xeon Gold 6342,24  / 48,2.8 to 3.5 GHz,10 nm,36MB,230 W
+Xeon Gold 6346,16  / 32,3.1 to 3.6 GHz,10 nm,36MB,205 W
+Xeon Gold 6348,28  / 56,2.6 to 3.5 GHz,10 nm,42MB,235 W
+Xeon Gold 6348H,24  / 48,2.3 to 4.2 GHz,14 nm,33MB,165 W
+Xeon Gold 6354,18  / 36,3 to 3.6 GHz,10 nm,39MB,205 W
+Xeon Platinum 8351N,36  / 72,2.4 to 3.5 GHz,10 nm,54MB,225 W
+Xeon Platinum 8352M,32  / 64,2.3 to 3.5 GHz,10 nm,48MB,185 W
+Xeon Platinum 8352S,32  / 64,2.2 to 3.4 GHz,10 nm,48MB,205 W
+Xeon Platinum 8352V,36  / 72,2.5 to 3.5 GHz,10 nm,54MB,195 W
+Xeon Platinum 8353H,18  / 36,2.5 to 3.8 GHz,14 nm,24.75MB,150 W
+Xeon Platinum 8354H,18  / 36,3.1 to 4.3 GHz,14 nm,24.75MB,205 W
+Xeon Platinum 8356H,8  / 16,3.9 to 4.4 GHz,14 nm,35.75MB,190 W
+Xeon Platinum 8358,32  / 64,2.6 to 3.4 GHz,10 nm,48MB,250 W
+Xeon Platinum 8358P,32  / 64,2.6 to 3.4 GHz,10 nm,48MB,240 W
+Xeon Platinum 8360H,24  / 48,3 to 4.2 GHz,14 nm,33MB,225 W
+Xeon Platinum 8360HL,24  / 48,3 to 4.2 GHz,14 nm,33MB,225 W
+Xeon Platinum 8360Y,36  / 72,2.4 to 3.5 GHz,10 nm,54MB,250 W
+Xeon Platinum 8362,32  / 64,2.8 to 3.6 GHz,10 nm,48MB,265 W
+Xeon Platinum 8368,38  / 76,2.4 to 3.4 GHz,10 nm,57MB,270 W
+Xeon Platinum 8368Q,38  / 76,2.6 to 3.7 GHz,10 nm,57MB,270 W
+Xeon Platinum 8376H,28  / 56,2.6 to 4.3 GHz,14 nm,38.5MB,205 W
+Xeon Platinum 8376HL,28  / 56,2.6 to 4.3 GHz,14 nm,38.5MB,205 W
+Xeon Platinum 8380,40  / 80,2.3 to 3.4 GHz,10 nm,60MB,270 W
+Xeon Platinum 8380H,28  / 56,2.9 to 4.3 GHz,14 nm,38.5MB,250 W
+Xeon Platinum 8380HL,28  / 56,2.9 to 4.3 GHz,14 nm,38.5MB,250 W
+Xeon Silver 4309Y,8  / 16,2.8 to 3.6 GHz,10 nm,12MB,105 W
+Xeon Silver 4310,12  / 24,2.1 to 3.3 GHz,10 nm,18MB,120 W
+Xeon Silver 4310T,10  / 20,2.3 to 3.4 GHz,10 nm,15MB,105 W
+Xeon Silver 4314,16  / 32,2.4 to 3.4 GHz,10 nm,24MB,135 W
+Xeon Silver 4316,20  / 40,2.3 to 3.4 GHz,10 nm,30MB,150 W
+Xeon W-11855M,6  / 12,3.2 to 4.9 GHz,10 nm,18MB,35 W
+Xeon W-11955M,8  / 16,2.1 to 5 GHz,10 nm,24MB,35 W
+Xeon W-3323,12  / 24,3.5 to 4 GHz,10 nm,18MB,220 W
+Xeon W-3335,16  / 32,3.4 to 4 GHz,10 nm,24MB,250 W
+Xeon W-3345,24  / 48,3 to 4 GHz,10 nm,36MB,250 W
+Xeon W-3365,32  / 64,2.7 to 4 GHz,10 nm,48MB,270 W
+Xeon W-3375,38  / 76,2.5 to 4 GHz,10 nm,57MB,270 W
+Athlon Gold 3150G,4 ,3.5 to 3.9 GHz,12 nm,4MB,65 W
+Athlon Gold 3150GE,4 ,3.5 to 3.8 GHz,12 nm,4MB,35 W
+Athlon Gold PRO 3150G,4 ,3.5 to 3.9 GHz,12 nm,4MB,65 W
+Athlon Gold PRO 3150GE,4 ,3.5 to 3.8 GHz,12 nm,4MB,35 W
+Athlon Silver 3050GE,2  / 4,3.4 GHz,12 nm,4MB,35 W
+Athlon Silver PRO 3125GE,2  / 4,3.4 GHz,12 nm,4MB,35 W
+EPYC 7F32,8  / 16,3.7 to 3.9 GHz,7 nm,128MB,180 W
+EPYC 7F52,16  / 32,3.5 to 3.9 GHz,7 nm,256MB,155 W
+EPYC 7F72,24  / 48,3.2 to 3.7 GHz,7 nm,192MB,240 W
+Ryzen 3 3100,4  / 8,3.6 to 3.9 GHz,7 nm,16MB,65 W
+Ryzen 3 3250U,2  / 4,2.6 to 3.5 GHz,14 nm,4MB,15 W
+Ryzen 3 3300X,4  / 8,3.8 to 4.3 GHz,7 nm,16MB,65 W
+Ryzen 3 4300G,4  / 8,3.8 to 4 GHz,7 nm,4MB,65 W
+Ryzen 3 4300GE,4  / 8,3.5 to 4 GHz,7 nm,4MB,35 W
+Ryzen 3 4300U,4 ,2.7 to 3.7 GHz,7 nm,4MB,25 W
+Ryzen 3 PRO 4350G,4  / 8,3.8 to 4 GHz,7 nm,4MB,65 W
+Ryzen 3 PRO 4350GE,4  / 8,3.5 to 4 GHz,7 nm,4MB,35 W
+Ryzen 3 PRO 4450U,4  / 8,2.4 to 3.7 GHz,7 nm,4MB,15 W
+Ryzen 5 4500U,6 ,2.3 to 4 GHz,7 nm,11MB,25 W
+Ryzen 5 4600G,6  / 12,3.7 to 4.2 GHz,7 nm,8MB,65 W
+Ryzen 5 4600GE,6  / 12,3.3 to 4.2 GHz,7 nm,8MB,35 W
+Ryzen 5 4600H,6  / 12,3 to 4 GHz,7 nm,11MB,54 W
+Ryzen 5 4600HS,6  / 12,3 to 4 GHz,7 nm,11MB,35 W
+Ryzen 5 4600U,6  / 12,2.1 to 4 GHz,7 nm,11MB,25 W
+Ryzen 5 5600X,6  / 12,3.7 to 4.6 GHz,7 nm,32MB,65 W
+Ryzen 5 PRO 4650G,6  / 12,3.7 to 4.2 GHz,7 nm,8MB,65 W
+Ryzen 5 PRO 4650GE,6  / 12,3.3 to 4.2 GHz,7 nm,8MB,35 W
+Ryzen 5 PRO 4650U,6  / 12,2.1 to 4 GHz,7 nm,8MB,15 W
+Ryzen 7 3800XT,8  / 16,3.8 to 4.7 GHz,7 nm,32MB,105 W
+Ryzen 7 4700G,8  / 16,3.6 to 4.4 GHz,7 nm,8MB,65 W
+Ryzen 7 4700GE,8  / 16,3.1 to 4.3 GHz,7 nm,8MB,35 W
+Ryzen 7 4700U,8 ,1.8 to 4.2 GHz,7 nm,12MB,25 W
+Ryzen 7 4750U,8  / 16,1.7 to 4.1 GHz,7 nm,8MB,15 W
+Ryzen 7 4800H,8  / 16,2.9 to 4.2 GHz,7 nm,12MB,54 W
+Ryzen 7 4800HS,8  / 16,2.9 to 4.2 GHz,7 nm,12MB,35 W
+Ryzen 7 4800U,8  / 16,1.8 to 4.2 GHz,7 nm,8MB,25 W
+Ryzen 7 5800X,8  / 16,3.8 to 4.7 GHz,7 nm,32MB,105 W
+Ryzen 7 PRO 4750G,8  / 16,3.6 to 4.4 GHz,7 nm,8MB,65 W
+Ryzen 7 PRO 4750GE,8  / 16,3.1 to 4.3 GHz,7 nm,8MB,35 W
+Ryzen 9 3900XT,12  / 24,3.9 to 4.7 GHz,7 nm,64MB,105 W
+Ryzen 9 4900H,8  / 16,3.3 to 4.4 GHz,7 nm,12MB,54 W
+Ryzen 9 4900HS,8  / 16,3 to 4.3 GHz,7 nm,12MB,35 W
+Ryzen 9 5900X,12  / 24,3.7 to 4.8 GHz,7 nm,64MB,105 W
+Ryzen 9 5950X,16  / 32,3.4 to 4.9 GHz,7 nm,64MB,105 W
+Ryzen Embedded R1102G,2  / 4,1.2 to 2.6 GHz,14 nm,4MB,6 W
+Ryzen Embedded R1305G,2  / 4,1.5 to 2.8 GHz,14 nm,4MB,10 W
+Ryzen Embedded R1505G,2  / 4,2.4 to 3.3 GHz,14 nm,4MB,25 W
+Ryzen Embedded R1600,2  / 4,2.6 to 3.1 GHz,14 nm,4MB,25 W
+Ryzen Embedded R1606G,2  / 4,2.6 to 3.5 GHz,14 nm,4MB,25 W
+Ryzen Embedded V2516,6  / 12,2.1 to 3.95 GHz,7 nm,8MB,10 W
+Ryzen Embedded V2546,6  / 12,3 to 3.95 GHz,7 nm,8MB,35 W
+Ryzen Embedded V2718,8  / 16,1.7 to 4.15 GHz,7 nm,8MB,10 W
+Ryzen Embedded V2748,8  / 16,2.9 to 4.25 GHz,7 nm,8MB,35 W
+Ryzen Threadripper 3990X,64  / 128,2.9 to 4.3 GHz,7 nm,256MB,280 W
+Ryzen Threadripper PRO 3945WX,12  / 24,4 to 4.3 GHz,7 nm,64MB,280 W
+Ryzen Threadripper PRO 3955WX,16  / 32,3.9 to 4.3 GHz,7 nm,64MB,280 W
+Ryzen Threadripper PRO 3975WX,32  / 64,3.5 to 4.2 GHz,7 nm,128MB,280 W
+Ryzen Threadripper PRO 3995WX,64  / 128,2.7 to 4.2 GHz,7 nm,256MB,280 W
+Core i5-6350HQ,4 ,2.3 to 3.2 GHz,14 nm,6MB,45 W
+Core i7-6800K,6  / 12,3.4 to 3.6 GHz,14 nm,15MB,140 W
+Core i7-6850K,6  / 12,3.6 to 3.8 GHz,14 nm,15MB,140 W
+Core i7-6900K,8  / 16,3.2 to 3.7 GHz,14 nm,20MB,140 W
+Core i7-6950X,10  / 20,3 to 3.5 GHz,14 nm,25MB,140 W
+Xeon D-1557,12  / 24,1.5 to 2.1 GHz,14 nm,1.5MB,45 W
+Xeon D-1567,12  / 24,2.1 to 2.7 GHz,14 nm,1.5MB,65 W
+Xeon D-1571,16  / 32,1.3 to 2.1 GHz,14 nm,1.5MB,45 W
+Xeon D-1577,16  / 32,1.3 to 2.1 GHz,14 nm,1.5MB,45 W
+Xeon D-1581,16  / 32,1.8 to 2.4 GHz,14 nm,1.5MB,65 W
+Xeon D-1587,16  / 32,1.7 to 2.3 GHz,14 nm,1.5MB,65 W
+Xeon Phi 7210,64  / 256,1300 to 1500 MHz,14 nm,N/A,215 W
+Xeon Phi 7210F,64  / 256,1300 to 1500 MHz,14 nm,N/A,230 W
+Xeon Phi 7230,64  / 256,1300 to 1500 MHz,14 nm,N/A,215 W
+Xeon Phi 7230F,64  / 256,1300 to 1500 MHz,14 nm,N/A,230 W
+Xeon Phi 7250,68  / 272,1400 to 1600 MHz,14 nm,N/A,215 W
+Xeon Phi 7250F,68  / 272,1400 to 1600 MHz,14 nm,N/A,230 W
+Xeon Phi 7290,72  / 288,1500 to 1700 MHz,14 nm,N/A,245 W
+Xeon Phi 7290F,72  / 288,1500 to 1700 MHz,14 nm,N/A,260 W
+Celeron 7300,5  / 6,1000 MHz,10 nm,8MB,9 W
+Celeron 7305,5  / 6,1100 MHz,10 nm,8MB,15 W
+Celeron G6900,2 ,3.4 GHz,10 nm,4MB,46 W
+Celeron G6900E,2 ,3 GHz,10 nm,4MB,46 W
+Celeron G6900T,2 ,2.8 GHz,10 nm,4MB,35 W
+Celeron G6900TE,2 ,2.4 GHz,10 nm,4MB,35 W
+Core i3-12100,4  / 8,3.3 to 4.3 GHz,10 nm,12MB,60 W
+Core i3-12100E,4  / 8,3.2 to 4.2 GHz,10 nm,12MB,60 W
+Core i3-12100F,4  / 8,3.3 to 4.3 GHz,10 nm,12MB,58 W
+Core i3-12100T,4  / 8,2.2 to 4.1 GHz,10 nm,12MB,35 W
+Core i3-12100TE,4  / 8,2.1 to 4 GHz,10 nm,12MB,35 W
+Core i3-1210U,6  / 8,1 to 4.4 GHz,10 nm,10MB,9 W
+Core i3-1215U,6  / 8,1.2 to 4.4 GHz,10 nm,10MB,15 W
+Core i3-1215U (IPU),6  / 8,1.2 to 4.4 GHz,10 nm,10MB,15 W
+Core i3-1220P,10  / 12,1.5 to 4.4 GHz,10 nm,12MB,28 W
+Core i3-12300,4  / 8,3.5 to 4.4 GHz,10 nm,12MB,60 W
+Core i3-12300HE,8  / 12,1.9 to 4.3 GHz,10 nm,12MB,45 W
+Core i3-12300T,4  / 8,2.3 to 4.2 GHz,10 nm,12MB,35 W
+Core i5-1230U,10  / 12,1 to 4.4 GHz,10 nm,12MB,9 W
+Core i5-1235U,10  / 12,1.3 to 4.4 GHz,10 nm,12MB,15 W
+Core i5-1235U (IPU),10  / 12,1.3 to 4.4 GHz,10 nm,12MB,15 W
+Core i5-12400,6  / 12,2.5 to 4.4 GHz,10 nm,18MB,65 W
+Core i5-12400F,6  / 12,2.5 to 4.4 GHz,10 nm,18MB,65 W
+Core i5-12400T,6  / 12,1.8 to 4.2 GHz,10 nm,18MB,35 W
+Core i5-1240P,12  / 16,1.7 to 4.4 GHz,10 nm,12MB,28 W
+Core i5-1240U,10  / 12,1.1 to 4.4 GHz,10 nm,12MB,9 W
+Core i5-12450H,8  / 12,2 to 4.4 GHz,10 nm,12MB,45 W
+Core i5-12450HX,8  / 12,2.4 to 4.4 GHz,10 nm,12MB,55 W
+Core i5-1245U,10  / 12,1.6 to 4.4 GHz,10 nm,12MB,15 W
+Core i5-12490F,6  / 12,3 to 4.6 GHz,10 nm,20MB,65 W
+Core i5-12500,6  / 12,3 to 4.6 GHz,10 nm,18MB,65 W
+Core i5-12500E,6  / 12,2.9 to 4.5 GHz,10 nm,18MB,65 W
+Core i5-12500H,12  / 16,2.5 to 4.5 GHz,10 nm,18MB,45 W
+Core i5-12500T,6  / 12,2 to 4.4 GHz,10 nm,18MB,35 W
+Core i5-12500TE,6  / 12,1.9 to 4.3 GHz,10 nm,18MB,35 W
+Core i5-1250P,12  / 16,1.7 to 4.4 GHz,10 nm,12MB,28 W
+Core i5-12600,6  / 12,3.3 to 4.8 GHz,10 nm,18MB,65 W
+Core i5-12600H,12  / 16,2.7 to 4.5 GHz,10 nm,18MB,45 W
+Core i5-12600HE,12  / 16,2.5 to 4.5 GHz,10 nm,18MB,45 W
+Core i5-12600HX,12  / 16,2.5 to 4.6 GHz,10 nm,18MB,55 W
+Core i5-12600T,6  / 12,2.1 to 4.6 GHz,10 nm,18MB,35 W
+Core i5-13500,10  / 16,2.5 to 4.6 GHz,10 nm,20MB,65 W
+Core i5-13600K,14  / 20,3.5 to 5.1 GHz,10 nm,24MB,125 W
+Core i5-13600KF,14  / 20,3.5 to 5.1 GHz,10 nm,24MB,125 W
+Core i7-1250U,10  / 12,1.1 to 4.7 GHz,10 nm,12MB,9 W
+Core i7-1255U,10  / 12,1.7 to 4.7 GHz,10 nm,12MB,15 W
+Core i7-1260P,12  / 16,2.1 to 4.7 GHz,10 nm,18MB,28 W
+Core i7-1260U,10  / 12,1.1 to 4.7 GHz,10 nm,12MB,9 W
+Core i7-12650H,10  / 16,2.3 to 4.7 GHz,10 nm,24MB,45 W
+Core i7-12650HX,14  / 20,2 to 4.7 GHz,10 nm,24MB,55 W
+Core i7-1265U,10  / 12,1.8 to 4.8 GHz,10 nm,12MB,15 W
+Core i7-12700,12  / 20,3.3 to 4.9 GHz,10 nm,25MB,65 W
+Core i7-12700E,12  / 20,2.1 to 4.8 GHz,10 nm,25MB,65 W
+Core i7-12700F,12  / 20,3.3 to 4.9 GHz,10 nm,25MB,65 W
+Core i7-12700H,14  / 20,2.3 to 4.7 GHz,10 nm,24MB,45 W
+Core i7-12700T,12  / 20,1.4 to 4.7 GHz,10 nm,25MB,35 W
+Core i7-12700TE,12  / 20,1.4 to 4.6 GHz,10 nm,25MB,35 W
+Core i7-1270P,12  / 16,2.2 to 4.8 GHz,10 nm,18MB,28 W
+Core i7-12800H,14  / 20,2.4 to 4.8 GHz,10 nm,24MB,45 W
+Core i7-12800HE,14  / 20,2.4 to 4.6 GHz,10 nm,24MB,45 W
+Core i7-12800HX,16  / 24,2 to 4.8 GHz,10 nm,25MB,55 W
+Core i7-1280P,14  / 20,1.8 to 4.8 GHz,10 nm,24MB,28 W
+Core i7-12850HX,16  / 24,2.1 to 4.8 GHz,10 nm,25MB,55 W
+Core i7-13700K,16  / 24,3.4 to 5.4 GHz,10 nm,30MB,125 W
+Core i7-13700KF,16  / 24,3.4 to 5.4 GHz,10 nm,30MB,125 W
+Core i9-12900,16  / 24,2.4 to 5.1 GHz,10 nm,30MB,65 W
+Core i9-12900E,16  / 24,2.3 to 5 GHz,10 nm,30MB,65 W
+Core i9-12900F,16  / 24,2.4 to 5.1 GHz,10 nm,30MB,65 W
+Core i9-12900H,14  / 20,2.5 to 5 GHz,10 nm,24MB,45 W
+Core i9-12900HK,14  / 20,2.5 to 5 GHz,10 nm,24MB,45 W
+Core i9-12900HX,16  / 24,2.3 to 5 GHz,10 nm,30MB,55 W
+Core i9-12900KS,16  / 24,3.4 to 5.5 GHz,10 nm,30MB,150 W
+Core i9-12900T,16  / 24,1.4 to 4.9 GHz,10 nm,30MB,35 W
+Core i9-12900TE,16  / 24,1.1 to 4.8 GHz,10 nm,30MB,35 W
+Core i9-12950HX,16  / 24,2.3 to 5 GHz,10 nm,30MB,55 W
+Core i9-13900,24  / 32,2 to 5.6 GHz,10 nm,36MB,125 W
+Core i9-13900K,24  / 32,3 to 5.8 GHz,10 nm,36MB,125 W
+Core i9-13900KF,24  / 32,3 to 5.8 GHz,10 nm,36MB,125 W
+Pentium 8500,5  / 6,1 to 4.4 GHz,10 nm,8MB,9 W
+Pentium 8505,5  / 6,1.2 to 4.4 GHz,10 nm,8MB,15 W
+Pentium 8505 (IPU),5  / 6,1.2 to 4.4 GHz,10 nm,8MB,15 W
+Pentium Gold G7400,2  / 4,3.7 GHz,10 nm,6MB,46 W
+Pentium Gold G7400E,2  / 4,3.6 GHz,10 nm,6MB,46 W
+Pentium Gold G7400T,2  / 4,3.1 GHz,10 nm,6MB,35 W
+Pentium Gold G7400TE,2  / 4,3 GHz,10 nm,6MB,35 W
+EPYC 7373X,16  / 32,3.05 to 3.8 GHz,7 nm,768MB,240 W
+EPYC 7473X,24  / 48,2.8 to 3.7 GHz,7 nm,768MB,240 W
+EPYC 7573X,32  / 64,2.8 to 3.6 GHz,7 nm,768MB,280 W
+EPYC 7773X,64  / 128,2.2 to 3.5 GHz,7 nm,768MB,280 W
+EPYC 9124,16  / 32,3 to 3.7 GHz,5 nm,64MB,200 W
+EPYC 9174F,16  / 32,4.1 to 4.4 GHz,5 nm,256MB,320 W
+EPYC 9224,24  / 48,2.5 to 3.7 GHz,5 nm,64MB,200 W
+EPYC 9254,24  / 48,2.9 to 4.15 GHz,5 nm,128MB,200 W
+EPYC 9274F,24  / 48,4.05 to 4.3 GHz,5 nm,256MB,320 W
+EPYC 9334,32  / 64,2.7 to 3.9 GHz,5 nm,128MB,210 W
+EPYC 9354,32  / 64,3.25 to 3.8 GHz,5 nm,256MB,280 W
+EPYC 9354P,32  / 64,3.25 to 3.8 GHz,5 nm,256MB,280 W
+EPYC 9374F,32  / 64,3.85 to 4.3 GHz,5 nm,256MB,320 W
+EPYC 9454,48  / 96,2.75 to 3.8 GHz,5 nm,256MB,290 W
+EPYC 9454P,48  / 96,2.75 to 3.8 GHz,5 nm,256MB,290 W
+EPYC 9474F,48  / 96,3.6 to 4.1 GHz,5 nm,256MB,360 W
+EPYC 9534,64  / 128,2.45 to 3.7 GHz,5 nm,256MB,280 W
+EPYC 9554,64  / 128,3.1 to 3.75 GHz,5 nm,256MB,360 W
+EPYC 9554P,64  / 128,3.1 to 3.75 GHz,5 nm,256MB,360 W
+EPYC 9634,84  / 168,2.25 to 3.7 GHz,5 nm,384MB,290 W
+EPYC 9654,96  / 192,2.4 to 3.7 GHz,5 nm,384MB,360 W
+EPYC 9654P,96  / 192,2.4 to 3.7 GHz,5 nm,384MB,360 W
+Ryzen 3 4100,4  / 8,3.8 to 4 GHz,7 nm,8MB,65 W
+Ryzen 3 5125C,2  / 4,3 GHz,7 nm,8MB,15 W
+Ryzen 3 5425C,4  / 8,2.7 to 4.1 GHz,7 nm,8MB,15 W
+Ryzen 3 5425U,4  / 8,2.7 to 4.1 GHz,7 nm,8MB,15 W
+Ryzen 3 PRO 5475U,4  / 8,2.7 to 4.1 GHz,7 nm,8MB,15 W
+Ryzen 5 4500,6  / 12,3.6 to 4.1 GHz,7 nm,8MB,65 W
+Ryzen 5 5500,6  / 12,3.6 to 4.2 GHz,7 nm,16MB,65 W
+Ryzen 5 5600,6  / 12,3.5 to 4.4 GHz,7 nm,32MB,65 W
+Ryzen 5 5625C,6  / 12,2.3 to 4.3 GHz,7 nm,16MB,15 W
+Ryzen 5 5625U,6  / 12,2.3 to 4.3 GHz,7 nm,16MB,15 W
+Ryzen 5 6600H,6  / 12,3.3 to 4.5 GHz,6 nm,16MB,45 W
+Ryzen 5 6600HS,6  / 12,3.3 to 4.5 GHz,6 nm,16MB,35 W
+Ryzen 5 6600U,6  / 12,2.9 to 4.5 GHz,6 nm,16MB,15 W
+Ryzen 5 7600X,6  / 12,4.7 to 5.3 GHz,5 nm,32MB,105 W
+Ryzen 5 PRO 5675U,6  / 12,2.3 to 4.3 GHz,7 nm,16MB,15 W
+Ryzen 5 PRO 6650H,6  / 12,3.3 to 4.5 GHz,6 nm,16MB,45 W
+Ryzen 5 PRO 6650HS,6  / 12,3.3 to 4.5 GHz,6 nm,16MB,35 W
+Ryzen 5 PRO 6650U,6  / 12,2.9 to 4.5 GHz,6 nm,16MB,15 W
+Ryzen 7 5700X,8  / 16,3.4 to 4.6 GHz,7 nm,32MB,65 W
+Ryzen 7 5800X3D,8  / 16,3.4 to 4.5 GHz,7 nm,96MB,105 W
+Ryzen 7 5825C,8  / 16,2 to 4.5 GHz,7 nm,16MB,15 W
+Ryzen 7 5825U,8  / 16,2 to 4.5 GHz,7 nm,16MB,15 W
+Ryzen 7 6800H,8  / 16,3.2 to 4.7 GHz,6 nm,16MB,45 W
+Ryzen 7 6800HS,8  / 16,3.2 to 4.7 GHz,6 nm,16MB,35 W
+Ryzen 7 6800U,8  / 16,2.7 to 4.7 GHz,6 nm,16MB,15 W
+Ryzen 7 7700X,8  / 16,4.5 to 5.4 GHz,5 nm,32MB,105 W
+Ryzen 7 PRO 5875U,8  / 16,2 to 4.5 GHz,7 nm,16MB,15 W
+Ryzen 7 PRO 6850H,8  / 16,3.2 to 4.7 GHz,6 nm,16MB,45 W
+Ryzen 7 PRO 6850HS,8  / 16,3.2 to 4.7 GHz,6 nm,16MB,35 W
+Ryzen 7 PRO 6850U,8  / 16,2.7 to 4.7 GHz,6 nm,16MB,15 W
+Ryzen 9 6900HS,8  / 16,3.3 to 4.9 GHz,6 nm,16MB,35 W
+Ryzen 9 6900HX,8  / 16,3.3 to 4.9 GHz,6 nm,16MB,45 W
+Ryzen 9 6980HS,8  / 16,3.3 to 5 GHz,6 nm,16MB,45 W
+Ryzen 9 6980HX,8  / 16,3.3 to 5 GHz,6 nm,16MB,45 W
+Ryzen 9 7900X,12  / 24,4.7 to 5.6 GHz,5 nm,64MB,170 W
+Ryzen 9 7950X,16  / 32,4.5 to 5.7 GHz,5 nm,64MB,170 W
+Ryzen 9 PRO 6950H,8  / 16,3.3 to 4.9 GHz,6 nm,16MB,45 W
+Ryzen 9 PRO 6950HS,8  / 16,3.3 to 4.9 GHz,6 nm,16MB,35 W
+Ryzen Threadripper 5990X,64  / 128,2.5 to 4.45 GHz,7 nm,256MB,280 W
+Ryzen Threadripper PRO 5945WX,12  / 24,4.1 to 4.5 GHz,7 nm,64MB,280 W
+Ryzen Threadripper PRO 5955WX,16  / 32,4 to 4.5 GHz,7 nm,64MB,280 W
+Ryzen Threadripper PRO 5965WX,24  / 48,3.8 to 4.5 GHz,7 nm,128MB,280 W
+Ryzen Threadripper PRO 5975WX,32  / 64,3.6 to 4.5 GHz,7 nm,128MB,280 W
+Ryzen Threadripper PRO 5995WX,64  / 128,2.7 to 4.5 GHz,7 nm,256MB,280 W
+Centaur CHA,8 ,1.2 to 2.5 GHz,16 nm,16MB,70 W
+Nano L2100,1 ,1800 MHz,65 nm,N/A,25 W
+Nano L2200,1 ,1600 MHz,65 nm,N/A,17 W
+Nano QuadCore C4650,4 ,1.333 to 2 GHz,28 nm,N/A,18 W
+Nano QuadCore C4650 ES,4 ,2000 MHz,28 nm,N/A,18 W
+Nano QuadCore C4700,4 ,1.333 to 2 GHz,28 nm,N/A,35 W
+Nano QuadCore L4700,4 ,1200 to 1466 MHz,40 nm,N/A,28 W
+Nano QuadCore L4800,4 ,1466 to 1600 MHz,40 nm,N/A,28 W
+Nano U2225,1 ,1300 MHz,65 nm,N/A,10 W
+Nano U2250,1 ,1300 to 1600 MHz,65 nm,N/A,10 W
+Nano U2300,1 ,1000 MHz,65 nm,N/A,5 W
+Nano U2350,1 ,1300 MHz,65 nm,N/A,8 W
+Nano U2400,1 ,1300 to 1400 MHz,65 nm,N/A,8 W
+Nano U2500,1 ,1200 MHz,65 nm,N/A,7 W
+Nano X2 U4300,2 ,1200 to 1467 MHz,40 nm,N/A,13 W
+Celeron G4900,2 ,3.1 GHz,14 nm,6MB,51 W
+Celeron G4920,2 ,3.2 GHz,14 nm,6MB,51 W
+Core i3-8000,4 ,3.6 GHz,14 nm,6MB,65 W
+Core i3-8020,4 ,3.7 GHz,14 nm,6MB,65 W
+Core i3-8100T,4 ,3.1 GHz,14 nm,6MB,35 W
+Core i3-8109U,2  / 4,3 to 3.6 GHz,14 nm,4MB,28 W
+Core i3-8120,4 ,3.7 GHz,14 nm,6MB,65 W
+Core i3-8121U,2  / 4,2.2 GHz,10 nm,4MB,28 W
+Core i3-8130U,2  / 4,2.4 to 3.4 GHz,14 nm,4MB,15 W
+Core i3-8145U,2  / 4,2.1 to 3.9 GHz,10 nm,4MB,28 W
+Core i3-8300,4 ,3.7 GHz,14 nm,8MB,62 W
+Core i3-8300T,4 ,3.2 GHz,14 nm,8MB,35 W
+Core i3-9000,4 ,3.7 GHz,14 nm,6MB,65 W
+Core i3-9100,4 ,3.7 GHz,14 nm,6MB,65 W
+Core i5-8259U,4  / 8,2.3 to 3.8 GHz,14 nm,6MB,28 W
+Core i5-8265U,4  / 8,1.6 to 4.1 GHz,14 nm,6MB,28 W
+Core i5-8269U,4  / 8,2.6 to 4.2 GHz,14 nm,6MB,28 W
+Core i5-8300H,4  / 8,2.3 to 3.9 GHz,14 nm,12MB,45 W
+Core i5-8305G,4  / 8,2.8 to 3.8 GHz,14 nm,6MB,65 W
+Core i5-8400H,4  / 8,2.5 to 4.1 GHz,14 nm,12MB,45 W
+Core i5-8400T,6 ,1.7 to 3.3 GHz,14 nm,9MB,35 W
+Core i5-8420,6 ,2.9 to 4.1 GHz,14 nm,9MB,65 W
+Core i5-8420T,6 ,1.8 to 3.4 GHz,14 nm,9MB,35 W
+Core i5-8500,6 ,3 to 4.1 GHz,14 nm,9MB,65 W
+Core i5-8500B,6 ,3 to 4.1 GHz,14 nm,9MB,65 W
+Core i5-8500T,6 ,2.1 to 3.5 GHz,14 nm,9MB,35 W
+Core i5-8550,6 ,3 to 4.3 GHz,14 nm,9MB,65 W
+Core i5-8600,6 ,3.1 to 4.3 GHz,14 nm,9MB,65 W
+Core i5-8600T,6 ,2.3 to 3.7 GHz,14 nm,9MB,35 W
+Core i5-8650,6 ,3.1 to 4.5 GHz,14 nm,9MB,65 W
+Core i5-8650K,6 ,3.7 to 4.5 GHz,14 nm,9MB,95 W
+Core i5-9400,6 ,2.9 to 4.1 GHz,14 nm,9MB,65 W
+Core i5-9400T,6 ,1.8 to 3.4 GHz,14 nm,9MB,35 W
+Core i5-9500,6 ,3 to 4.3 GHz,14 nm,9MB,65 W
+Core i5-9600,6 ,3.1 to 4.5 GHz,14 nm,9MB,65 W
+Core i5-9600K,6 ,3.7 to 4.6 GHz,14 nm,9MB,95 W
+Core i7-8086K,6  / 12,4 to 5 GHz,14 nm,12MB,95 W
+Core i7-8559U,4  / 8,2.7 to 4.5 GHz,14 nm,8MB,28 W
+Core i7-8565U,4  / 8,1.8 to 4.6 GHz,14 nm,8MB,28 W
+Core i7-8670,6  / 12,3.1 to 4.4 GHz,14 nm,12MB,65 W
+Core i7-8670T,6  / 12,2.3 to 3.7 GHz,14 nm,12MB,35 W
+Core i7-8700,6  / 12,3.2 to 4.6 GHz,14 nm,12MB,65 W
+Core i7-8700B,6  / 12,3.2 to 4.6 GHz,14 nm,12MB,65 W
+Core i7-8700T,6  / 12,2.4 to 4 GHz,14 nm,12MB,35 W
+Core i7-8705G,4  / 8,3.1 to 4.1 GHz,14 nm,8MB,65 W
+Core i7-8706G,4  / 8,3.1 to 4.1 GHz,14 nm,8MB,65 W
+Core i7-8709G,4  / 8,3.1 to 4.1 GHz,14 nm,8MB,65 W
+Core i7-8750H,6  / 12,2.2 to 4.1 GHz,14 nm,12MB,45 W
+Core i7-8809G,4  / 8,3.1 to 4.2 GHz,14 nm,8MB,65 W
+Core i7-8850H,6  / 12,2.7 to 4.3 GHz,14 nm,12MB,45 W
+Core i7-9700K,8 ,3.6 to 4.9 GHz,14 nm,12MB,95 W
+Core i7-9800X,8  / 16,3.8 to 4.4 GHz,14 nm,16.5MB,165 W
+Core i9-8950HK,6  / 12,2.9 to 4.7 GHz,14 nm,12MB,95 W
+Core i9-9820X,10  / 20,3.3 to 4.2 GHz,14 nm,16.5MB,165 W
+Core i9-9900K,8  / 16,3.6 to 5 GHz,14 nm,16MB,95 W
+Core i9-9900X,10  / 20,3.5 to 4.5 GHz,14 nm,19.25MB,165 W
+Core i9-9920X,12  / 24,3.5 to 4.5 GHz,14 nm,19.25MB,165 W
+Core i9-9940X,14  / 28,3.3 to 4.5 GHz,14 nm,19.25MB,165 W
+Core i9-9960X,16  / 32,3.1 to 4.5 GHz,14 nm,22MB,165 W
+Core i9-9980XE,18  / 36,3 to 4.5 GHz,14 nm,24.75MB,165 W
+Core i9-9990XE,14  / 28,4 to 5.1 GHz,14 nm,19.25MB,255 W
+Core m3-8114Y,2  / 4,1500 MHz,10 nm,4MB,28 W
+Pentium Gold G5400,2  / 4,3.7 GHz,14 nm,4MB,51 W
+Pentium Gold G5500,2  / 4,3.8 GHz,14 nm,4MB,51 W
+Pentium Gold G5600,2  / 4,3.9 GHz,14 nm,4MB,51 W
+Xeon E-2124,4 ,3.4 to 4.5 GHz,14 nm,8MB,72 W
+Xeon E-2124G,4 ,3.4 to 4.5 GHz,14 nm,8MB,72 W
+Xeon Platinum 8253,16  / 32,2.2 to 3 GHz,14 nm,22MB,125 W
+Xeon Platinum 8256,4  / 8,3.8 to 3.9 GHz,14 nm,16.5MB,105 W
+Xeon Platinum 8260,24  / 48,2.4 to 3.9 GHz,14 nm,35.75MB,165 W
+Xeon Platinum 8260M,24  / 48,2.4 to 3.9 GHz,14 nm,35.75MB,165 W
+Xeon Platinum 8268,24  / 48,2.9 to 3.9 GHz,14 nm,35.75MB,205 W
+Xeon Platinum 8270,26  / 52,2.7 to 4 GHz,14 nm,35.75MB,205 W
+Xeon Platinum 8276,28  / 56,2.2 to 4 GHz,14 nm,38.5MB,165 W
+Xeon Platinum 8280,28  / 56,2.7 to 4 GHz,14 nm,38.5MB,205 W
+Xeon Platinum 8280M,28  / 56,2.7 to 4 GHz,14 nm,38.5MB,205 W
+Xeon W-3175X,28  / 56,3.1 to 4.3 GHz,14 nm,38.5MB,255 W
+EPYC 72F3,8  / 16,3.7 to 4.1 GHz,7 nm,256MB,180 W
+EPYC 7313,16  / 32,3 to 3.7 GHz,7 nm,128MB,155 W
+EPYC 7313P,16  / 32,3 to 3.7 GHz,7 nm,128MB,155 W
+EPYC 7343,16  / 32,3.2 to 3.9 GHz,7 nm,128MB,190 W
+EPYC 73F3,16  / 32,3.5 to 4 GHz,7 nm,256MB,240 W
+EPYC 7413,24  / 48,2.65 to 3.6 GHz,7 nm,128MB,180 W
+EPYC 7443,24  / 48,2.85 to 4 GHz,7 nm,128MB,200 W
+EPYC 7443P,24  / 48,2.85 to 4 GHz,7 nm,128MB,200 W
+EPYC 7453,28  / 56,2.75 to 3.45 GHz,7 nm,64MB,225 W
+EPYC 74F3,24  / 48,2.8 to 4 GHz,7 nm,256MB,240 W
+EPYC 7513,32  / 64,2.6 to 3.65 GHz,7 nm,128MB,200 W
+EPYC 7543,32  / 64,2.8 to 3.7 GHz,7 nm,256MB,225 W
+EPYC 7543P,32  / 64,2.8 to 3.7 GHz,7 nm,256MB,225 W
+EPYC 75F3,32  / 64,2.95 to 4 GHz,7 nm,256MB,280 W
+EPYC 7643,48  / 96,2.3 to 3.6 GHz,7 nm,256MB,225 W
+EPYC 7663,56  / 112,2 to 3.5 GHz,7 nm,256MB,240 W
+EPYC 7713,64  / 128,2 to 3.675 GHz,7 nm,256MB,225 W
+EPYC 7713P,64  / 128,2 to 3.675 GHz,7 nm,256MB,225 W
+EPYC 7763,64  / 128,2.45 to 3.5 GHz,7 nm,256MB,280 W
+Ryzen 3 5300G,4  / 8,4 to 4.2 GHz,7 nm,8MB,65 W
+Ryzen 3 5300U,4  / 8,2.6 to 3.8 GHz,7 nm,4MB,15 W
+Ryzen 3 5400U,4  / 8,2.6 to 4 GHz,7 nm,8MB,15 W
+Ryzen 3 PRO 5350G,4  / 8,4 to 4.2 GHz,7 nm,8MB,65 W
+Ryzen 3 PRO 5350GE,4  / 8,3.6 to 4.2 GHz,7 nm,8MB,35 W
+Ryzen 3 PRO 5450U,4  / 8,2.6 to 4 GHz,7 nm,8MB,15 W
+Ryzen 5 5500U,6  / 12,2.1 to 4 GHz,7 nm,8MB,15 W
+Ryzen 5 5600G,6  / 12,3.9 to 4.4 GHz,7 nm,16MB,65 W
+Ryzen 5 5600U,6  / 12,2.3 to 4.2 GHz,7 nm,16MB,15 W
+Ryzen 5 PRO 5650G,6  / 12,3.9 to 4.4 GHz,7 nm,16MB,65 W
+Ryzen 5 PRO 5650GE,6  / 12,3.4 to 4.4 GHz,7 nm,16MB,35 W
+Ryzen 5 PRO 5650U,6  / 12,2.3 to 4.2 GHz,7 nm,16MB,15 W
+Ryzen 7 5700G,8  / 16,3.8 to 4.6 GHz,7 nm,16MB,65 W
+Ryzen 7 5700U,8  / 16,1.8 to 4.3 GHz,7 nm,8MB,15 W
+Ryzen 7 5800,8  / 16,3.4 to 4.6 GHz,7 nm,32MB,65 W
+Ryzen 7 5800G,8  / 16,3.8 to 4.8 GHz,7 nm,16MB,65 W
+Ryzen 7 5800H,8  / 16,3.2 to 4.4 GHz,7 nm,16MB,45 W
+Ryzen 7 5800HS,8  / 16,2.8 to 4.4 GHz,7 nm,16MB,35 W
+Ryzen 7 5800U,8  / 16,1.9 to 4.4 GHz,7 nm,16MB,15 W
+Ryzen 7 PRO 5750G,8  / 16,3.8 to 4.6 GHz,7 nm,16MB,65 W
+Ryzen 7 PRO 5750GE,8  / 16,3.2 to 4.6 GHz,7 nm,16MB,35 W
+Ryzen 7 PRO 5850U,8  / 16,1.9 to 4.4 GHz,7 nm,16MB,15 W
+Ryzen 9 5900,12  / 24,3 to 4.7 GHz,7 nm,64MB,65 W
+Ryzen 9 5900HX,8  / 16,3.3 to 4.6 GHz,7 nm,16MB,45 W
+Ryzen 9 5980HS,8  / 16,3 to 4.8 GHz,7 nm,16MB,35 W
+Ryzen Threadripper 3980X,48  / 96,3.5 to 4.7 GHz,7 nm,128MB,280 W
+Core i3-1000G1,2  / 4,1.1 to 3.2 GHz,10 nm,4MB,9 W
+Core i3-1000G4,2  / 4,1.1 to 3.2 GHz,10 nm,4MB,9 W
+Core i3-1005G1,2  / 4,1.2 to 3.4 GHz,10 nm,4MB,15 W
+Core i3-10110U,2  / 4,2.1 to 4.1 GHz,14 nm,4MB,25 W
+Core i3-10110Y,2  / 4,1 to 4 GHz,14 nm,4MB,9 W
+Core i3-9100F,4 ,3.6 to 4.2 GHz,14 nm,6MB,65 W
+Core i3-9300,4 ,3.7 to 4.3 GHz,14 nm,8MB,62 W
+Core i3-9320,4 ,3.7 to 4.4 GHz,14 nm,8MB,62 W
+Core i3-9350K,4 ,4 to 4.6 GHz,14 nm,8MB,91 W
+Core i3-9350KF,4 ,4 to 4.6 GHz,14 nm,8MB,91 W
+Core i5-10210U,4  / 8,1.6 to 4.2 GHz,14 nm,6MB,25 W
+Core i5-10210Y,4  / 8,1 to 4 GHz,14 nm,6MB,9 W
+Core i5-1030G4,4  / 8,0.7 to 3.5 GHz,10 nm,6MB,9 W
+Core i5-1030G7,4  / 8,0.8 to 3.5 GHz,10 nm,6MB,9 W
+Core i5-10310Y,4  / 8,1.1 to 4.1 GHz,14 nm,6MB,9 W
+Core i5-1035G1,4  / 8,1 to 3.6 GHz,10 nm,6MB,15 W
+Core i5-1035G4,4  / 8,1.1 to 3.7 GHz,10 nm,6MB,15 W
+Core i5-1035G7,4  / 8,1.2 to 3.7 GHz,10 nm,6MB,15 W
+Core i5-9400F,6 ,2.9 to 4.1 GHz,14 nm,9MB,65 W
+Core i5-9500F,6 ,3 to 4.4 GHz,14 nm,9MB,65 W
+Core i5-9600KF,6 ,3.7 to 4.6 GHz,14 nm,9MB,95 W
+Core i7-10510U,4  / 8,1.8 to 4.9 GHz,14 nm,8MB,25 W
+Core i7-10510Y,4  / 8,1.2 to 4.5 GHz,14 nm,8MB,9 W
+Core i7-1060G7,4  / 8,1 to 3.8 GHz,10 nm,8MB,9 W
+Core i7-1065G7,4  / 8,1.3 to 3.9 GHz,10 nm,8MB,15 W
+Core i7-1068NG7,4  / 8,2.3 to 4.1 GHz,10 nm,8MB,28 W
+Core i7-10710U,6  / 12,1.1 to 4.7 GHz,14 nm,12MB,25 W
+Core i7-9700,8 ,3 to 4.7 GHz,14 nm,12MB,65 W
+Core i7-9700F,8 ,3 to 4.7 GHz,14 nm,12MB,65 W
+Core i7-9700KF,8 ,3.6 to 4.9 GHz,14 nm,12MB,95 W
+Core i7-9750H,6  / 12,2.6 to 4.5 GHz,14 nm,12MB,45 W
+Core i7-9750HF,6  / 12,2.6 to 4.5 GHz,14 nm,12MB,45 W
+Core i7-9850H,6  / 12,2.6 to 4.6 GHz,14 nm,12MB,45 W
+Core i7-9850HE,6  / 12,2.7 to 4.4 GHz,14 nm,9MB,45 W
+Core i7-9850HL,6  / 12,1.9 to 4.1 GHz,14 nm,9MB,25 W
+Core i9-10900X,10  / 20,3.7 to 4.7 GHz,14 nm,19.25MB,165 W
+Core i9-10920X,12  / 24,3.5 to 4.8 GHz,14 nm,19.25MB,165 W
+Core i9-10940X,14  / 28,3.3 to 4.8 GHz,14 nm,19.25MB,165 W
+Core i9-10980XE,18  / 36,3 to 4.8 GHz,14 nm,24.75MB,165 W
+Core i9-9880H,8  / 16,2.3 to 4.8 GHz,14 nm,16MB,45 W
+Core i9-9900,8  / 16,3.1 to 5 GHz,14 nm,16MB,65 W
+Core i9-9900KF,8  / 16,3.6 to 5 GHz,14 nm,16MB,95 W
+Core i9-9900KS,8  / 16,4 to 5 GHz,14 nm,16MB,127 W
+Core i9-9980HK,8  / 16,2.4 to 5 GHz,14 nm,16MB,45 W
+Pentium Gold G5620,2  / 4,4 GHz,14 nm,4MB,51 W
+Xeon Platinum 9221,32  / 64,2.1 to 3.7 GHz,14 nm,71.5MB,250 W
+Xeon Platinum 9222,32  / 64,2.3 to 3.7 GHz,14 nm,71.5MB,250 W
+Xeon Platinum 9242,48  / 96,2.3 to 3.8 GHz,14 nm,71.5MB,350 W
+Xeon Platinum 9282,56  / 112,2.6 to 3.8 GHz,14 nm,77MB,400 W
+Atom Z3735G,4 ,1333 to 1833 MHz,22 nm,N/A,2 W
+Atom x5-E3930,2 ,1300 to 1800 MHz,14 nm,N/A,7 W
+Atom x5-E3940,4 ,1600 to 1800 MHz,14 nm,N/A,10 W
+Atom x7-E3950,4 ,1.6 to 2 GHz,14 nm,N/A,12 W
+Celeron G1840,2 ,2.8 GHz,22 nm,3MB,54 W
+Celeron G1840T,2 ,2.5 GHz,22 nm,3MB,54 W
+Celeron G1850,2 ,2.9 GHz,22 nm,3MB,54 W
+Celeron N2808,2 ,1.58 to 2.25 GHz,22 nm,N/A,4 W
+Celeron N2840,2 ,2.16 to 2.58 GHz,22 nm,N/A,7 W
+Celeron N2940,4 ,1.83 to 2.25 GHz,22 nm,N/A,7 W
+Core M-5Y10,2  / 4,0.8 to 2 GHz,14 nm,4MB,5 W
+Core M-5Y10a,2  / 4,0.8 to 2 GHz,14 nm,4MB,5 W
+Core M-5Y10c,2  / 4,0.8 to 2 GHz,14 nm,4MB,5 W
+Core M-5Y31,2  / 4,0.9 to 2.4 GHz,14 nm,4MB,5 W
+Core M-5Y51,2  / 4,1.1 to 2.6 GHz,14 nm,4MB,5 W
+Core M-5Y70,2  / 4,1.1 to 2.6 GHz,14 nm,4MB,5 W
+Core M-5Y71,2  / 4,1.2 to 2.9 GHz,14 nm,4MB,5 W
+Core i3-4150T,2  / 4,2.9 GHz,22 nm,3MB,35 W
+Core i3-4160,2  / 4,3.6 GHz,22 nm,3MB,54 W
+Core i3-4160T,2  / 4,3.1 GHz,22 nm,3MB,35 W
+Core i3-4350,2  / 4,3.6 GHz,22 nm,4MB,54 W
+Core i3-4360,2  / 4,3.7 GHz,22 nm,4MB,54 W
+Core i3-4360T,2  / 4,3.2 GHz,22 nm,4MB,35 W
+Core i3-4370,2  / 4,3.8 GHz,22 nm,4MB,54 W
+Core i3-4370,2  / 4,3.8 GHz,22 nm,4MB,54 W
+Core i5-4210U,2  / 4,1.7 to 2.7 GHz,22 nm,3MB,15 W
+Core i5-4590,4 ,3.3 to 3.7 GHz,22 nm,6MB,84 W
+Core i5-4590S,4 ,2.9 to 3.6 GHz,22 nm,6MB,65 W
+Core i5-4690,4 ,3.4 to 3.8 GHz,22 nm,6MB,84 W
+Core i5-4690K,4 ,3.5 to 3.9 GHz,22 nm,6MB,88 W
+Core i7-4710HQ,4  / 8,2.5 to 3.5 GHz,22 nm,6MB,47 W
+Core i7-4712HQ,4  / 8,2.3 to 3.3 GHz,22 nm,6MB,37 W
+Core i7-4770HQ,4  / 8,2.2 to 3.4 GHz,22 nm,6MB,47 W
+Core i7-4790,4  / 8,3.6 to 4 GHz,22 nm,8MB,84 W
+Core i7-4790K,4  / 8,4 to 4.4 GHz,22 nm,8MB,88 W
+Core i7-4790S,4  / 8,3.2 to 4 GHz,22 nm,8MB,65 W
+Core i7-4870HQ,4  / 8,2.5 to 3.7 GHz,22 nm,6MB,47 W
+Core i7-5820K,6  / 12,3.3 to 3.6 GHz,22 nm,15MB,140 W
+Core i7-5930K,6  / 12,3.5 to 3.7 GHz,22 nm,15MB,140 W
+Core i7-5960X,8  / 16,3 to 3.5 GHz,22 nm,20MB,140 W
+Pentium G3250,2 ,3.2 GHz,22 nm,3MB,54 W
+Pentium G3250T,2 ,2.8 GHz,22 nm,3MB,35 W
+Pentium G3258,2 ,3.2 GHz,22 nm,3MB,54 W
+Pentium G3440,2 ,3.3 GHz,22 nm,3MB,54 W
+Pentium G3450,2 ,3.3 GHz,22 nm,3MB,54 W
+Pentium G3450T,2 ,2.9 GHz,22 nm,3MB,35 W
+Pentium G3460,2 ,3.5 GHz,22 nm,3MB,54 W
+Xeon E5-1603 V3,4 ,2.8 GHz,22 nm,10MB,140 W
+Xeon E5-1607 V3,4 ,3.1 GHz,22 nm,10MB,140 W
+Xeon E5-1620 V3,4  / 8,3.5 to 3.6 GHz,22 nm,10MB,140 W
+Xeon E5-1630 V3,4  / 8,3.7 to 3.8 GHz,22 nm,10MB,140 W
+Xeon E5-1650 V3,6  / 12,3.5 to 3.8 GHz,22 nm,15MB,140 W
+Xeon E5-1660 V3,8  / 16,3 to 3.5 GHz,22 nm,20MB,140 W
+Xeon E5-1680 V3,8  / 16,3.2 to 3.8 GHz,22 nm,20MB,140 W
+Xeon E5-1681 V3,10  / 20,2.9 to 3.5 GHz,22 nm,25MB,135 W
+Xeon E5-1686 V3,12  / 24,2.6 to 3.3 GHz,22 nm,30MB,135 W
+Xeon E5-1691 V3,14  / 28,2.5 to 3.4 GHz,22 nm,35MB,135 W
+Xeon E5-2603 V3,6 ,1600 MHz,22 nm,15MB,85 W
+Xeon E5-2608L V3,6 ,2000 MHz,22 nm,15MB,52 W
+Xeon E5-2609 V3,6 ,1900 MHz,22 nm,15MB,85 W
+Xeon E5-2618L V3,8  / 16,2.3 to 3.4 GHz,22 nm,20MB,75 W
+Xeon E5-2620 V3,6  / 12,2.4 to 3.2 GHz,22 nm,15MB,85 W
+Xeon E5-2622 V3,8  / 16,2.4 to 3.4 GHz,22 nm,20MB,85 W
+Xeon E5-2623 V3,4  / 8,3 to 3.5 GHz,22 nm,10MB,105 W
+Xeon E5-2628 V3,8  / 16,2.5 to 3 GHz,22 nm,20MB,85 W
+Xeon E5-2628L V3,10  / 20,2 to 2.5 GHz,22 nm,25MB,75 W
+Xeon E5-2629 V3,8  / 16,2.4 to 3.2 GHz,22 nm,20MB,85 W
+Xeon E5-2630 V3,8  / 16,2.4 to 3.2 GHz,22 nm,20MB,85 W
+Xeon E5-2630L V3,8  / 16,1.8 to 2.9 GHz,22 nm,20MB,55 W
+Xeon E5-2637 V3,4  / 8,3.5 to 3.7 GHz,22 nm,15MB,135 W
+Xeon E5-2640 V3,8  / 16,2.6 to 3.4 GHz,22 nm,20MB,90 W
+Xeon E5-2643 V3,6  / 12,3.4 to 3.7 GHz,22 nm,20MB,135 W
+Xeon E5-2648L V3,12  / 24,1.8 to 2.5 GHz,22 nm,30MB,75 W
+Xeon E5-2649 V3,10  / 20,2.3 to 3 GHz,22 nm,25MB,105 W
+Xeon E5-2650 V3,10  / 20,2.3 to 3 GHz,22 nm,25MB,105 W
+Xeon E5-2650L V3,12  / 24,1.8 to 2.5 GHz,22 nm,30MB,65 W
+Xeon E5-2652 V3,10  / 20,2.3 to 2.8 GHz,22 nm,25MB,105 W
+Xeon E5-2658 V3,12  / 24,2.2 to 2.9 GHz,22 nm,30MB,105 W
+Xeon E5-2660 V3,10  / 20,2.6 to 3.3 GHz,22 nm,25MB,105 W
+Xeon E5-2663 V3,10  / 20,2.8 to 3.5 GHz,22 nm,25MB,105 W
+Xeon E5-2666 V3,10  / 20,2.9 to 3.5 GHz,22 nm,25MB,135 W
+Xeon E5-2667 V3,8  / 16,3.2 to 3.6 GHz,22 nm,20MB,135 W
+Xeon E5-2670 V3,12  / 24,2.3 to 3.1 GHz,22 nm,30MB,120 W
+Xeon E5-2673 V3,12  / 24,2.4 to 3.1 GHz,22 nm,30MB,105 W
+Xeon E5-2675 V3,16  / 32,1.8 to 2.3 GHz,22 nm,40MB,110 W
+Xeon E5-2680 V3,12  / 24,2.5 to 3.3 GHz,22 nm,30MB,120 W
+Xeon E5-2683 V3,14  / 28,2 to 3 GHz,22 nm,35MB,120 W
+Xeon E5-2685 V3,12 ,2.6 to 3.3 GHz,22 nm,30MB,120 W
+Xeon E5-2686 V3,18  / 36,2 to 3.5 GHz,22 nm,45MB,120 W
+Xeon E5-2687W V3,10  / 20,3.1 to 3.5 GHz,22 nm,25MB,160 W
+Xeon E5-2690 V3,12  / 24,2.6 to 3.5 GHz,22 nm,30MB,135 W
+Xeon E5-2692 V3,12  / 24,3 to 3.6 GHz,22 nm,30MB,165 W
+Xeon E5-2693 V3,12  / 24,2.8 to 3.4 GHz,22 nm,30MB,160 W
+Xeon E5-2695 V3,14  / 28,2.3 to 3.3 GHz,22 nm,35MB,120 W
+Xeon E5-2696 V3,18  / 36,2.3 to 3.8 GHz,22 nm,45MB,145 W
+Xeon E5-2697 V3,14  / 28,2.6 to 3.6 GHz,22 nm,35MB,145 W
+Xeon E5-2698 V3,16  / 32,2.3 to 3.6 GHz,22 nm,40MB,135 W
+Xeon E5-2698A V3,16  / 32,2.8 to 3.2 GHz,22 nm,40MB,165 W
+Xeon E5-2699 V3,18  / 36,2.3 to 3.6 GHz,22 nm,45MB,145 W
+Xeon Phi 7120A,61  / 244,1238 to 1333 MHz,22 nm,N/A,300 W
+Xeon Phi 7120D,61  / 244,1238 to 1333 MHz,22 nm,N/A,270 W
