@@ -32,4 +32,4 @@ class CpuSpider(scrapy.Spider):
             }
 
 #from scrapy import cmdline
-#cmdline.execute("scrapy crawl CPU -o file:///c:/Users/NhatBui/Desktop/dsproject/raw_data/cpu.csv:csv".split())
+#cmdline.execute("scrapy crawl CPU -o file:///dsproject/raw_data/cpu.csv:csv".split())

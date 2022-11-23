@@ -37,4 +37,4 @@ class GpuSpider(scrapy.Spider):
             }
 
 #from scrapy import cmdline
-#cmdline.execute("scrapy crawl GPU -o file:///c:/Users/NhatBui/Desktop/dsproject/raw_data/gpu.csv:csv".split())
+#cmdline.execute("scrapy crawl GPU -o file:///dsproject/raw_data/gpu.csv:csv".split())

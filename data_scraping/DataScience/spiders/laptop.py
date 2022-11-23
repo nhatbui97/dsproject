@@ -11,7 +11,7 @@ class LaptopSpider(scrapy.Spider):
     #scrape info
     lst_year = []
     from_year = 2004
-    to_year = 2023
+    to_year = 2012
     OS = {'Windows': '1', 'MacOS': '2', 'Linux': '3'}
     Windows_Manufacturers = ['18', '11', '5', '146', '9', '447', '3', '35', '36', '15', '505']
 
@@ -93,4 +93,4 @@ class LaptopSpider(scrapy.Spider):
         
 
 #from scrapy import cmdline
-#cmdline.execute("scrapy crawl laptop -o file:///c:/Users/NhatBui/Desktop/dsproject/raw_data/windows_laptop.csv:csv".split())
+#cmdline.execute("scrapy crawl laptop -o file:///dsproject/raw_data/windows_laptop.csv:csv".split())
