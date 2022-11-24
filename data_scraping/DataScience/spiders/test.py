@@ -1,2 +1,1 @@
-x = 'awdawcjwa gag'
-print(x.index(' g'))
+print('abc\xa0def')
