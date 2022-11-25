@@ -1,1 +1,2 @@
-print('abc\xa0def')
+print('\xa0')
+

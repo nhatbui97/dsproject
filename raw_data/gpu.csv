@@ -1265,7 +1265,7 @@ Radeon HD 6450 OEM,"512 MB, GDDR3, 64 bit",625 MHz,533 MHz
 Radeon HD 6450A,"512 MB, DDR3, 64 bit",625 MHz,533 MHz
 Radeon HD 6450M,"1024 MB, DDR3, 64 bit",600 MHz,800 MHz
 Radeon HD 6470M,"512 MB, DDR3, 64 bit",700 MHz,800 MHz
-Radeon HD 6480G IGP,System Shared,593 MHz,System Shared
+Radeon HD 6480G,System Shared,593 MHz,System Shared
 Radeon HD 6480G IGP,System Shared,444 MHz,System Shared
 Radeon HD 6490,"1024 MB, DDR2, 128 bit",550 MHz,500 MHz
 Radeon HD 6490M,"512 MB, GDDR5, 64 bit",800 MHz,800 MHz
@@ -1327,6 +1327,7 @@ FirePro V8800,"2 GB, GDDR5, 256 bit",825 MHz,1150 MHz
 FirePro V9800,"4 GB, GDDR5, 256 bit",850 MHz,1150 MHz
 FirePro V9800P,"4 GB, GDDR5, 256 bit",850 MHz,1150 MHz
 Mobility Radeon HD 4225 IGP,System Shared,380 MHz,System Shared
+Radeon HD 4225,System Shared,380 MHz,System Shared
 Mobility Radeon HD 4250 IGP,System Shared,500 MHz,System Shared
 Mobility Radeon HD 4270 IGP,System Shared,590 MHz,System Shared
 Mobility Radeon HD 4550,"512 MB, GDDR3, 64 bit",550 MHz,700 MHz
@@ -1490,7 +1491,7 @@ Radeon HD 6850 1440SP Edition,"1024 MB, GDDR5, 256 bit",725 MHz,1000 MHz
 Radeon HD 7290 IGP,System Shared,276 MHz,System Shared
 Radeon HD 7310 IGP,System Shared,500 MHz,System Shared
 Radeon HD 7330M,"1024 MB, DDR3, 64 bit",500 MHz,800 MHz
-Radeon HD 7340 IGP,System Shared,523 MHz,System Shared
+Radeon HD 7340,System Shared,523 MHz,System Shared
 Radeon HD 7350 OEM,"512 MB, GDDR3, 64 bit",650 MHz,800 MHz
 Radeon HD 7350 OEM PCI,"512 MB, GDDR3, 64 bit",650 MHz,500 MHz
 Radeon HD 7350M,"1024 MB, DDR3, 64 bit",500 MHz,900 MHz
@@ -2457,17 +2458,19 @@ Radeon RX 640 Mobile,"2 GB, GDDR5, 64 bit",1082 MHz,1500 MHz
 Radeon RX Vega 11,System Shared,300 MHz,System Shared
 Radeon RX Vega 11 Mobile,System Shared,300 MHz,System Shared
 Radeon VII,"16 GB, HBM2, 4096 bit",1400 MHz,1000 MHz
-Radeon Vega 10 Mobile,System Shared,300 MHz,System Shared
-Radeon Vega 10 Mobile,System Shared,300 MHz,System Shared
-Radeon Vega 10 Mobile,System Shared,300 MHz,System Shared
+Radeon RX Vega 10,System Shared,300 MHz,System Shared
 Radeon Vega 11,System Shared,300 MHz,System Shared
 Radeon Vega 3,System Shared,300 MHz,System Shared
 Radeon Vega 3 Embedded,System Shared,300 MHz,System Shared
 Radeon Vega 3 Embedded,System Shared,300 MHz,System Shared
 Radeon Vega 3 Mobile,System Shared,300 MHz,System Shared
+Radeon RX Vega 3,System Shared,1200 MHz,System Shared
 Radeon Vega 6 Mobile,System Shared,300 MHz,System Shared
 Radeon Vega 6 Mobile,System Shared,300 MHz,System Shared
-Radeon Vega 8,System Shared,300 MHz,System Shared
+Radeon RX Vega 2,System Shared,1100 MHz,System Shared
+Radeon RX Vega 5,System Shared,1400 MHz,System Shared
+Radeon RX Vega 6,System Shared,1500 MHz,System Shared
+Radeon RX Vega 8,System Shared,2000 MHz,System Shared
 Radeon Vega 8 Mobile,System Shared,300 MHz,System Shared
 Radeon Vega 8 Mobile,System Shared,300 MHz,System Shared
 Radeon Vega 8 Mobile,System Shared,300 MHz,System Shared
@@ -2545,8 +2548,8 @@ UHD Graphics G1,System Shared,300 MHz,System Shared
 H3C XG310,"8 GB, LPDDR4X, 128 bit",900 MHz,2133 MHz
 Iris Plus Graphics G7,System Shared,300 MHz,System Shared
 Iris Xe Graphics G4,System Shared,300 MHz,System Shared
-Iris Xe Graphics G7 80EU,System Shared,300 MHz,System Shared
-Iris Xe Graphics G7 96EU,System Shared,300 MHz,System Shared
+Iris Xe Graphics G7 80EUs,System Shared,300 MHz,System Shared
+Iris Xe Graphics G7 96EUs,System Shared,300 MHz,System Shared
 Iris Xe MAX Graphics,"4 GB, LPDDR4X, 128 bit",300 MHz,2133 MHz
 UHD Graphics 610,System Shared,350 MHz,System Shared
 UHD Graphics 630,System Shared,350 MHz,System Shared
@@ -2710,7 +2713,7 @@ Radeon RX 6700M,"10 GB, GDDR6, 160 bit",1489 MHz,2000 MHz
 Radeon RX 6800M,"12 GB, GDDR6, 192 bit",2116 MHz,2000 MHz
 Radeon Vega 6,System Shared,300 MHz,System Shared
 Radeon Vega 6 Mobile,System Shared,300 MHz,System Shared
-Radeon Vega 7,System Shared,300 MHz,System Shared
+Radeon RX Vega 7,System Shared,1800 MHz,System Shared
 Radeon Vega 7 Mobile,System Shared,300 MHz,System Shared
 Radeon Vega 8,System Shared,300 MHz,System Shared
 Radeon Vega 8 Mobile,System Shared,300 MHz,System Shared
