@@ -769,6 +769,7 @@ Core i5-460M,2  / 4,2.534 to 2.8 GHz,32 nm,3MB,35 W
 Core i5-540M,2  / 4,2.533 to 3.073 GHz,32 nm,3MB,35 W
 Core i5-560M,2  / 4,2.667 to 3.2 GHz,32 nm,3MB,35 W
 Core i5-580M,2  / 4,2.667 to 3.333 GHz,32 nm,3MB,35 W
+core i5-6200u,2  / 4,2.3 to 2.8 GHz,14 nm,3MB,15 W
 Core i5-650,2  / 4,3.2 to 3.466 GHz,32 nm,4MB,73 W
 Core i5-655K,2  / 4,3.2 to 3.466 GHz,32 nm,4MB,73 W
 Core i5-660,2  / 4,3.333 to 3.6 GHz,32 nm,4MB,73 W
@@ -777,6 +778,8 @@ Core i5-670,2  / 4,3.466 to 3.733 GHz,32 nm,4MB,73 W
 Core i5-680,2  / 4,3.6 to 3.866 GHz,32 nm,4MB,73 W
 Core i5-750s,4 ,2.4 to 3.2 GHz,45 nm,8MB,82 W
 Core i5-760,4 ,2.8 to 3.333 GHz,45 nm,8MB,95 W
+Core i5-7200u,2  / 4 ,2.5 to 3.1 GHz,14 nm,3MB,15 W
+core i7-6500u,2  / 4,2.5 to 3.1 GHz,14 nm,4MB,25 W
 Core i7-620M,2  / 4,2.677 to 3.333 GHz,32 nm,4MB,35 W
 Core i7-620M,2  / 4,2.677 to 3.333 GHz,32 nm,4MB,35 W
 Core i7-640M,2  / 4,2.8 to 3.467 GHz,32 nm,4MB,35 W
@@ -1440,6 +1443,7 @@ Core i5-2430M,2  / 4,2.4 GHz,32 nm,3MB,35 W
 Core i5-2435M,2  / 4,2.4 GHz,32 nm,3MB,35 W
 Core i5-2435M,2  / 4,2.4 GHz,32 nm,3MB,35 W
 Core i5-2467M,2  / 4,1600 MHz,32 nm,3MB,17 W
+core i5-2410m,2  / 4,2.3 to 2.9 GHz,32 nm,3MB,35 W
 Core i5-2557M,2  / 4,1700 MHz,32 nm,3MB,17 W
 Core i7-2670QM,4  / 8,2.2 to 3.1 GHz,32 nm,6MB,45 W
 Core i7-2675QM,4  / 8,2.2 to 3.1 GHz,32 nm,6MB,45 W
@@ -1633,6 +1637,7 @@ Core i7-6700,4  / 8,3.4 to 4 GHz,14 nm,8MB,65 W
 Core i7-6700K,4  / 8,4 to 4.2 GHz,14 nm,8MB,95 W
 Core i7-6700T,4  / 8,2.8 to 3.6 GHz,14 nm,8MB,35 W
 Core i7-6700TE,4  / 8,2.4 to 3.4 GHz,14 nm,8MB,35 W
+core i7-6700hq,4  / 8,2.6 to 3.5 GHz,14 nm,6MB,45 W
 Pentium 3805U,2 ,1900 MHz,14 nm,2MB,15 W
 Pentium 3825U,2  / 4,1900 MHz,14 nm,2MB,15 W
 Pentium G4400,2 ,3.3 GHz,14 nm,4MB,51 W
@@ -1793,6 +1798,7 @@ PRO A8-8650B,4 ,3.2 to 3.9 GHz,28 nm,N/A,65 W
 Celeron G3930,2 ,2.9 GHz,14 nm,2MB,51 W
 Celeron G3930T,2 ,2.7 GHz,14 nm,2MB,35 W
 Celeron G3950,2 ,3 GHz,14 nm,2MB,51 W
+core i3-7100u,2  / 4,2.4 GHz,14 nm,3MB,15 W
 Core i3-7100,2  / 4,3.9 GHz,14 nm,3MB,51 W
 Core i3-7100T,2  / 4,3.4 GHz,14 nm,3MB,35 W
 Core i3-7120,2  / 4,4 GHz,14 nm,3MB,51 W
@@ -1819,9 +1825,11 @@ Core i5-8250U,4  / 8,1.6 to 3.4 GHz,14 nm,6MB,15 W
 Core i5-8350U,4  / 8,1.7 to 3.6 GHz,14 nm,6MB,15 W
 Core i5-8400,6 ,2.8 to 4 GHz,14 nm,9MB,65 W
 Core i5-8600K,6 ,3.6 to 4.3 GHz,14 nm,9MB,95 W
+core i7-7500u,2  / 4,2.7 to 3.5 GHz,14 nm,4MB,15 W
 Core i7-7700,4  / 8,3.6 to 4.2 GHz,14 nm,8MB,65 W
 Core i7-7700K,4  / 8,4.2 to 4.5 GHz,14 nm,8MB,91 W
 Core i7-7700T,4  / 8,2.9 to 3.8 GHz,14 nm,8MB,35 W
+core i7-7700hq,4  / 8,2.8 to 3.8 GHz,14 nm,6MB,45 W
 Core i7-7740X,4  / 8,4.3 to 4.6 GHz,14 nm,8MB,112 W
 Core i7-7800X,6  / 12,3.5 to 4 GHz,14 nm,8.25MB,140 W
 Core i7-7820X,8  / 16,3.6 to 4.5 GHz,14 nm,11MB,140 W
@@ -2453,6 +2461,7 @@ Ryzen 3 PRO 5350G,4  / 8,4 to 4.2 GHz,7 nm,8MB,65 W
 Ryzen 3 PRO 5350GE,4  / 8,3.6 to 4.2 GHz,7 nm,8MB,35 W
 Ryzen 3 PRO 5450U,4  / 8,2.6 to 4 GHz,7 nm,8MB,15 W
 Ryzen 5 5500U,6  / 12,2.1 to 4 GHz,7 nm,8MB,15 W
+ryzen 5 5600h,6  / 12,3.3 to 4.2 GHz,7 nm,16MB,45 W
 Ryzen 5 5600G,6  / 12,3.9 to 4.4 GHz,7 nm,16MB,65 W
 Ryzen 5 5600U,6  / 12,2.3 to 4.2 GHz,7 nm,16MB,15 W
 Ryzen 5 PRO 5650G,6  / 12,3.9 to 4.4 GHz,7 nm,16MB,65 W
@@ -2622,3 +2631,47 @@ Xeon E5-2698A V3,16  / 32,2.8 to 3.2 GHz,22 nm,40MB,165 W
 Xeon E5-2699 V3,18  / 36,2.3 to 3.6 GHz,22 nm,45MB,145 W
 Xeon Phi 7120A,61  / 244,1238 to 1333 MHz,22 nm,N/A,300 W
 Xeon Phi 7120D,61  / 244,1238 to 1333 MHz,22 nm,N/A,270 W
+core i5-11300h,4  / 8,4.4 GHz,10 nm,8MB,32 W
+core i7-11370h,4  / 8,4.8 GHz,10 nm,12MB,32 W
+celeron n4020,2  / 2,1.1 to 2.8 GHz,14 nm,4MB,6 W
+celeron n4500,2  / 2,1.1 to 2.8 GHz,10 nm,4MB,6 W
+pentium silver n6000,4  / 4,1.1 to 3.3 GHz,10 nm,4MB,6 W
+ryzen 9 5900hs,8  / 16,3.0 to 4.6 GHz,7 nm,16MB,35 W
+apple m2,8,3.49 GHz,5 nm,8MB,18 W
+celeron n5100,4  / 4,1.1 to 2.8 GHz,10 nm,4MB,6 W
+pentium silver n5030,4  / 4,1.1 to 3.3 GHz,14 nm,4MB,6 W
+celeron n4120,4  / 4,1.1 to 2.6 GHz,14 nm,4MB,6 W
+core i5-1140g7,4  / 8,4.2 GHz,10 nm,8MB,15 W
+3020e,2  / 2,1.2 to 2.6 GHz,14 nm,4MB,6 W
+pentium gold 4415u,2  / 4,2.3 GHz,14 nm,2MB,15 W
+ryzen 3 3350u,4  / 4,2.1 to 3.5 GHz,12 nm,4MB,15 W
+core i5-10500h,6  / 12,2.5 to 4.5 GHz,14 nm,12MB,45 W
+ryzen 5 3450u,4  / 8,2.1 to 3.5 GHz,12 nm,4MB,15 W
+athlon gold 3150u,2  / 4,2.4 to 3.3 GHz,14 nm,4MB,15 W
+ryzen 7 pro 6860z,8  / 16,2.7 to 4.75 GHz,6 nm,16MB,28 W
+celeron 6305,2  / 2,1.8 GHz,10 nm,4MB,15 W
+core i5-9300hf,4  / 8,2.4 to 4.1 GHz,14 nm,8MB,45 W
+pentium gold 7505,2  / 4,2.0 GHz,10 nm,4MB,15 W
+celeron n3060,2  / 2,1.6 to 2.48 GHz,14 nm,2MB,6 W
+celeron n3350,2  / 2,1.1 to 2.4 GHz,14 nm,2MB,6 W
+core i3-6006u,2  / 4,2.0 GHz,14 nm,3MB,15 W
+core i7-3610qm,4  / 8,2.3 to 3.3 GHz,22 nm,6MB,45 W
+pentium n4200,4  / 4,1.0 to 2.5 GHz,14 nm,2MB,6 W
+core i7-2630qm,4  / 8,2.0 to 2.9 GHz,32 nm,6MB,45 W
+core i7-7820hk,4  / 8,2.9 to 3.9 GHz,14 nm,8MB,45 W
+core i5-9300h,4  / 8,2.4 to 4.1 GHz,14 nm,8MB,45 W
+core i5-4200u,2  / 4,1.6 to 2.6 GHz,22 nm,3MB,15 W
+core i3-6100u,2  / 4,2.3 GHz,14 nm,3MB,15 W
+core i3-7020u,2  / 4,2.3 GHz,14 nm,3MB,15 W
+core i7-6820hk,4  / 8,2.7 to 3.6 GHz,14 nm,8MB,45 W
+core i7-7600u,2  / 4,2.8 to 3.9 GHz,14 nm,4MB,15 W
+celeron n3050,2  / 2,1.6 to 2.16 GHz,14 nm,2MB,6 W
+core i7-4700hq,4  / 8,2.4 to 3.4 GHz,22 nm,6MB,47 W
+core i5-6300hq,4  / 4,2.3 to 3.2 GHz,14 nm,6MB,45 W
+atom x5-z8350,4,1.44 to 1.92 GHz,14 nm,2MB,2 W
+core i7-4720hq,4  / 8,2.6 to 3.6 GHz,22 nm,6MB,47 W
+celeron n4000,2  / 2,1.1 to 2.6 GHz,14 nm,4MB,6 W
+apple m1 max,10,3.2 GHz,5 nm,48MB,30 W
+apple m1 pro,10,3.2 GHz,5 nm,24MB,15 W
+apple m1 pro 8-core,8,3.2 GHz,5 nm,24MB,15 W
+
