@@ -1,3 +1,5 @@
-print('x'.split(', '))
+x = 'x'
+x.replace('x' ,'y')
+print(x)
 
 
