@@ -1,192 +1,192 @@
 ,Laptop_name,Year,OS,CPU,CPU_Cores,CPU_Threads,CPU_Default_Clock,CPU_Boosted_Clock,CPU_Transistor_Size(nm),CPU_L3(MB),CPU_TDP(W),GPU,GPU_Memory(GB),GPU_Memory_Type,GPU_Bus_Width(bit),GPU clock(MHz),GPU memory clock(MHz),RAM(GB),RAM_bus,RAM_DDR,Storage(GB),Display_Inch,Display_Height(pixel),Display_Width(pixel),Weight(kg),Brand,Price(USD)
-113,Acer Aspire Vero AV14-51-59UW,2022,Windows,core i5,10,12,1.3,4.4,10,12,15,iris xe graphics g7 80eus,0,nan,0,300.0,0,8,0,4,512,14.0,1920,1080,1.5,Acer,788.0
-146,Asus ZenBook 14 UM425U,2022,Windows,ryzen 7,8,16,1.8,4.3,7,8,15,radeon rx vega 8,0,nan,0,2000.0,0,8,0,4,512,14.0,1920,1080,1.206,Asus,667.0
-1126,MSI Stealth 15M A11SEK,2021,Windows,core i7,4,8,3.0,4.8,10,12,28,geforce rtx 2060 max-q,6,GDDR6,192,975.0,1375,32,0,1,1024,15.6,1920,1080,1.695,MSI,1500.0
-49,Acer Swift 3 SF314-511-58NS,2022,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,16,0,4,512,14.0,1920,1080,1.2,Acer,841.0
-931,Lenovo ThinkPad P15 Gen1-20ST000DGE,2021,Windows,core i7,6,12,2.6,5.0,14,12,45,quadro t1000,4,GDDR5,128,1395.0,2001,16,0,4,512,15.6,1920,1080,2.733,Lenovo,2283.0
-694,Lenovo Legion 5 15ITH6H-82JH0070SP,2022,Windows,core i7,8,16,1.9,4.6,10,24,35,geforce rtx 3070 mobile,8,GDDR6,256,1110.0,1750,32,0,4,1024,15.6,1920,1080,2.4,Lenovo,1472.0
-1115,MSI GE76 Dragon Tiamat 10UH,2021,Windows,core i9,8,16,2.4,5.3,14,16,45,geforce rtx 3080 mobile,8,GDDR6,256,1110.0,1750,32,0,4,2048,17.3,1920,1080,2.9,MSI,5086.0
-609,Lenovo ThinkPad Z13 21D2CTO1WW,2022,Windows,ryzen 5,6,12,2.9,4.5,6,16,15,radeon 660m,0,nan,0,1500.0,0,16,0,4,512,13.3,1920,1200,1.196,Lenovo,1945.0
+960,Lenovo Yoga Slim 7 Pro 14ARH5-82NK001PSB,2021,Windows,ryzen 9,8,16,3.0,4.6,7,16,35,geforce mx450,2,GDDR6,64,1395.0,1250,16,0,4,512,14.0,2880,1800,1.32,Lenovo,1419.0
+1242,Acer Aspire 5 A515-56-55LT,2021,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,16,0,4,512,15.6,1920,1080,1.65,Acer,887.0
+928,Lenovo Yoga 9 15IMH5-82DE000WGE,2021,Windows,core i7,6,12,2.6,5.0,14,12,45,geforce gtx 1650 ti mobile,4,GDDR6,128,1350.0,1500,16,0,4,1024,15.6,1920,1080,2.0,Lenovo,2602.0
+490,HP Omen 17-ck0065ng,2022,Windows,core i7,8,16,1.9,4.6,10,24,35,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,16,0,4,512,17.3,1920,1080,1.82,HP,1629.0
+1576,Dell XPS 15 9510 11800H RTX 3050 Ti OLED,2021,Windows,core i7,8,16,1.9,4.6,10,24,35,geforce rtx 3050 ti mobile,4,GDDR6,128,735.0,1500,16,0,4,512,15.6,3456,2160,1.937,Dell,2898.0
+1053,Lenovo IdeaPad 5 14ALC05-82LM005XGE,2021,Windows,ryzen 7,8,16,1.8,4.3,7,8,15,radeon rx vega 8,0,nan,0,2000.0,0,16,0,4,512,14.0,1920,1080,1.38,Lenovo,1301.0
+36,Acer Swift X SFX14-41G-R5EM,2022,Windows,ryzen 7,8,16,1.9,4.4,7,16,15,geforce rtx 3050 mobile,4,GDDR6,128,712.0,1500,16,0,4,512,14.0,1920,1080,1.5,Acer,1156.0
+1653,Gigabyte G5 KC,2021,Windows,core i5,6,12,2.5,4.5,14,12,45,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,16,0,4,512,15.6,1920,1080,2.13,Gigabyte Aero,1183.0
+303,Asus ProArt StudioBook 16 W7600H3A-L2034X,2022,Windows,core i7,8,16,1.9,4.6,10,24,35,rtx a3000 mobile,6,GDDR6,192,1260.0,1375,64,0,4,1024,16.0,3840,2400,2.4,Asus,4730.0
+1788,HP Pavilion Gaming 15-ec2025ns,2021,Windows,ryzen 7,8,16,3.2,4.4,7,16,45,geforce gtx 1650 mobile,4,GDDR5,128,1395.0,2001,16,0,4,512,15.6,1920,1080,2.25,HP,1005.0
+579,Huawei MateBook 14 2021 AMD,2022,Windows,ryzen 5,6,12,2.1,4.0,7,8,15,radeon rx vega 7,0,nan,0,1800.0,0,16,0,4,512,14.0,2160,1440,1.456,Huawei,1051.0
+1893,HP 15s-eq1105ns,2021,Windows,ryzen 7,8,8,1.8,4.2,7,12,25,radeon rx vega 7,0,nan,0,1800.0,0,16,0,4,512,15.6,1920,1080,1.69,HP,923.0
+414,HP Spectre x360 13.5 14t-ef000,2022,Windows,core i7,10,12,1.7,4.7,10,12,15,iris xe graphics g7 96eus,0,nan,0,300.0,0,16,0,4,1024,13.5,3000,2000,1.352,HP,1750.0
+1443,Asus Zephyrus S15 GX502LXS-XS79,2021,Windows,core i7,8,16,2.1,5.1,14,16,45,geforce rtx 2080 super max-q,8,GDDR6,256,735.0,1375,32,0,4,1024,15.6,1920,1080,2.0,Asus,3903.0
+801,MSI Prestige 14 A12UC-228,2022,Windows,core i5,12,16,1.7,4.4,10,12,28,geforce rtx 3050 mobile,4,GDDR6,128,712.0,1500,16,0,4,512,14.0,1920,1080,1.29,MSI,1650.0
 712,Lenovo IdeaPad Flex 5 14IAU7-82R7002QGE,2022,Windows,core i7,10,12,1.7,4.7,10,12,15,iris xe graphics g7 96eus,0,nan,0,300.0,0,16,0,4,512,14.0,1920,1080,1.55,Lenovo,1156.0
-1162,MSI GS66 Stealth 11UH-471,2021,Windows,core i7,8,16,1.9,4.6,10,24,35,geforce rtx 3080 mobile,8,GDDR6,256,1110.0,1750,32,0,4,1024,15.6,2560,1440,2.1,MSI,3666.0
-1101,MSI Summit B15 A11M,2021,Windows,core i7,4,8,2.8,4.7,10,12,28,iris xe graphics g7 96eus,0,nan,0,300.0,0,16,0,4,1024,15.6,1920,1080,1.528,MSI,1200.0
-60,Acer Predator Triton 500SE PT516-52s-98LC,2022,Windows,core i9,14,20,2.5,5.0,10,24,45,geforce rtx 3080 ti mobile,16,GDDR6,256,810.0,2000,32,0,5,2048,16.0,2560,1600,2.4,Acer,4205.0
-835,Acer Swift 3 SF314-43-R8BP,2022,Linux,ryzen 5,6,12,2.1,4.0,7,8,15,radeon rx vega 7,0,nan,0,1800.0,0,16,0,4,512,14.0,1920,1080,1.319,Acer,788.0
-1685,HP Pavilion Gaming 16-a0044ns,2021,Windows,core i5,4,8,2.5,4.5,14,6,45,geforce gtx 1650 ti mobile,4,GDDR6,128,1350.0,1500,8,0,4,512,16.1,1920,1080,2.5,HP,946.0
-211,Asus VivoBook Pro 15 D3500QC-L1103T,2022,Windows,ryzen 7,8,16,3.2,4.4,7,16,45,geforce rtx 3050 mobile,4,GDDR6,128,712.0,1500,16,0,4,1024,15.6,1920,1080,1.65,Asus,1472.0
-1710,"HP ProBook x360 435 G7, Ryzen 3 4300U",2021,Windows,ryzen 3,4,4,2.7,3.7,7,4,25,radeon rx vega 5,0,nan,0,1400.0,0,8,0,4,256,13.3,1920,1080,1.45,HP,1005.0
-1668,HP EliteBook 830 G8-i7-1165G7,2021,Windows,core i7,4,8,2.8,4.7,10,12,28,iris xe graphics g7 96eus,0,nan,0,300.0,0,32,0,4,1024,13.3,1920,1080,1.329,HP,3430.0
-1289,Acer Swift 1 SF114-34-C2VS,2021,Windows,celeron n5100,4,4,1.1,2.8,10,4,6,uhd graphics,0,nan,0,300.0,0,4,0,4,128,14.0,1920,1080,1.3,Acer,946.0
-683,Lenovo Legion S7 15ACH6-82K8002YGE,2022,Windows,ryzen 7,8,16,3.2,4.4,7,16,45,geforce rtx 3050 ti mobile,4,GDDR6,128,735.0,1500,16,0,4,512,15.6,1920,1080,1.9,Lenovo,1577.0
-333,Dell Inspiron 15 5515-H8P8F,2022,Windows,ryzen 7,8,16,1.8,4.3,7,8,15,radeon rx vega 8,0,nan,0,2000.0,0,8,0,4,512,15.6,1920,1080,1.632,Dell,757.0
-334,Dell Latitude 13 7330,2022,Windows,core i7,10,12,1.8,4.8,10,12,15,iris xe graphics g7 96eus,0,nan,0,300.0,0,16,0,4,512,13.3,1920,1080,1.003,Dell,2000.0
+358,"Dell Vostro 16 5620, i7-1260P MX570",2022,Windows,core i7,12,16,2.1,4.7,10,18,28,geforce mx570,4,GDDR6,64,1087.0,1500,16,0,4,512,16.0,1920,1200,1.91,Dell,1156.0
+394,Dell G15 5511-RNGVW,2022,Windows,core i7,8,16,1.9,4.6,10,24,35,geforce rtx 3050 ti mobile,4,GDDR6,128,735.0,1500,16,0,4,512,15.6,1920,1080,2.81,Dell,1314.0
+1906,Acer Nitro 5 AN515-57-56HH,2021,Linux,core i5,6,12,2.2,4.5,10,12,35,geforce rtx 3050 mobile,4,GDDR6,128,712.0,1500,8,0,4,512,15.6,1920,1080,2.3,Acer,1088.0
+146,Asus ZenBook 14 UM425U,2022,Windows,ryzen 7,8,16,1.8,4.3,7,8,15,radeon rx vega 8,0,nan,0,2000.0,0,8,0,4,512,14.0,1920,1080,1.206,Asus,667.0
+1568,Dell G15 5515,2021,Windows,ryzen 7,8,16,3.2,4.4,7,16,45,geforce rtx 3050 ti mobile,4,GDDR6,128,735.0,1500,16,0,4,512,15.6,1920,1080,2.43,Dell,1300.0
+69,Acer Predator Helios 300 PH317-56-718D,2022,Windows,core i7,14,20,2.3,4.7,10,24,45,geforce rtx 3070 ti mobile,8,GDDR6,256,915.0,1750,32,0,4,1024,17.3,2560,1440,3.0,Acer,2733.0
+1659,Gigabyte G5 MD-51US123SH,2021,Windows,core i5,6,12,2.2,4.5,10,12,35,geforce rtx 3050 ti mobile,4,GDDR6,128,735.0,1500,16,0,4,512,15.6,1920,1080,2.2,Gigabyte Aero,1419.0
+595,Lenovo ThinkPad T14 G3-21CF004NGE,2022,Windows,ryzen 7,8,16,2.7,4.7,6,16,15,radeon 680m,0,nan,0,2000.0,0,16,0,4,512,14.0,1920,1200,1.447,Lenovo,1955.0
+133,Acer Aspire 3 A317-53-58F1,2022,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,16,0,4,1024,17.3,1920,1080,2.6,Acer,893.0
+1344,Acer ConceptD 3 CN314-72G-744X,2021,Windows,core i7,6,12,2.6,5.0,14,12,45,geforce gtx 1650 mobile,4,GDDR5,128,1395.0,2001,16,0,4,512,14.0,1920,1080,1.5,Acer,2011.0
+1508,Asus TUF Gaming F15 FX506HM-HN004T,2021,Windows,core i7,8,16,1.9,4.6,10,24,35,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,16,0,4,512,15.6,1920,1080,2.3,Asus,1715.0
+335,Dell Inspiron 15 Plus,2022,Windows,core i5,6,12,2.2,4.5,10,12,35,geforce rtx 3050 mobile,4,GDDR6,128,712.0,1500,8,0,4,512,15.6,1920,1080,1.855,Dell,892.0
+1404,Asus ZenBook 13 UX325EA-KG245T,2021,Windows,core i7,4,8,2.8,4.7,10,12,28,iris xe graphics g7 96eus,0,nan,0,300.0,0,16,0,4,512,13.3,1920,1080,1.16,Asus,1419.0
+616,Lenovo Yoga Slim 7i Pro 14IAP G7,2022,Windows,core i5,12,16,1.7,4.4,10,12,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,16,0,4,512,14.0,2880,1800,1.324,Lenovo,1103.0
+994,Lenovo ThinkPad P15v G2-21A9000AGE,2021,Windows,core i7,8,16,1.9,4.6,10,24,35,t600 mobile,4,GDDR6,128,930.0,1250,16,0,4,512,15.6,1920,1080,2.07,Lenovo,2129.0
+1043,Lenovo IdeaPad Flex 5 14ALC05-82HU006KSP,2021,Windows,ryzen 5,6,12,2.1,4.0,7,8,15,radeon rx vega 7,0,nan,0,1800.0,0,8,0,4,512,14.0,1920,1080,1.56,Lenovo,769.0
+669,Lenovo ThinkPad E15 G4-21E60050GE,2022,Windows,core i7,10,12,1.7,4.7,10,12,15,iris xe graphics g7 96eus,0,nan,0,300.0,0,16,0,4,512,15.6,1920,1080,1.7,Lenovo,1209.0
+48,Acer Swift 3 SF314-512-50F6,2022,Windows,core i5,12,16,1.7,4.4,10,12,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,16,0,4,512,14.0,2160,1440,1.25,Acer,1104.0
+760,MSI Stealth GS66 12UGS,2022,Windows,core i7,14,20,2.3,4.7,10,24,45,geforce rtx 3070 ti mobile,8,GDDR6,256,915.0,1750,32,0,5,1024,15.6,2560,1440,2.2,MSI,3310.0
 325,Dell Inspiron 14 Plus 7420,2022,Windows,core i7,14,20,2.3,4.7,10,24,45,geforce rtx 3050 mobile,4,GDDR6,128,712.0,1500,16,0,5,512,14.0,2240,1400,1.669,Dell,1450.0
 1216,HP ZBook Fury 15 G8,2021,Windows,core i9,8,16,2.1,5.0,10,24,35,rtx a5000 mobile,16,GDDR6,256,900.0,1750,32,0,4,1024,15.6,3840,2160,2.475,HP,5600.0
-36,Acer Swift X SFX14-41G-R5EM,2022,Windows,ryzen 7,8,16,1.9,4.4,7,16,15,geforce rtx 3050 mobile,4,GDDR6,128,712.0,1500,16,0,4,512,14.0,1920,1080,1.5,Acer,1156.0
-751,MSI Creator Z16P B12UHST,2022,Windows,core i9,14,20,2.5,5.0,10,24,45,geforce rtx 3080 ti mobile,16,GDDR6,256,810.0,2000,32,2400,5,2048,16.0,2560,1600,2.387,MSI,4835.0
-1382,Asus ROG Zephyrus M16 GU603H,2021,Windows,core i9,8,16,2.1,4.9,10,24,35,geforce rtx 3070 mobile,8,GDDR6,256,1110.0,1750,32,0,4,2048,16.0,2560,1600,2.048,Asus,3548.0
-1893,HP 15s-eq1105ns,2021,Windows,ryzen 7,8,8,1.8,4.2,7,12,25,radeon rx vega 7,0,nan,0,1800.0,0,16,0,4,512,15.6,1920,1080,1.69,HP,923.0
-1633,"Dell Latitude 12 7210 2-in-1, i5-10210U",2021,Windows,core i5,4,8,1.6,4.2,14,6,25,uhd graphics 620,0,nan,0,300.0,0,8,0,1,256,12.3,1920,1080,0.85,Dell,2011.0
-729,Lenovo IdeaPad 3 14ITL6-9QSP,2022,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,8,0,4,512,14.1,1920,1080,1.41,Lenovo,999.0
-832,Apple MacBook Air M2 10C GPU,2022,MacOS,apple m2,8,8,3.49,3.49,5,8,18,apple m2 10-core gpu,0,nan,0,1296.0,0,16,0,4,1024,13.6,2560,1664,1.23,Apple,2427.0
-1098,MSI Summit E15 A11SCST,2021,Windows,core i7,4,8,3.0,4.8,10,12,28,geforce gtx 1650 ti max-q,4,GDDR6,128,1035.0,1250,16,0,4,1024,15.6,1920,1080,1.824,MSI,2365.0
-398,Gigabyte U4 UD,2022,Windows,core i7,4,8,2.9,5.0,10,12,28,iris xe graphics g7 96eus,0,nan,0,300.0,0,16,0,4,512,14.0,1920,1080,0.958,Gigabyte Aero,945.0
-1688,HP 255 G7 159P1EA,2021,Windows,ryzen 3,2,4,2.6,3.5,14,4,15,radeon rx vega 3,0,nan,0,1200.0,0,8,0,4,512,15.6,1920,1080,1.78,HP,827.0
-203,Asus VivoBook Pro 15 M3500QC-L1297W,2022,Windows,ryzen 7,8,16,3.2,4.4,7,16,45,geforce rtx 3050 mobile,4,GDDR6,128,712.0,1500,16,0,4,512,15.6,1920,1080,1.65,Asus,1051.0
-1307,Acer Predator Helios 300 PH315-53-70M2,2021,Windows,core i7,6,12,2.6,5.0,14,12,45,geforce gtx 1660 ti mobile,6,GDDR6,192,1455.0,1500,16,0,4,512,15.6,1920,1080,2.3,Acer,1183.0
-346,Dell Latitude 7330 Rugged Extreme,2022,Windows,core i7,4,8,3.0,4.8,10,12,28,iris xe graphics g7 96eus,0,nan,0,300.0,0,16,2133,4,512,13.3,1920,1080,2.742,Dell,5300.0
-300,Asus ROG Flow X13 GV301RE-LI134W,2022,Windows,ryzen 7,8,16,3.2,4.7,6,16,35,geforce rtx 3050 ti mobile,4,GDDR6,128,735.0,1500,16,0,5,1024,13.4,3840,2400,1.3,Asus,2313.0
-1156,MSI Katana GF66 11UE-063,2021,Windows,core i7,8,16,1.9,4.6,10,24,35,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,16,0,4,512,15.6,1920,1080,2.1,MSI,1774.0
-638,Lenovo Yoga Slim 7 Pro 14IHU5-82NH0048GE,2022,Windows,core i5,4,8,4.4,4.4,10,8,32,iris xe graphics g7 80eus,0,nan,0,300.0,0,16,0,4,512,14.0,2880,1800,1.38,Lenovo,1156.0
-1683,HP 14s-dq2004ns,2021,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,8,0,4,512,14.0,1920,1080,1.45,HP,887.0
-900,Lenovo V17-IIL 82GX008TGE,2021,Windows,core i3,2,4,1.2,3.4,10,4,15,uhd graphics g1,0,nan,0,300.0,0,8,0,4,256,17.3,1920,1080,2.2,Lenovo,708.0
-861,Lenovo Legion S7 15ACH6 82K80030GE,2021,Windows,ryzen 9,8,16,3.3,4.6,7,16,45,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,32,0,4,1024,15.6,3840,2160,1.966,Lenovo,2246.0
-914,Lenovo ThinkPad P15 G1-20ST001HGE,2021,Windows,core i9,8,16,2.4,5.3,14,16,45,quadro rtx 5000 max-q,16,GDDR6,256,600.0,1500,32,0,4,512,15.6,1920,1080,2.74,Lenovo,5559.0
-626,Lenovo Ideapad Gaming 3 15IHU-82K1002RGE,2022,Windows,core i5,4,8,4.4,4.4,10,8,32,geforce rtx 3050 ti mobile,4,GDDR6,128,735.0,1500,16,0,4,512,15.6,1920,1080,2.046,Lenovo,946.0
-616,Lenovo Yoga Slim 7i Pro 14IAP G7,2022,Windows,core i5,12,16,1.7,4.4,10,12,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,16,0,4,512,14.0,2880,1800,1.324,Lenovo,1103.0
-1004,Lenovo ThinkBook 16p G2 ACH-20YM0009GE,2021,Windows,ryzen 7,8,16,3.2,4.4,7,16,45,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,16,0,4,1024,16.0,2560,1600,1.99,Lenovo,1892.0
-429,HP Victus 16-e0101ns,2022,Windows,ryzen 7,8,16,3.2,4.4,7,16,45,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,16,0,4,512,16.1,1920,1080,2.46,HP,1009.0
-939,Lenovo ThinkPad L13 Gen2-20VH0017GE,2021,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,16,0,4,512,13.3,1920,1080,1.389,Lenovo,1153.0
-828,MSI Creator M16 A12UC-284,2022,Windows,core i7,14,20,2.3,4.7,10,24,45,geforce rtx 3050 mobile,4,GDDR6,128,712.0,1500,16,0,4,1024,16.0,2560,1600,2.26,MSI,1682.0
-1788,HP Pavilion Gaming 15-ec2025ns,2021,Windows,ryzen 7,8,16,3.2,4.4,7,16,45,geforce gtx 1650 mobile,4,GDDR5,128,1395.0,2001,16,0,4,512,15.6,1920,1080,2.25,HP,1005.0
-1036,Lenovo IdeaPad Gaming 3 15ARH05-82EY003NGE,2021,Windows,ryzen 5,6,12,3.0,4.0,7,11,54,geforce gtx 1650 ti mobile,4,GDDR6,128,1350.0,1500,16,0,4,512,15.6,1920,1080,2.2,Lenovo,887.0
-1678,HP Elite Dragonfly Max,2021,Windows,core i7,4,8,3.0,4.8,10,12,28,iris xe graphics g7 96eus,0,nan,0,300.0,0,16,0,4,512,13.3,1920,1080,1.164,HP,2450.0
-1645,"Dell Inspiron 13 5301, i5-1135G7",2021,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,8,0,4,256,13.3,1920,1080,1.23,Dell,828.0
-1344,Acer ConceptD 3 CN314-72G-744X,2021,Windows,core i7,6,12,2.6,5.0,14,12,45,geforce gtx 1650 mobile,4,GDDR5,128,1395.0,2001,16,0,4,512,14.0,1920,1080,1.5,Acer,2011.0
-404,HP ZBook Firefly 14 G9-6B8A2EA,2022,Windows,core i7,10,12,1.8,4.8,10,12,15,t550 mobile,4,GDDR6,64,1065.0,1500,32,0,5,1024,14.0,1920,1200,1.517,HP,2313.0
-936,Lenovo ThinkPad T15p-20TN0006GE,2021,Windows,core i7,6,12,2.6,5.0,14,12,45,geforce gtx 1050 mobile,2,GDDR5,128,1354.0,1752,16,0,4,512,15.6,3840,2160,2.157,Lenovo,2673.0
-1397,Asus Strix Scar 17 G733QSA-XS99,2021,Windows,ryzen 9,8,16,3.3,4.6,7,16,45,geforce rtx 3080 mobile,8,GDDR6,256,1110.0,1750,32,3200,4,2048,17.3,1920,1080,2.783,Asus,3000.0
-1575,Dell Inspiron 16 Plus 7610,2021,Windows,core i7,8,16,1.9,4.6,10,24,35,geforce rtx 3050 mobile,4,GDDR6,128,712.0,1500,16,0,4,512,16.0,3072,1920,2.046,Dell,1100.0
-917,Lenovo Yoga Creator 7 15IMH05 82DS000VGE,2021,Windows,core i7,6,12,2.6,5.0,14,12,45,geforce gtx 1650 mobile,4,GDDR5,128,1395.0,2001,16,0,4,1024,15.6,1920,1080,1.8,Lenovo,1891.0
-1269,Acer Swift X SFX14-41G-R4VH,2021,Windows,ryzen 7,8,16,1.9,4.4,7,16,15,geforce rtx 3050 ti mobile,4,GDDR6,128,735.0,1500,16,0,4,1024,14.0,1920,1080,1.39,Acer,1419.0
-823,MSI Creator Z17 A12UHST-052,2022,Windows,core i9,14,20,2.5,5.0,10,24,45,geforce rtx 3080 ti mobile,16,GDDR6,256,810.0,2000,64,0,5,2048,17.3,2560,1600,2.5,MSI,5413.0
-212,Asus VivoBook Pro 14X N7400PC-KM142W,2022,Windows,core i7,4,8,4.8,4.8,10,12,32,geforce rtx 3050 mobile,4,GDDR6,128,712.0,1500,16,0,4,1024,14.0,2880,1800,1.45,Asus,1734.0
-20,Acer Nitro 5 AN517-55-738R,2022,Windows,core i7,14,20,2.3,4.7,10,24,45,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,16,0,4,512,17.3,1920,1080,3.062,Acer,1786.0
-1900,Apple MacBook Pro 16 2021 M1 Max,2021,MacOS,apple m1,10,10,3.2,3.2,5,48,30,apple m1 max 32-core gpu,0,nan,0,1296.0,0,64,0,4,2048,16.2,3456,2234,2.2,Apple,1681.0
-1658,Gigabyte Aero 17 HDR YC,2021,Windows,core i9,8,16,2.4,5.3,14,16,45,geforce rtx 3080 mobile,8,GDDR6,256,1110.0,1750,64,0,4,1024,17.3,3840,2160,2.76,Gigabyte Aero,4612.0
-1675,HP Pavilion x360 15-er0155ng,2021,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,16,0,4,512,15.6,1920,1080,1.79,HP,1063.0
-152,Asus Zenbook S 13 OLED,2022,Windows,ryzen 7,8,16,2.7,4.7,6,16,15,radeon 680m,0,nan,0,2000.0,0,16,0,4,1024,13.3,2880,1800,1.095,Asus,1577.0
-1673,HP ProBook x360 435 G8 R7-5800U,2021,Windows,ryzen 7,8,16,1.9,4.4,7,16,15,radeon rx vega 8,0,nan,0,2000.0,0,16,0,4,512,13.3,1920,1080,1.459,HP,1301.0
-111,Acer Aspire Vero AV15-51-55CG,2022,Windows,core i5,4,8,2.5,4.5,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,16,0,4,512,15.6,1920,1080,1.8,Acer,841.0
-655,Lenovo ThinkPad X1 Yoga G6-20XY003GGE,2022,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,16,0,4,512,14.0,1920,1080,1.39,Lenovo,2313.0
-222,Asus Vivobook Go 14X E410MA-EB1272WS,2022,Windows,celeron n4500,2,2,1.1,2.8,10,4,6,uhd graphics,0,nan,0,300.0,0,4,0,4,128,14.0,1920,1080,1.3,Asus,368.0
-938,Lenovo ThinkPad E14 Gen2-20TA000DGE,2021,Windows,core i7,4,8,2.8,4.7,10,12,28,iris xe graphics g7 96eus,0,nan,0,300.0,0,16,0,4,512,14.0,1920,1080,1.595,Lenovo,1217.0
-1179,MSI GF63 Thin 10SCSR-876XES,2021,Windows,core i7,6,12,2.6,5.0,14,12,45,geforce gtx 1650 ti max-q,4,GDDR6,128,1035.0,1250,16,0,4,1024,15.6,1920,1080,1.86,MSI,1183.0
-109,Acer Aspire Vero AV15-52-712Q,2022,Windows,core i7,10,12,1.7,4.7,10,12,15,iris xe graphics g7 96eus,0,nan,0,300.0,0,16,0,4,1024,15.6,1920,1080,1.76,Acer,946.0
-55,Acer Swift 3 Pro SF314-43-R8MY,2022,Windows,ryzen 7,8,16,1.8,4.3,7,8,15,radeon rx vega 8,0,nan,0,2000.0,0,8,0,4,512,14.0,1920,1080,1.2,Acer,631.0
-1398,Asus ROG Zephyrus G15 GA503QR,2021,Windows,ryzen 9,8,16,3.0,4.6,7,16,35,geforce rtx 3070 mobile,8,GDDR6,256,1110.0,1750,16,0,4,1024,15.6,2560,1440,1.9,Asus,2957.0
-791,MSI Pulse GL76 12UEK-052,2022,Windows,core i7,14,20,2.3,4.7,10,24,45,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,16,0,4,512,17.3,1920,1080,2.65,MSI,1682.0
-1326,Acer Nitro 5 AN515-45-R8BM,2021,Windows,ryzen 7,8,16,3.2,4.4,7,16,45,geforce rtx 3070 mobile,8,GDDR6,256,1110.0,1750,16,0,4,1024,15.6,1920,1080,2.3,Acer,1774.0
-522,HP Envy 13-ba1009ns,2022,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,16,0,4,512,13.3,1920,1080,1.3,HP,736.0
-697,Lenovo Legion 5 15IAH7H-82RB0008GE,2022,Windows,core i7,14,20,2.3,4.7,10,24,45,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,16,0,5,512,15.6,2560,1440,2.4,Lenovo,1787.0
-1330,Acer Nitro 5 AN515-45-R3MS,2021,Windows,ryzen 7,8,16,3.2,4.4,7,16,45,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,16,0,4,1024,15.6,1920,1080,2.3,Acer,1301.0
-619,Lenovo Yoga 9i 14 2022 i7-1260P,2022,Windows,core i7,12,16,2.1,4.7,10,18,28,iris xe graphics g7 96eus,0,nan,0,300.0,0,16,0,4,1024,14.0,3840,2400,1.429,Lenovo,2102.0
-163,Asus TUF Gaming F17 FX707Z-HX011W,2022,Windows,core i7,14,20,2.3,4.7,10,24,45,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,16,2,5,1024,17.3,1920,1080,2.515,Asus,1840.0
-1213,HP 15s-eq1035ns,2021,Windows,AMD 3020e,2,2,1.2,2.6,14,4,6,radeon rx vega 3,0,nan,0,1200.0,0,4,0,4,256,15.6,1366,768,1.69,HP,355.0
-1195,MSI Creator 15 A10UGT-470,2021,Windows,core i7,8,16,2.2,5.0,14,16,45,geforce rtx 3070 mobile,8,GDDR6,256,1110.0,1750,32,0,4,1024,15.6,1920,1080,2.1,MSI,3193.0
-601,Lenovo Legion 7 16ARHA7,2022,Windows,ryzen 9,8,16,3.3,4.9,6,16,45,radeon rx 6850m xt,12,GDDR6,192,2321.0,2000,32,0,5,2048,16.0,2560,1600,2.581,Lenovo,2500.0
-1784,HP Pavilion Gaming 16-a0043ns,2021,Windows,core i7,6,12,2.6,5.0,14,12,45,geforce rtx 2060 max-q,6,GDDR6,192,975.0,1375,16,0,4,512,16.1,1920,1080,2.35,HP,1183.0
-303,Asus ProArt StudioBook 16 W7600H3A-L2034X,2022,Windows,core i7,8,16,1.9,4.6,10,24,35,rtx a3000 mobile,6,GDDR6,192,1260.0,1375,64,0,4,1024,16.0,3840,2400,2.4,Asus,4730.0
-526,HP EliteBook 845 G9 6F6F5EA,2022,Windows,ryzen 7,8,16,2.7,4.7,6,16,15,radeon 680m,0,nan,0,2000.0,0,16,0,5,512,14.0,1920,1200,1.4,HP,1892.0
-1475,Asus VivoBook L203MA-DS04,2021,Windows,celeron n4000,2,2,1.1,2.6,14,4,6,uhd graphics 600,0,nan,0,200.0,0,4,0,4,512,11.6,1366,768,1.05,Asus,355.0
-798,MSI Prestige 15 A12UC,2022,Windows,core i7,14,20,1.8,4.8,10,24,28,geforce rtx 3050 mobile,4,GDDR6,128,712.0,1500,16,0,4,512,15.6,1920,1080,1.69,MSI,1840.0
-789,MSI Pulse GL76 12UGK-256,2022,Windows,core i7,14,20,2.3,4.7,10,24,45,geforce rtx 3070 mobile,8,GDDR6,256,1110.0,1750,16,0,4,512,17.3,1920,1080,2.65,MSI,1892.0
-1552,Asus L410MA-DB02,2021,Windows,celeron n4020,2,2,1.1,2.8,14,4,6,uhd graphics 600,0,nan,0,200.0,0,4,0,4,512,14.0,1920,1080,1.3,Asus,331.0
-730,Lenovo Ideapad 3 14ALC6-82KT00GVUS,2022,Windows,ryzen 5,6,12,2.1,4.0,7,8,15,radeon rx vega 7,0,nan,0,1800.0,0,8,0,4,256,14.0,1920,1080,1.41,Lenovo,578.0
-1130,MSI Prestige 15 A10SC-014,2021,Windows,core i7,6,12,1.1,4.7,14,12,25,geforce gtx 1650 max-q,4,GDDR5,128,1020.0,1751,32,0,4,1024,15.6,3840,2160,1.65,MSI,1774.0
-629,ThinkPad L13 Yoga G2 AMD,2022,Windows,ryzen 5,6,12,2.3,4.2,7,16,15,radeon rx vega 7,0,nan,0,1800.0,0,16,0,4,512,13.3,1920,1080,1.432,Lenovo,946.0
-1415,Asus Zephyrus Duo 15 SE GX551QM,2021,Windows,ryzen 7,8,16,3.2,4.4,7,16,45,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,16,0,4,512,15.6,1920,1080,2.48,Asus,3075.0
-69,Acer Predator Helios 300 PH317-56-718D,2022,Windows,core i7,14,20,2.3,4.7,10,24,45,geforce rtx 3070 ti mobile,8,GDDR6,256,915.0,1750,32,0,4,1024,17.3,2560,1440,3.0,Acer,2733.0
-1264,Acer TravelMate P4 TMP414-51-74K7,2021,Windows,core i7,4,8,2.8,4.7,10,12,28,iris xe graphics g7 96eus,0,nan,0,300.0,0,16,0,4,512,14.0,1920,1080,1.42,Acer,1301.0
-1136,MSI Creator 15M A10SE-646IT,2021,Windows,core i7,6,12,2.6,5.0,14,12,45,geforce rtx 2060 mobile,6,GDDR6,192,960.0,1750,16,0,4,512,15.6,1920,1080,1.86,MSI,2070.0
-267,Asus TUF Gaming A15 FA507RM-HQ028W,2022,Windows,ryzen 7,8,16,3.2,4.7,6,16,45,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,16,0,5,1024,15.6,2560,1440,2.2,Asus,1787.0
-258,Asus TUF Gaming F17 FX706HM-HX116R,2022,Windows,core i7,8,16,1.9,4.6,10,24,35,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,16,0,4,1024,17.3,3840,2160,2.6,Asus,2155.0
-129,Acer Aspire 5 A515-45-R7HG,2022,Windows,ryzen 5,6,12,2.1,4.0,7,8,15,radeon rx vega 7,0,nan,0,1800.0,0,16,0,4,512,15.6,1920,1080,1.8,Acer,788.0
 16,Swift X 162022),2022,Windows,core i7,12,16,2.1,4.7,10,18,28,arc a370m,4,GDDR6,64,300.0,1750,16,0,5,1024,16.0,2560,1600,1.75,Acer,1577.0
-1622,Dell Latitude 15 9520-NMM8M,2021,Windows,core i7,4,8,3.0,4.8,10,12,28,iris xe graphics g7 96eus,0,nan,0,300.0,0,16,0,4,512,15.6,1920,1080,1.4,Dell,2543.0
-1534,Asus ROG Zephyrus G14 GA401II-HE004,2021,Windows,ryzen 7,8,16,2.9,4.2,7,12,35,geforce gtx 1650 ti mobile,4,GDDR6,128,1350.0,1500,16,0,4,1024,14.0,1920,1080,1.6,Asus,1183.0
-1039,Lenovo IdeaPad Flex 5 14ITL05-82HS004TGE,2021,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,16,0,4,512,14.0,1920,1080,1.5,Lenovo,946.0
-587,Huawei MateBook 14 2020 AMD,2022,Windows,ryzen 7,8,16,2.9,4.2,7,12,54,radeon rx vega 7,0,nan,0,1800.0,0,16,0,4,512,14.0,2160,1440,1.562,Huawei,1156.0
-1053,Lenovo IdeaPad 5 14ALC05-82LM005XGE,2021,Windows,ryzen 7,8,16,1.8,4.3,7,8,15,radeon rx vega 8,0,nan,0,2000.0,0,16,0,4,512,14.0,1920,1080,1.38,Lenovo,1301.0
-422,HP ZBook Fury 17 G7-2C9X7EA,2022,Windows,core i7,6,12,2.6,5.0,14,12,45,quadro t1000,4,GDDR5,128,1395.0,2001,16,0,4,512,17.3,1920,1080,2.97,HP,4099.0
-89,Acer Nitro 5 AN515-58-58BN,2022,Windows,core i5,12,16,2.5,4.5,10,18,45,geforce rtx 3050 mobile,4,GDDR6,128,712.0,1500,16,0,4,512,15.6,1920,1080,2.5,Acer,1261.0
-1404,Asus ZenBook 13 UX325EA-KG245T,2021,Windows,core i7,4,8,2.8,4.7,10,12,28,iris xe graphics g7 96eus,0,nan,0,300.0,0,16,0,4,512,13.3,1920,1080,1.16,Asus,1419.0
-308,Asus ExpertBook L1 L1401CDA-EK0457R,2022,Windows,ryzen 3,2,4,2.6,3.5,14,4,15,radeon rx vega 3,0,nan,0,1200.0,0,8,0,4,256,14.0,1920,1080,1.5,Asus,315.0
-1231,Acer Predator Helios 300 PH315-53-786B,2021,Windows,core i7,6,12,2.6,5.0,14,12,45,geforce rtx 3070 mobile,8,GDDR6,256,1110.0,1750,16,0,4,1024,15.6,1920,1080,2.218,Acer,2128.0
-1698,HP ZBook Firefly 15 G8-313P1EA,2021,Windows,core i7,4,8,3.0,4.8,10,12,28,t500 mobile,2,GDDR6,64,1365.0,1250,32,0,4,1024,15.6,3840,2160,1.75,HP,2602.0
-1080,LG Ultra PC 13U70P-G.AAW7U1,2021,Windows,ryzen 7,8,8,1.8,4.2,7,12,25,radeon rx vega 7,0,nan,0,1800.0,0,16,0,4,512,13.3,1920,1080,0.98,LG,946.0
-519,HP Envy 14-eb1035nr,2022,Windows,core i7,4,8,2.9,5.0,10,12,28,geforce rtx 3050 mobile,4,GDDR6,128,712.0,1500,16,0,4,512,14.0,2240,1400,1.5,HP,1051.0
-862,Lenovo ThinkBook 13x G1-20WJ001KGE,2021,Windows,core i7,4,8,1.2,4.4,10,12,15,iris xe graphics g7 96eus,0,nan,0,300.0,0,16,0,4,512,13.3,2560,1600,1.116,Lenovo,1727.0
-394,Dell G15 5511-RNGVW,2022,Windows,core i7,8,16,1.9,4.6,10,24,35,geforce rtx 3050 ti mobile,4,GDDR6,128,735.0,1500,16,0,4,512,15.6,1920,1080,2.81,Dell,1314.0
-960,Lenovo Yoga Slim 7 Pro 14ARH5-82NK001PSB,2021,Windows,ryzen 9,8,16,3.0,4.6,7,16,35,geforce mx450,2,GDDR6,64,1395.0,1250,16,0,4,512,14.0,2880,1800,1.32,Lenovo,1419.0
-731,Lenovo IdeaPad 3 14ALC6-82KT0042SP,2022,Windows,ryzen 7,8,16,1.8,4.3,7,8,15,radeon rx vega 8,0,nan,0,2000.0,0,8,0,4,512,14.0,1920,1080,1.41,Lenovo,526.0
-490,HP Omen 17-ck0065ng,2022,Windows,core i7,8,16,1.9,4.6,10,24,35,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,16,0,4,512,17.3,1920,1080,1.82,HP,1629.0
-1229,Acer Nitro 5 AN517-53-54DQ,2021,Windows,core i5,4,8,4.4,4.4,10,8,32,geforce rtx 3050 mobile,4,GDDR6,128,712.0,1500,8,0,4,512,17.3,1920,1080,2.568,Acer,1182.0
-191,Asus ZenBook 14 UM3402YA-KM067W,2022,Windows,ryzen 7,8,16,2.0,4.5,7,16,15,radeon rx vega 8,0,nan,0,2000.0,0,16,0,4,512,14.0,2880,1800,1.39,Asus,1219.0
-610,Lenovo Yoga 7 16IAP7,2022,Windows,core i7,12,16,2.1,4.7,10,18,28,iris xe graphics g7 96eus,0,nan,0,300.0,0,16,0,4,512,16.0,2560,1600,1.996,Lenovo,1400.0
-1354,Acer Aspire 5 A515-56-363A,2021,Windows,core i3,2,4,3.0,4.1,10,6,28,uhd graphics xe g4 48eus,0,nan,0,1450.0,0,4,0,4,128,15.6,1920,1080,1.65,Acer,473.0
-994,Lenovo ThinkPad P15v G2-21A9000AGE,2021,Windows,core i7,8,16,1.9,4.6,10,24,35,t600 mobile,4,GDDR6,128,930.0,1250,16,0,4,512,15.6,1920,1080,2.07,Lenovo,2129.0
-665,Lenovo ThinkPad P14s G2 20VX00A7GE,2022,Windows,core i5,4,8,2.4,4.2,10,8,28,t500 mobile,2,GDDR6,64,1365.0,1250,16,0,4,512,14.0,1920,1080,1.4,Lenovo,1587.0
-1275,Acer Swift 5 SF514-55T-70LG,2021,Windows,core i7,4,8,2.8,4.7,10,12,28,iris xe graphics g7 96eus,0,nan,0,300.0,0,16,0,4,1024,14.0,1920,1080,1.05,Acer,1538.0
-856,Lenovo ThinkPad L14 G2-20X1003WGE,2021,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,8,0,4,256,14.0,1920,1080,1.65,Lenovo,1183.0
-314,Asus ExpertBook B3 Flip B3402FEA-EC0048R,2022,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,8,0,4,256,14.0,1920,1080,1.61,Asus,851.0
-51,Acer Swift 3 SF314-43-R704,2022,Windows,ryzen 5,6,12,2.1,4.0,7,8,15,radeon rx vega 7,0,nan,0,1800.0,0,16,0,4,512,14.0,1920,1080,1.19,Acer,736.0
-627,ThinkPad X1 Titanium Yoga G1 i5-1140G7,2022,Windows,core i5,4,8,4.2,4.2,10,8,15,iris xe graphics g7 80eus,0,nan,0,300.0,0,16,0,4,256,13.5,2256,1504,1.196,Lenovo,3354.0
-1593,"Dell Inspiron 15 3505, Ryzen 5 3450U",2021,Windows,ryzen 5,4,8,2.1,3.5,12,4,15,radeon rx vega 8,0,nan,0,2000.0,0,8,0,4,256,15.6,1920,1080,1.96,Dell,698.0
+1607,"Dell XPS 15 9510, 11800H RTX 3050 Ti FHD",2021,Windows,core i7,8,16,1.9,4.6,10,24,35,geforce rtx 3050 ti mobile,4,GDDR6,128,735.0,1500,16,0,4,512,15.6,1920,1080,2.0,Dell,2365.0
+655,Lenovo ThinkPad X1 Yoga G6-20XY003GGE,2022,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,16,0,4,512,14.0,1920,1080,1.39,Lenovo,2313.0
+1193,MSI Creator Z16 A11UET-011NEU,2021,Windows,core i7,8,16,1.9,4.6,10,24,35,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,32,0,4,1024,16.0,2560,1600,2.2,MSI,2957.0
+791,MSI Pulse GL76 12UEK-052,2022,Windows,core i7,14,20,2.3,4.7,10,24,45,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,16,0,4,512,17.3,1920,1080,2.65,MSI,1682.0
+593,Lenovo Yoga Slim 7 Carbon 13IAP7-82U9005FGE,2022,Windows,core i7,12,16,2.1,4.7,10,18,28,iris xe graphics g7 96eus,0,nan,0,300.0,0,16,0,4,1024,13.3,2560,1600,0.986,Lenovo,1577.0
+601,Lenovo Legion 7 16ARHA7,2022,Windows,ryzen 9,8,16,3.3,4.9,6,16,45,radeon rx 6850m xt,12,GDDR6,192,2321.0,2000,32,0,5,2048,16.0,2560,1600,2.581,Lenovo,2500.0
 141,Acer Aspire 1 A114-33-C51G,2022,Windows,celeron n4500,2,2,1.1,2.8,10,4,6,uhd graphics,0,nan,0,300.0,0,4,0,4,512,14.0,1366,768,1.45,Acer,263.0
-787,MSI Raider GE67 HX 12UHS-039AU,2022,Windows,core i7,16,24,2.0,4.8,10,25,55,geforce rtx 3080 ti mobile,16,GDDR6,256,810.0,2000,32,0,5,2048,15.6,2560,1440,2.38,MSI,3889.0
-1306,Acer Predator Helios 300 PH315-53-7144,2021,Windows,core i7,6,12,2.6,5.0,14,12,45,geforce rtx 3070 mobile,8,GDDR6,256,1110.0,1750,16,0,4,1024,15.6,1920,1080,2.5,Acer,1538.0
-412,HP Envy 14-eb0252ng,2022,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,8,0,4,1024,14.0,1920,1200,1.458,HP,735.0
-1595,Dell Latitude 12 7210 2-in-1,2021,Windows,core i7,4,8,1.8,4.9,14,8,25,uhd graphics 620,0,nan,0,300.0,0,16,0,4,512,12.3,1920,1280,0.85,Dell,2364.0
-1638,Dell Inspiron 15 3501-XT8R1,2021,Windows,core i3,2,4,3.0,4.1,10,6,28,uhd graphics xe g4 48eus,0,nan,0,1450.0,0,8,0,4,256,15.6,1920,1080,1.91,Dell,591.0
-613,Lenovo ThinkPad X12 Detachable 20UW000KGE,2022,Windows,core i3,2,4,1.8,3.9,10,6,15,uhd graphics 620,0,nan,0,300.0,0,8,0,4,256,12.3,1920,1280,1.094,Lenovo,1487.0
-1154,MSI Modern 14 B10MW-604,2021,Windows,core i5,4,8,1.6,4.2,14,6,25,uhd graphics 620,0,nan,0,300.0,0,8,0,4,512,14.0,1920,1080,1.3,MSI,923.0
-1768,HP ProBook 635 Aero G7-2W8S6EA,2021,Windows,ryzen 5,6,6,2.3,4.0,7,11,25,radeon rx vega 6,0,nan,0,1500.0,0,8,0,4,256,13.3,1920,1080,0.99,HP,1656.0
-358,"Dell Vostro 16 5620, i7-1260P MX570",2022,Windows,core i7,12,16,2.1,4.7,10,18,28,geforce mx570,4,GDDR6,64,1087.0,1500,16,0,4,512,16.0,1920,1200,1.91,Dell,1156.0
-1443,Asus Zephyrus S15 GX502LXS-XS79,2021,Windows,core i7,8,16,2.1,5.1,14,16,45,geforce rtx 2080 super max-q,8,GDDR6,256,735.0,1375,32,0,4,1024,15.6,1920,1080,2.0,Asus,3903.0
-758,MSI Stealth GS77 12UHS-083US,2022,Windows,core i7,14,20,2.3,4.7,10,24,45,geforce rtx 3080 ti mobile,16,GDDR6,256,810.0,2000,32,0,5,1024,17.3,2560,1440,2.903,MSI,3700.0
-86,Acer Nitro 5 AN515-58-74JS,2022,Windows,core i7,14,20,2.3,4.7,10,24,45,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,16,0,4,512,15.6,1920,1080,2.5,Acer,1419.0
-674,Lenovo ThinkBook 15p G2 ITH-21B1001LUS,2022,Windows,core i7,8,16,1.9,4.6,10,24,35,geforce gtx 1650 mobile,4,GDDR5,128,1395.0,2001,16,0,4,512,15.6,1920,1080,1.9,Lenovo,1577.0
-1531,Asus ROG Zephyrus G14 GA401QM-HZ109T,2021,Windows,ryzen 9,8,16,3.0,4.6,7,16,35,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,32,0,4,1024,14.0,1920,1080,1.7,Asus,2839.0
-720,Lenovo IdeaPad 5 Pro 14ACN6-82L7004XMH,2022,Windows,ryzen 7,8,16,1.9,4.4,7,16,15,radeon rx vega 8,0,nan,0,2000.0,0,16,0,4,1024,14.0,2880,1800,1.4,Lenovo,999.0
-1285,Acer Swift 3 SF314-42-R7QS,2021,Windows,ryzen 7,8,8,1.8,4.2,7,12,25,radeon rx vega 7,0,nan,0,1800.0,0,16,0,4,512,14.0,1920,1080,1.2,Acer,828.0
-137,Acer Aspire 3 A315-35-P9GR,2022,Windows,pentium silver,4,4,1.1,3.3,10,4,6,uhd graphics,0,nan,0,300.0,0,8,0,4,256,15.6,1920,1080,1.7,Acer,526.0
-1001,Lenovo ThinkPad E14-20RA0016S,2021,Windows,core i5,4,8,1.6,4.2,14,6,25,uhd graphics 620,0,nan,0,300.0,0,8,0,4,256,14.0,1920,1080,1.73,Lenovo,710.0
-1647,"Dell G5 15 5500, i7-10750H RTX 2070",2021,Windows,core i7,6,12,2.6,5.0,14,12,45,geforce rtx 2070 mobile,8,GDDR6,256,1215.0,1750,16,0,4,512,15.6,1920,1080,2.4,Dell,1183.0
-70,Acer Predator Helios 300 PH315-55-79FW,2022,Windows,core i7,14,20,2.3,4.7,10,24,45,geforce rtx 3070 ti mobile,8,GDDR6,256,915.0,1750,32,0,5,1024,15.6,2560,1440,2.6,Acer,2628.0
-1240,Acer TravelMate Spin P4 TMP414RN-51-53J8,2021,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,8,0,4,256,14.0,1920,1080,1.4,Acer,1451.0
-1100,MSI GF65 Thin 10UE-267SG,2021,Windows,core i5,6,12,2.5,4.5,14,12,45,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,16,0,4,512,15.6,1920,1080,1.938,MSI,1419.0
-715,Lenovo IdeaPad 5 Pro 16IAH7-82SK0035GE,2022,Windows,core i5,12,16,2.5,4.5,10,18,45,iris xe graphics g7 80eus,0,nan,0,300.0,0,16,0,5,512,16.0,2560,1600,1.95,Lenovo,1051.0
-698,Lenovo Legion 5 15ARH7H-82RD001LGE,2022,Windows,ryzen 7,8,16,3.2,4.7,6,16,45,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,16,0,5,1024,15.6,1920,1080,2.4,Lenovo,1787.0
-1406,Asus VivoBook Flip 14 TP470EA-EC033T,2021,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,8,0,4,512,14.0,1920,1080,1.5,Asus,1183.0
-1341,Acer ConceptD 3 Ezel CC315-73G-74TT,2021,Windows,core i7,8,16,1.9,4.6,10,24,35,geforce rtx 3050 ti mobile,4,GDDR6,128,735.0,1500,16,0,4,512,15.6,3840,2160,2.2,Acer,2306.0
-1674,HP Pavilion x360 14-dy0157ng,2021,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,16,0,4,512,14.0,1920,1080,1.5,HP,1063.0
-302,Asus ROG Flow X13 GV301RA-LJ011W,2022,Windows,ryzen 7,8,16,3.2,4.7,6,16,35,radeon 680m,0,nan,0,2000.0,0,16,0,5,512,13.4,1920,1200,1.3,Asus,1524.0
 1276,Acer Swift 5 SF514-55T-5001,2021,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,8,0,4,512,14.0,1920,1080,1.05,Acer,828.0
-1740,HP Omen 17-cb1278ng,2021,Windows,core i7,6,12,2.6,5.0,14,12,45,geforce rtx 2070 super mobile,8,GDDR6,256,1140.0,1750,32,0,4,512,17.3,1920,1080,3.31,HP,2484.0
-1242,Acer Aspire 5 A515-56-55LT,2021,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,16,0,4,512,15.6,1920,1080,1.65,Acer,887.0
-874,Lenovo IdeaPad 5 15ALC05,2021,Windows,ryzen 5,6,12,2.1,4.0,7,8,15,radeon rx vega 7,0,nan,0,1800.0,0,16,0,4,512,15.6,1920,1080,1.707,Lenovo,1182.0
-1128,MSI GS66 Stealth 10UG,2021,Windows,core i7,8,16,2.2,5.0,14,16,45,geforce rtx 3070 mobile,8,GDDR6,256,1110.0,1750,32,0,4,1024,15.6,1920,1080,2.1,MSI,2400.0
-459,HP ProBook 430 G8-2W1H2EA,2022,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,8,0,4,256,13.3,1920,1080,1.38,HP,893.0
-1451,Asus ZenBook Flip 13 UX363JA-EM189T,2021,Windows,core i5,4,8,1.1,3.7,10,6,15,iris plus graphics g4,0,nan,0,300.0,0,16,0,4,512,13.3,1920,1080,1.3,Asus,1301.0
-822,MSI Crosshair 15 B12UEZ,2022,Windows,core i7,14,20,2.3,4.7,10,24,45,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,16,0,4,1024,15.6,2560,1600,2.3,MSI,2418.0
-57,Acer Spin 5 SP514-51N-70LZ,2022,Windows,core i7,12,16,2.1,4.7,10,18,28,iris xe graphics g7 96eus,0,nan,0,300.0,0,16,0,5,1024,14.0,2560,1600,1.3,Acer,1472.0
-682,Lenovo Legion S7 16IAH7-82TF002NGE,2022,Windows,core i7,14,20,2.3,4.7,10,24,45,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,16,0,5,512,16.0,2560,1600,2.2,Lenovo,2207.0
-372,"Dell Latitude 15 9520, i5-1145G7",2022,Windows,core i5,4,8,2.6,4.4,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,8,0,4,256,15.0,1920,1080,1.4,Dell,1734.0
-1737,HP Envy 17-cg1279ng,2021,Windows,core i7,4,8,2.8,4.7,10,12,28,geforce mx450,2,GDDR6,64,1395.0,1250,16,0,4,1024,17.3,3840,2160,2.73,HP,1892.0
-1293,Acer Predator Triton 500 SE PT516-51s-75WM,2021,Windows,core i7,8,16,1.9,4.6,10,24,35,geforce rtx 3070 mobile,8,GDDR6,256,1110.0,1750,16,0,4,1024,16.0,2560,1600,2.45,Acer,2247.0
-1644,"Dell Inspiron 13 7306 2-in-1, i7-1165G7",2021,Windows,core i7,4,8,2.8,4.7,10,12,28,iris xe graphics g7 96eus,0,nan,0,300.0,0,16,0,4,512,13.3,3840,2160,1.37,Dell,1597.0
-1553,Asus L406MA-WH02,2021,Windows,celeron n4000,2,2,1.1,2.6,14,4,6,uhd graphics 600,0,nan,0,200.0,0,4,0,4,512,14.0,1366,768,1.27,Asus,355.0
-843,Lenovo IdeaPad 3 15ALC6,2021,Windows,ryzen 3,4,8,2.6,3.8,7,4,15,radeon rx vega 6,0,nan,0,1500.0,0,8,0,4,512,15.6,1920,1080,1.694,Lenovo,540.0
-672,Lenovo ThinkBook 16p G2 ACH-20YM002VGE,2022,Windows,ryzen 9,8,16,3.3,4.6,7,16,45,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,32,0,4,1024,16.0,2560,1600,1.99,Lenovo,1840.0
+1406,Asus VivoBook Flip 14 TP470EA-EC033T,2021,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,8,0,4,512,14.0,1920,1080,1.5,Asus,1183.0
+1292,Acer Spin 1 SP111-33-C690,2021,Windows,celeron n4020,2,2,1.1,2.8,14,4,6,uhd graphics 600,0,nan,0,200.0,0,4,0,4,512,11.6,1366,768,1.25,Acer,296.0
+715,Lenovo IdeaPad 5 Pro 16IAH7-82SK0035GE,2022,Windows,core i5,12,16,2.5,4.5,10,18,45,iris xe graphics g7 80eus,0,nan,0,300.0,0,16,0,5,512,16.0,2560,1600,1.95,Lenovo,1051.0
+1658,Gigabyte Aero 17 HDR YC,2021,Windows,core i9,8,16,2.4,5.3,14,16,45,geforce rtx 3080 mobile,8,GDDR6,256,1110.0,1750,64,0,4,1024,17.3,3840,2160,2.76,Gigabyte Aero,4612.0
+785,MSI Raider GE76 12UGS-070,2022,Windows,core i7,16,24,2.0,4.8,10,25,55,geforce rtx 3070 ti mobile,8,GDDR6,256,915.0,1750,16,0,5,1024,15.6,2560,1440,2.9,MSI,2418.0
+1642,Dell Inspiron 14 5410 2-in-1,2021,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,8,0,4,512,14.0,1920,1080,1.65,Dell,946.0
+373,Dell Latitude 15 9520 2-in-1,2022,Windows,core i7,4,8,3.0,4.8,10,12,28,iris xe graphics g7 96eus,0,nan,0,300.0,0,16,2133,4,512,15.0,1920,1080,1.667,Dell,2780.0
+980,Lenovo ThinkPad X1 Yoga G6-20XY002VUS,2021,Windows,core i7,4,8,3.0,4.8,10,12,28,iris xe graphics g7 96eus,0,nan,0,300.0,0,16,0,4,512,14.0,3840,2160,1.39,Lenovo,3312.0
+522,HP Envy 13-ba1009ns,2022,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,16,0,4,512,13.3,1920,1080,1.3,HP,736.0
+1213,HP 15s-eq1035ns,2021,Windows,AMD 3020e,2,2,1.2,2.6,14,4,6,radeon rx vega 3,0,nan,0,1200.0,0,4,0,4,256,15.6,1366,768,1.69,HP,355.0
+1645,"Dell Inspiron 13 5301, i5-1135G7",2021,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,8,0,4,256,13.3,1920,1080,1.23,Dell,828.0
+1593,"Dell Inspiron 15 3505, Ryzen 5 3450U",2021,Windows,ryzen 5,4,8,2.1,3.5,12,4,15,radeon rx vega 8,0,nan,0,2000.0,0,8,0,4,256,15.6,1920,1080,1.96,Dell,698.0
+1059,"Lenovo IdeaPad 3 15ITL6, i3-1115G4",2021,Windows,core i3,2,4,3.0,4.1,10,6,28,uhd graphics xe g4 48eus,0,nan,0,1450.0,0,8,0,4,512,15.6,1920,1080,1.65,Lenovo,769.0
+237,Asus Vivobook 15 K513EQ,2022,Windows,core i7,4,8,2.8,4.7,10,12,28,geforce mx350,2,GDDR5,64,747.0,1752,16,1600,4,512,15.6,1920,1080,1.56,Asus,900.0
+613,Lenovo ThinkPad X12 Detachable 20UW000KGE,2022,Windows,core i3,2,4,1.8,3.9,10,6,15,uhd graphics 620,0,nan,0,300.0,0,8,0,4,256,12.3,1920,1280,1.094,Lenovo,1487.0
 1258,Acer Aspire 5 A515-56G-51YF,2021,Windows,core i5,4,8,2.4,4.2,10,8,28,geforce mx350,2,GDDR5,64,747.0,1752,16,0,4,512,15.6,1920,1080,1.65,Acer,1064.0
-1407,Asus ROG Strix G15 G513QR,2021,Windows,ryzen 9,8,16,3.3,4.6,7,16,45,geforce rtx 3070 mobile,8,GDDR6,256,1110.0,1750,16,0,4,1024,15.6,1920,1080,2.288,Asus,2720.0
-646,Lenovo Yoga 7 14IAL7-82QE003GGE,2022,Windows,core i5,12,16,1.7,4.4,10,12,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,8,0,5,512,14.0,2880,1800,1.42,Lenovo,1261.0
-911,Lenovo ThinkPad L13 Yoga Gen2-20VK000VGE,2021,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,8,0,4,256,13.3,1920,1080,1.45,Lenovo,1171.0
+346,Dell Latitude 7330 Rugged Extreme,2022,Windows,core i7,4,8,3.0,4.8,10,12,28,iris xe graphics g7 96eus,0,nan,0,300.0,0,16,2133,4,512,13.3,1920,1080,2.742,Dell,5300.0
+1415,Asus Zephyrus Duo 15 SE GX551QM,2021,Windows,ryzen 7,8,16,3.2,4.4,7,16,45,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,16,0,4,512,15.6,1920,1080,2.48,Asus,3075.0
+1275,Acer Swift 5 SF514-55T-70LG,2021,Windows,core i7,4,8,2.8,4.7,10,12,28,iris xe graphics g7 96eus,0,nan,0,300.0,0,16,0,4,1024,14.0,1920,1080,1.05,Acer,1538.0
+1251,Acer Aspire 5 A517-52G-79Z5,2021,Windows,core i7,4,8,2.8,4.7,10,12,28,geforce mx350,2,GDDR5,64,747.0,1752,16,0,4,1024,17.3,1920,1080,2.215,Acer,1241.0
+1191,MSI Delta 15 A5EFK-008,2021,Windows,ryzen 7,8,16,3.2,4.4,7,16,45,radeon rx 6700m,10,GDDR6,160,1489.0,2000,16,0,4,1024,15.6,1920,1080,1.9,MSI,2365.0
+103,Acer ConceptD 3 Ezel Pro CC315-73P-73QS,2022,Windows,core i7,8,16,1.9,4.6,10,24,35,t1200 mobile,4,GDDR6,128,855.0,1250,16,0,4,512,15.6,1920,1080,2.2,Acer,2207.0
+1103,MSI GF65 Thin 10UE,2021,Windows,core i7,6,12,2.6,5.0,14,12,45,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,32,0,4,1024,15.6,1920,1080,1.938,MSI,1200.0
+734,LG Gram 172022),2022,Windows,core i5,12,16,1.7,4.4,10,12,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,16,0,4,512,17.0,2560,1600,1.35,LG,1681.0
+680,Lenovo ThinkBook 13x ITG-20WJ001HGE,2022,Windows,core i5,4,8,1.1,4.0,10,8,15,iris xe graphics g7 96eus,0,nan,0,300.0,0,16,0,4,512,13.3,2560,1600,1.13,Lenovo,1366.0
+1088,LG Gram 14Z90P-G.AP55G,2021,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,16,0,4,512,14.0,1920,1200,0.999,LG,1774.0
+181,Asus ZenBook 14X UX5401ZA-L7078W,2022,Windows,core i9,14,20,2.5,5.0,10,24,45,iris xe graphics g7 96eus,0,nan,0,300.0,0,32,0,5,1024,14.0,2880,1800,1.4,Asus,1892.0
+1447,Asus ZenBook Pro 15 UX535LH-BN150T,2021,Windows,core i7,8,16,2.2,5.0,14,16,45,geforce gtx 1650 max-q,4,GDDR5,128,1020.0,1751,16,0,4,512,15.6,3840,2160,1.8,Asus,1656.0
+939,Lenovo ThinkPad L13 Gen2-20VH0017GE,2021,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,16,0,4,512,13.3,1920,1080,1.389,Lenovo,1153.0
+1870,"HP EliteBook x360 1030 G8, i7-1165G7",2021,Windows,core i7,4,8,2.8,4.7,10,12,28,iris xe graphics g7 96eus,0,nan,0,300.0,0,16,0,4,1024,13.3,1920,1080,1.21,HP,3785.0
+334,Dell Latitude 13 7330,2022,Windows,core i7,10,12,1.8,4.8,10,12,15,iris xe graphics g7 96eus,0,nan,0,300.0,0,16,0,4,512,13.3,1920,1080,1.003,Dell,2000.0
+1354,Acer Aspire 5 A515-56-363A,2021,Windows,core i3,2,4,3.0,4.1,10,6,28,uhd graphics xe g4 48eus,0,nan,0,1450.0,0,4,0,4,128,15.6,1920,1080,1.65,Acer,473.0
+991,Lenovo ThinkPad T15g G2-20YS001YUS,2021,Windows,core i9,8,16,2.1,5.0,10,24,35,geforce rtx 3070 mobile,8,GDDR6,256,1110.0,1750,32,0,4,1024,15.6,1920,1080,2.87,Lenovo,2839.0
+993,Lenovo ThinkPad T14 G2-20W00027US,2021,Windows,core i5,4,8,2.6,4.4,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,8,0,4,256,14.0,1920,1080,1.47,Lenovo,1892.0
+1100,MSI GF65 Thin 10UE-267SG,2021,Windows,core i5,6,12,2.5,4.5,14,12,45,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,16,0,4,512,15.6,1920,1080,1.938,MSI,1419.0
+702,Lenovo Legion 5 15ACH6H-82JU0091GE,2022,Windows,ryzen 7,8,16,3.2,4.4,7,16,45,geforce rtx 3070 mobile,8,GDDR6,256,1110.0,1750,16,0,4,512,15.6,1920,1080,2.4,Lenovo,1682.0
+798,MSI Prestige 15 A12UC,2022,Windows,core i7,14,20,1.8,4.8,10,24,28,geforce rtx 3050 mobile,4,GDDR6,128,712.0,1500,16,0,4,512,15.6,1920,1080,1.69,MSI,1840.0
+1072,Lenovo IdeaPad 1 14IGL05-81VU0079US,2021,Windows,celeron n4020,2,2,1.1,2.8,14,4,6,uhd graphics 600,0,nan,0,200.0,0,4,0,4,128,14.0,1366,768,1.4,Lenovo,355.0
+281,Asus ROG Zephyrus G14 GA401QC-K2123T,2022,Windows,ryzen 7,8,16,2.8,4.4,7,16,35,geforce rtx 3050 mobile,4,GDDR6,128,712.0,1500,16,0,4,512,14.0,2560,1440,1.6,Asus,1366.0
+750,MSI Raider GE77 HX 12UHS,2022,Windows,core i9,16,24,2.3,5.0,10,30,55,geforce rtx 3080 ti mobile,16,GDDR6,256,810.0,2000,64,0,4,2048,17.3,3840,2160,3.084,MSI,5466.0
+1306,Acer Predator Helios 300 PH315-53-7144,2021,Windows,core i7,6,12,2.6,5.0,14,12,45,geforce rtx 3070 mobile,8,GDDR6,256,1110.0,1750,16,0,4,1024,15.6,1920,1080,2.5,Acer,1538.0
+191,Asus ZenBook 14 UM3402YA-KM067W,2022,Windows,ryzen 7,8,16,2.0,4.5,7,16,15,radeon rx vega 8,0,nan,0,2000.0,0,16,0,4,512,14.0,2880,1800,1.39,Asus,1219.0
+88,Acer Nitro 5 AN515-58-71MH,2022,Windows,core i7,14,20,2.3,4.7,10,24,45,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,16,0,4,512,15.6,1920,1080,2.5,Acer,1577.0
+1190,MSI GE66 Raider 10UG,2021,Windows,core i7,8,16,2.1,5.1,14,16,45,geforce rtx 3070 mobile,8,GDDR6,256,1110.0,1750,16,0,4,1024,15.6,1920,1080,2.38,MSI,3193.0
+1129,MSI Alpha 17 A4DEK,2021,Windows,ryzen 7,8,16,2.9,4.2,7,12,54,radeon rx 5600m,6,GDDR6,192,1035.0,1500,16,0,4,512,17.3,1920,1080,2.6,MSI,1656.0
+1503,Asus TUF Gaming F17 FX706HC-HX008T,2021,Windows,core i7,8,16,1.9,4.6,10,24,35,geforce rtx 3050 mobile,4,GDDR6,128,712.0,1500,16,0,4,512,17.3,1920,1080,2.6,Asus,1656.0
 889,Lenovo ThinkPad X1 Titanium Yoga G1 20QA001PGE,2021,Windows,core i5,4,8,1.1,4.0,10,8,15,iris xe graphics g7 96eus,0,nan,0,300.0,0,16,0,4,512,13.5,2556,1504,1.18,Lenovo,2957.0
-1364,Acer Aspire 1 A115-31-C2Y3,2021,Windows,celeron n4020,2,2,1.1,2.8,14,4,6,uhd graphics 600,0,nan,0,200.0,0,4,0,4,512,15.6,1920,1080,1.94,Acer,473.0
-1399,Asus ZenBook 13 UX325JA-AB51,2021,Windows,core i5,4,8,1.0,3.6,10,6,15,uhd graphics g1,0,nan,0,300.0,0,8,0,4,256,13.3,1920,1080,1.07,Asus,946.0
-1031,"Lenovo IdeaPad Slim 5 15, i5-1135G7",2021,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,8,0,4,512,15.6,1920,1080,1.66,Lenovo,828.0
-661,Lenovo ThinkPad T15g G2-20YS002CUS,2022,Windows,core i7,8,16,2.1,4.8,10,24,35,geforce rtx 3080 mobile,8,GDDR6,256,1110.0,1750,16,0,4,512,15.6,1920,1080,2.87,Lenovo,3364.0
-1654,Gigabyte Aero 15 OLED XD,2021,Windows,core i7,8,16,1.9,4.6,10,24,35,geforce rtx 3070 mobile,8,GDDR6,256,1110.0,1750,32,0,4,1024,15.6,3840,2160,2.23,Gigabyte Aero,2839.0
+203,Asus VivoBook Pro 15 M3500QC-L1297W,2022,Windows,ryzen 7,8,16,3.2,4.4,7,16,45,geforce rtx 3050 mobile,4,GDDR6,128,712.0,1500,16,0,4,512,15.6,1920,1080,1.65,Asus,1051.0
+1269,Acer Swift X SFX14-41G-R4VH,2021,Windows,ryzen 7,8,16,1.9,4.4,7,16,15,geforce rtx 3050 ti mobile,4,GDDR6,128,735.0,1500,16,0,4,1024,14.0,1920,1080,1.39,Acer,1419.0
+1577,Dell XPS 17 9710 Core i7 RTX 3060,2021,Windows,core i7,8,16,1.9,4.6,10,24,35,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,32,0,4,1024,17.0,3840,2400,2.475,Dell,2900.0
+63,Acer Predator Triton 300SE PT314-52s-99PC,2022,Windows,core i9,14,20,2.5,5.0,10,24,45,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,16,0,4,1024,14.0,2880,1800,1.7,Acer,2313.0
+257,Asus TUF Gaming F17 FX706LI-ES53,2022,Windows,core i5,4,8,2.5,4.5,14,6,45,geforce gtx 1650 ti mobile,4,GDDR6,128,1350.0,1500,8,0,4,512,17.3,1920,1080,2.6,Asus,893.0
+587,Huawei MateBook 14 2020 AMD,2022,Windows,ryzen 7,8,16,2.9,4.2,7,12,54,radeon rx vega 7,0,nan,0,1800.0,0,16,0,4,512,14.0,2160,1440,1.562,Huawei,1156.0
+1001,Lenovo ThinkPad E14-20RA0016S,2021,Windows,core i5,4,8,1.6,4.2,14,6,25,uhd graphics 620,0,nan,0,300.0,0,8,0,4,256,14.0,1920,1080,1.73,Lenovo,710.0
+526,HP EliteBook 845 G9 6F6F5EA,2022,Windows,ryzen 7,8,16,2.7,4.7,6,16,15,radeon 680m,0,nan,0,2000.0,0,16,0,5,512,14.0,1920,1200,1.4,HP,1892.0
 783,MSI Raider GE76 12UHS-214,2022,Windows,core i9,14,20,2.5,5.0,10,24,45,geforce rtx 3080 ti mobile,16,GDDR6,256,810.0,2000,64,0,5,2048,17.3,3840,2160,2.9,MSI,5361.0
+1039,Lenovo IdeaPad Flex 5 14ITL05-82HS004TGE,2021,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,16,0,4,512,14.0,1920,1080,1.5,Lenovo,946.0
+931,Lenovo ThinkPad P15 Gen1-20ST000DGE,2021,Windows,core i7,6,12,2.6,5.0,14,12,45,quadro t1000,4,GDDR5,128,1395.0,2001,16,0,4,512,15.6,1920,1080,2.733,Lenovo,2283.0
+729,Lenovo IdeaPad 3 14ITL6-9QSP,2022,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,8,0,4,512,14.1,1920,1080,1.41,Lenovo,999.0
+978,"Lenovo ThinkPad X12 Detachable, i5-1130G7",2021,Windows,core i5,4,8,1.1,4.0,10,8,15,iris xe graphics g7 96eus,0,nan,0,300.0,0,8,0,4,256,12.3,1920,1080,0.76,Lenovo,2129.0
+1316,Acer Nitro 5 AN515-57-545N,2021,Windows,core i5,6,12,2.2,4.5,10,12,35,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,16,0,4,512,15.6,1920,1080,2.3,Acer,1774.0
+1414,Asus ROG Zephyrus G15 GA503Q,2021,Windows,ryzen 9,8,16,3.0,4.6,7,16,35,geforce rtx 3080 mobile,8,GDDR6,256,1110.0,1750,32,0,4,1024,15.6,2560,1440,1.99,Asus,3310.0
+1229,Acer Nitro 5 AN517-53-54DQ,2021,Windows,core i5,4,8,4.4,4.4,10,8,32,geforce rtx 3050 mobile,4,GDDR6,128,712.0,1500,8,0,4,512,17.3,1920,1080,2.568,Acer,1182.0
+1900,Apple MacBook Pro 16 2021 M1 Max,2021,MacOS,apple m1,10,10,3.2,3.2,5,48,30,apple m1 max 32-core gpu,0,nan,0,1296.0,0,64,0,4,2048,16.2,3456,2234,2.2,Apple,1681.0
+977,Lenovo ThinkPad X13 G2-20WK00AHGE,2021,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,8,0,4,256,13.3,1920,1080,1.31,Lenovo,1538.0
+1228,Acer Nitro 5 AN515-45-R9GZ,2021,Windows,ryzen 5,6,12,3.3,4.2,7,16,45,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,16,0,4,512,15.6,1920,1080,2.3,Acer,1419.0
+308,Asus ExpertBook L1 L1401CDA-EK0457R,2022,Windows,ryzen 3,2,4,2.6,3.5,14,4,15,radeon rx vega 3,0,nan,0,1200.0,0,8,0,4,256,14.0,1920,1080,1.5,Asus,315.0
+294,Asus ROG Strix G15 G513RW-HQ021W,2022,Windows,ryzen 9,8,16,3.3,4.9,6,16,45,geforce rtx 3070 ti mobile,8,GDDR6,256,915.0,1750,16,0,5,1024,15.6,2560,1440,2.3,Asus,2418.0
+698,Lenovo Legion 5 15ARH7H-82RD001LGE,2022,Windows,ryzen 7,8,16,3.2,4.7,6,16,45,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,16,0,5,1024,15.6,1920,1080,2.4,Lenovo,1787.0
+314,Asus ExpertBook B3 Flip B3402FEA-EC0048R,2022,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,8,0,4,256,14.0,1920,1080,1.61,Asus,851.0
+109,Acer Aspire Vero AV15-52-712Q,2022,Windows,core i7,10,12,1.7,4.7,10,12,15,iris xe graphics g7 96eus,0,nan,0,300.0,0,16,0,4,1024,15.6,1920,1080,1.76,Acer,946.0
+528,HP Elitebook 840 G8 Aero 5Z619EA,2022,Windows,core i7,4,8,2.8,4.7,10,12,28,iris xe graphics g7 96eus,0,nan,0,300.0,0,32,0,4,1024,14.0,1920,1080,1.32,HP,2313.0
+803,MSI Prestige 14 A12SC-086CA,2022,Windows,core i7,14,20,1.8,4.8,10,24,28,geforce gtx 1650 mobile,4,GDDR5,128,1395.0,2001,16,0,4,512,14.0,1920,1080,1.6,MSI,1577.0
+1744,"HP ZBook Studio G7, i7-10850H RTX 3000 Max-Q",2021,Windows,core i7,6,12,2.7,5.1,14,12,45,quadro rtx 3000 max-q,6,GDDR6,192,600.0,1500,16,0,4,1024,17.3,3840,2160,2.97,HP,3903.0
+594,Lenovo ThinkPad Z16 G1 21D5S00T00,2022,Windows,ryzen 7,8,16,3.2,4.7,6,16,45,radeon rx 6500m,4,GDDR6,64,2000.0,2250,32,0,4,1024,16.0,1920,1200,1.887,Lenovo,2575.0
+1115,MSI GE76 Dragon Tiamat 10UH,2021,Windows,core i9,8,16,2.4,5.3,14,16,45,geforce rtx 3080 mobile,8,GDDR6,256,1110.0,1750,32,0,4,2048,17.3,1920,1080,2.9,MSI,5086.0
+341,Dell XPS 15 9520 RTX 3050 Ti,2022,Windows,core i7,14,20,2.3,4.7,10,24,45,geforce rtx 3050 ti mobile,4,GDDR6,128,735.0,1500,16,0,5,512,15.6,3456,2160,1.923,Dell,2300.0
+324,Dell Precision 7670,2022,Windows,core i7,16,24,2.1,4.8,10,25,55,rtx a2000 mobile,4,GDDR6,128,893.0,1375,32,0,5,1024,16.0,3840,2400,2.724,Dell,4100.0
+86,Acer Nitro 5 AN515-58-74JS,2022,Windows,core i7,14,20,2.3,4.7,10,24,45,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,16,0,4,512,15.6,1920,1080,2.5,Acer,1419.0
+652,Lenovo V14 G2 ITL-82KA001KSP,2022,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,8,0,4,256,14.0,1920,1080,1.6,Lenovo,526.0
+1541,Asus ROG Strix G17 G713QR-HX023T,2021,Windows,ryzen 7,8,16,3.2,4.4,7,16,45,geforce rtx 3070 mobile,8,GDDR6,256,1110.0,1750,16,0,4,1024,17.3,1920,1080,2.7,Asus,2365.0
+1219,Acer Enduro Urban N3 EUN314,2021,Windows,core i7,4,8,2.8,4.7,10,12,28,iris xe graphics g7 96eus,0,nan,0,300.0,0,16,0,4,1024,14.0,1920,1080,1.828,Acer,1000.0
+157,Asus ROG Zephyrus Duo 16 GX650RX,2022,Windows,ryzen 9,8,16,3.3,4.9,6,16,45,geforce rtx 3080 ti mobile,16,GDDR6,256,810.0,2000,64,0,5,512,16.0,3840,2400,2.56,Asus,5255.0
+1737,HP Envy 17-cg1279ng,2021,Windows,core i7,4,8,2.8,4.7,10,12,28,geforce mx450,2,GDDR6,64,1395.0,1250,16,0,4,1024,17.3,3840,2160,2.73,HP,1892.0
+646,Lenovo Yoga 7 14IAL7-82QE003GGE,2022,Windows,core i5,12,16,1.7,4.4,10,12,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,8,0,5,512,14.0,2880,1800,1.42,Lenovo,1261.0
+1132,MSI GP76 Leopard 10UG-291,2021,Windows,core i7,6,12,2.6,5.0,14,12,45,geforce rtx 3070 mobile,8,GDDR6,256,1110.0,1750,16,0,4,1024,17.3,1920,1080,2.9,MSI,2365.0
+911,Lenovo ThinkPad L13 Yoga Gen2-20VK000VGE,2021,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,8,0,4,256,13.3,1920,1080,1.45,Lenovo,1171.0
+111,Acer Aspire Vero AV15-51-55CG,2022,Windows,core i5,4,8,2.5,4.5,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,16,0,4,512,15.6,1920,1080,1.8,Acer,841.0
+211,Asus VivoBook Pro 15 D3500QC-L1103T,2022,Windows,ryzen 7,8,16,3.2,4.4,7,16,45,geforce rtx 3050 mobile,4,GDDR6,128,712.0,1500,16,0,4,1024,15.6,1920,1080,1.65,Asus,1472.0
+107,Acer Aspire Vero AV15-51-7555,2022,Windows,core i7,4,8,2.9,5.0,10,12,28,iris xe graphics g7 96eus,0,nan,0,300.0,0,16,0,4,512,15.6,1920,1080,1.8,Acer,1051.0
+291,Asus ROG Strix G17 G713RM-KH093W,2022,Windows,ryzen 7,8,16,3.2,4.7,6,16,45,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,16,0,5,512,17.3,1920,1080,2.8,Asus,1840.0
+672,Lenovo ThinkBook 16p G2 ACH-20YM002VGE,2022,Windows,ryzen 9,8,16,3.3,4.6,7,16,45,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,32,0,4,1024,16.0,2560,1600,1.99,Lenovo,1840.0
+152,Asus Zenbook S 13 OLED,2022,Windows,ryzen 7,8,16,2.7,4.7,6,16,15,radeon 680m,0,nan,0,2000.0,0,16,0,4,1024,13.3,2880,1800,1.095,Asus,1577.0
+1796,HP Pavilion Aero 13-be0007ns,2021,Windows,ryzen 7,8,16,1.9,4.4,7,16,15,radeon rx vega 8,0,nan,0,2000.0,0,16,0,4,512,13.3,2560,1600,0.99,HP,1005.0
+731,Lenovo IdeaPad 3 14ALC6-82KT0042SP,2022,Windows,ryzen 7,8,16,1.8,4.3,7,8,15,radeon rx vega 8,0,nan,0,2000.0,0,8,0,4,512,14.0,1920,1080,1.41,Lenovo,526.0
+385,Dell Inspiron 15 5518-NP37P,2022,Windows,core i5,4,8,2.5,4.5,10,8,28,geforce mx450,2,GDDR6,64,1395.0,1250,8,0,4,512,15.6,1920,1080,1.75,Dell,893.0
+384,Dell Inspiron 16 7620 2-in-1 K7JT6,2022,Windows,core i5,10,12,1.3,4.4,10,12,15,iris xe graphics g7 80eus,0,nan,0,300.0,0,8,0,4,512,16.0,1920,1200,2.19,Dell,1051.0
+913,Lenovo Legion C7 15IMH05 82EH0030GE,2021,Windows,core i7,8,16,2.1,5.1,14,16,45,geforce rtx 2070 max-q,8,GDDR6,256,885.0,1500,32,0,4,1024,15.6,1920,1080,2.25,Lenovo,3547.0
+1481,Asus VivoBook 17 M712-WH34,2021,Windows,ryzen 3,2,4,2.6,3.5,14,4,15,radeon rx vega 3,0,nan,0,1200.0,0,8,0,4,256,17.3,1920,1080,2.3,Asus,532.0
+363,Dell Vostro 13 5301-V078G,2022,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,8,0,4,256,13.3,1920,1080,1.06,Dell,631.0
+89,Acer Nitro 5 AN515-58-58BN,2022,Windows,core i5,12,16,2.5,4.5,10,18,45,geforce rtx 3050 mobile,4,GDDR6,128,712.0,1500,16,0,4,512,15.6,1920,1080,2.5,Acer,1261.0
+413,HP Pavilion Plus 14 eh0097nr,2022,Windows,core i7,14,20,2.3,4.7,10,24,45,iris xe graphics g7 96eus,0,nan,0,300.0,0,16,0,4,256,14.0,2880,1800,1.35,HP,1000.0
+372,"Dell Latitude 15 9520, i5-1145G7",2022,Windows,core i5,4,8,2.6,4.4,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,8,0,4,256,15.0,1920,1080,1.4,Dell,1734.0
+1198,Alpha 15 B5EEK,2021,Windows,ryzen 7,8,16,3.2,4.4,7,16,45,radeon rx 6600m,8,GDDR6,128,2068.0,1750,16,0,4,1024,15.6,1920,1080,2.35,MSI,1656.0
+1697,HP ZBook Firefly 15 G8 2C9R7EA,2021,Windows,core i7,4,8,2.8,4.7,10,12,28,t500 mobile,2,GDDR6,64,1365.0,1250,32,0,4,1024,15.6,1920,1080,1.752,HP,2484.0
+821,MSI Crosshair 15 R6E B12UGZ-050,2022,Windows,core i7,14,20,2.3,4.7,10,24,45,geforce rtx 3070 mobile,8,GDDR6,256,1110.0,1750,32,0,4,1024,15.6,2560,1440,2.3,MSI,2102.0
+1097,MSI Summit E13 Flip Evo A11MT,2021,Windows,core i7,4,8,3.0,4.8,10,12,28,iris xe graphics g7 96eus,0,nan,0,300.0,0,32,2133,4,1024,13.4,1920,1200,1.35,MSI,1900.0
+881,Lenovo Yoga 6 13 82ND0009US,2021,Windows,ryzen 5,6,12,2.1,4.0,7,8,15,radeon rx vega 7,0,nan,0,1800.0,0,8,1600,4,256,13.3,1920,1080,1.331,Lenovo,800.0
+688,Lenovo Legion 5 Pro 16IAH7H-82RF000VGE,2022,Windows,core i7,14,20,2.3,4.7,10,24,45,geforce rtx 3070 ti mobile,8,GDDR6,256,915.0,1750,16,0,5,1024,16.0,2560,1600,2.49,Lenovo,2313.0
+624,ThinkPad T14s G2 AMD,2022,Windows,ryzen 7,8,16,1.9,4.4,7,16,15,radeon rx vega 8,0,nan,0,2000.0,0,32,0,4,1024,14.0,1920,1080,1.299,Lenovo,2038.0
+1759,HP Spectre x360 14-ea0059nw,2021,Windows,core i7,4,8,2.8,4.7,10,12,28,iris xe graphics g7 96eus,0,nan,0,300.0,0,16,0,4,512,13.5,1920,1280,1.34,HP,1892.0
+72,Acer Predator Helios 300 PH315-55-745L,2022,Windows,core i7,14,20,2.3,4.7,10,24,45,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,16,0,5,1024,15.6,1920,1080,2.6,Acer,1892.0
+1237,Acer Aspire 5 A515-55-56VK,2021,Windows,core i5,4,8,1.0,3.6,10,6,15,uhd graphics g1,0,nan,0,300.0,0,8,0,4,256,15.6,1920,1080,1.8,Acer,769.0
+422,HP ZBook Fury 17 G7-2C9X7EA,2022,Windows,core i7,6,12,2.6,5.0,14,12,45,quadro t1000,4,GDDR5,128,1395.0,2001,16,0,4,512,17.3,1920,1080,2.97,HP,4099.0
+1397,Asus Strix Scar 17 G733QSA-XS99,2021,Windows,ryzen 9,8,16,3.3,4.6,7,16,45,geforce rtx 3080 mobile,8,GDDR6,256,1110.0,1750,32,3200,4,2048,17.3,1920,1080,2.783,Asus,3000.0
+892,Lenovo ThinkPad P14s Gen2-20VX000GGE,2021,Windows,core i7,4,8,3.0,4.8,10,12,28,t500 mobile,2,GDDR6,64,1365.0,1250,32,0,4,1024,14.0,1920,1080,1.492,Lenovo,2283.0
+1126,MSI Stealth 15M A11SEK,2021,Windows,core i7,4,8,3.0,4.8,10,12,28,geforce rtx 2060 max-q,6,GDDR6,192,975.0,1375,32,0,4,1024,15.6,1920,1080,1.695,MSI,1500.0
+78,Acer Nitro 5 AN517-55-78NJ,2022,Windows,core i7,14,20,2.3,4.7,10,24,45,geforce rtx 3070 ti mobile,8,GDDR6,256,915.0,1750,16,0,4,1024,17.3,1920,1080,3.0,Acer,2050.0
+694,Lenovo Legion 5 15ITH6H-82JH0070SP,2022,Windows,core i7,8,16,1.9,4.6,10,24,35,geforce rtx 3070 mobile,8,GDDR6,256,1110.0,1750,32,0,4,1024,15.6,1920,1080,2.4,Lenovo,1472.0
+1611,"Dell XPS 13 9310, i5-1135G7 FHD",2021,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,8,0,4,512,13.4,1920,1200,1.2,Dell,1656.0
+710,Lenovo IdeaPad Gaming 3 15ACH6-82K200UTUS,2022,Windows,ryzen 5,6,12,3.3,4.2,7,16,45,geforce gtx 1650 mobile,4,GDDR5,128,1395.0,2001,8,0,4,256,15.6,1920,1080,2.25,Lenovo,788.0
+1004,Lenovo ThinkBook 16p G2 ACH-20YM0009GE,2021,Windows,ryzen 7,8,16,3.2,4.4,7,16,45,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,16,0,4,1024,16.0,2560,1600,1.99,Lenovo,1892.0
+1682,HP Envy 13-ba1475ng,2021,Windows,core i7,4,8,2.8,4.7,10,12,28,geforce mx450,2,GDDR6,64,1395.0,1250,16,0,4,512,13.3,1920,1080,1.25,HP,1300.0
+70,Acer Predator Helios 300 PH315-55-79FW,2022,Windows,core i7,14,20,2.3,4.7,10,24,45,geforce rtx 3070 ti mobile,8,GDDR6,256,915.0,1750,32,0,5,1024,15.6,2560,1440,2.6,Acer,2628.0
+465,HP Pavilion x360 14-dy0018ns,2022,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,8,0,4,512,14.0,1920,1080,1.82,HP,631.0
+787,MSI Raider GE67 HX 12UHS-039AU,2022,Windows,core i7,16,24,2.0,4.8,10,25,55,geforce rtx 3080 ti mobile,16,GDDR6,256,810.0,2000,32,0,5,2048,15.6,2560,1440,2.38,MSI,3889.0
+332,Dell Inspiron 14 5425 6VPKR,2022,Windows,ryzen 5,6,12,2.3,4.3,7,16,15,radeon rx vega 7,0,nan,0,1800.0,0,16,0,4,512,14.0,1920,1200,1.55,Dell,892.0
+153,Asus VivoBook S 14X S5402Z,2022,Windows,core i7,14,20,2.3,4.7,10,24,45,iris xe graphics g7 96eus,0,nan,0,300.0,0,12,0,4,512,14.5,2880,1800,1.627,Asus,1100.0
+1002,Lenovo ThinkPad E14 G3-20Y7003XGE,2021,Windows,ryzen 7,8,16,1.8,4.3,7,8,15,radeon rx vega 8,0,nan,0,2000.0,0,16,0,4,512,14.0,1920,1080,1.4,Lenovo,1064.0
+51,Acer Swift 3 SF314-43-R704,2022,Windows,ryzen 5,6,12,2.1,4.0,7,8,15,radeon rx vega 7,0,nan,0,1800.0,0,16,0,4,512,14.0,1920,1080,1.19,Acer,736.0
+856,Lenovo ThinkPad L14 G2-20X1003WGE,2021,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,8,0,4,256,14.0,1920,1080,1.65,Lenovo,1183.0
+759,MSI Vector GP66 12UGS,2022,Windows,core i9,14,20,2.5,5.0,10,24,45,geforce rtx 3070 ti mobile,8,GDDR6,256,915.0,1750,32,0,4,512,15.6,1920,1080,2.314,MSI,2400.0
+1456,Asus ZenBook 14 UX434FAC-A5144T,2021,Windows,core i7,4,8,1.8,4.9,14,8,25,uhd graphics 620,0,nan,0,300.0,0,16,0,3,512,14.0,1920,1080,1.2,Asus,1301.0
+429,HP Victus 16-e0101ns,2022,Windows,ryzen 7,8,16,3.2,4.4,7,16,45,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,16,0,4,512,16.1,1920,1080,2.46,HP,1009.0
+302,Asus ROG Flow X13 GV301RA-LJ011W,2022,Windows,ryzen 7,8,16,3.2,4.7,6,16,35,radeon 680m,0,nan,0,2000.0,0,16,0,5,512,13.4,1920,1200,1.3,Asus,1524.0
+1531,Asus ROG Zephyrus G14 GA401QM-HZ109T,2021,Windows,ryzen 9,8,16,3.0,4.6,7,16,35,geforce rtx 3060 mobile,6,GDDR6,192,900.0,1750,32,0,4,1024,14.0,1920,1080,1.7,Asus,2839.0
+1402,Asus TUF Dash F15 FX516PR,2021,Windows,core i7,4,8,4.8,4.8,10,12,32,geforce rtx 3070 mobile,8,GDDR6,256,1110.0,1750,16,0,4,1024,15.6,1920,1080,2.046,Asus,2364.0
+1162,MSI GS66 Stealth 11UH-471,2021,Windows,core i7,8,16,1.9,4.6,10,24,35,geforce rtx 3080 mobile,8,GDDR6,256,1110.0,1750,32,0,4,1024,15.6,2560,1440,2.1,MSI,3666.0
+1647,"Dell G5 15 5500, i7-10750H RTX 2070",2021,Windows,core i7,6,12,2.6,5.0,14,12,45,geforce rtx 2070 mobile,8,GDDR6,256,1215.0,1750,16,0,4,512,15.6,1920,1080,2.4,Dell,1183.0
+1644,"Dell Inspiron 13 7306 2-in-1, i7-1165G7",2021,Windows,core i7,4,8,2.8,4.7,10,12,28,iris xe graphics g7 96eus,0,nan,0,300.0,0,16,0,4,512,13.3,3840,2160,1.37,Dell,1597.0
+333,Dell Inspiron 15 5515-H8P8F,2022,Windows,ryzen 7,8,16,1.8,4.3,7,8,15,radeon rx vega 8,0,nan,0,2000.0,0,8,0,4,512,15.6,1920,1080,1.632,Dell,757.0
+1891,HP 15s-eq2043ns,2021,Windows,ryzen 3,4,8,2.6,3.8,7,4,15,radeon rx vega 6,0,nan,0,1500.0,0,8,0,4,512,15.6,1920,1080,1.69,HP,591.0
+900,Lenovo V17-IIL 82GX008TGE,2021,Windows,core i3,2,4,1.2,3.4,10,4,15,uhd graphics g1,0,nan,0,300.0,0,8,0,4,256,17.3,1920,1080,2.2,Lenovo,708.0
+1675,HP Pavilion x360 15-er0155ng,2021,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,16,0,4,512,15.6,1920,1080,1.79,HP,1063.0
+1031,"Lenovo IdeaPad Slim 5 15, i5-1135G7",2021,Windows,core i5,4,8,2.4,4.2,10,8,28,iris xe graphics g7 80eus,0,nan,0,300.0,0,8,0,4,512,15.6,1920,1080,1.66,Lenovo,828.0

@@ -95,7 +95,7 @@
 1035,Lenovo IdeaPad Gaming 3 15ARH05-82EY00RDSP,Windows,ryzen 5,12,4.0,11,54,geforce gtx 1650 mobile,4,GDDR5,2001,16,4,512,15.6,1920,2.2,Lenovo,769.0
 986,Lenovo ThinkPad X1 Extreme G4-20Y5000UUS,Windows,core i7,16,4.8,24,35,geforce rtx 3060 mobile,6,GDDR6,1750,16,4,512,16.0,3840,1.86,Lenovo,2247.0
 518,HP Envy 15-ep1008ns,Windows,core i5,12,4.5,12,35,geforce rtx 3050 mobile,4,GDDR6,1500,16,4,512,15.6,1920,2.18,HP,999.0
-1512,Asus TUF Gaming A15 FA506IV-AS76,Windows,ryzen 7,16,4.2,12,54,geforce rtx 2060 mobile,6,GDDR6,1750,16,1,1024,15.6,1920,2.3,Asus,1301.0
+1512,Asus TUF Gaming A15 FA506IV-AS76,Windows,ryzen 7,16,4.2,12,54,geforce rtx 2060 mobile,6,GDDR6,1750,16,4,1024,15.6,1920,2.3,Asus,1301.0
 1124,MSI GP76 Leopard 10UG,Windows,core i7,12,5.0,12,45,geforce rtx 3070 mobile,8,GDDR6,1750,16,4,512,17.3,1920,2.9,MSI,2483.0
 535,HP 17-cn1006ns,Windows,core i5,8,4.5,8,28,iris xe graphics g7 80eus,0,nan,0,16,4,512,17.3,1920,2.08,HP,715.0
 1570,Dell Precision 5000 5560,Windows,core i7,16,4.8,24,35,rtx a2000 mobile,4,GDDR6,1375,32,4,2048,15.6,3840,2.006,Dell,3000.0
@@ -374,7 +374,7 @@
 529,"HP EliteBook 645 G9, Ryzen 7 5825U",Windows,ryzen 7,16,4.5,16,15,radeon rx vega 8,0,nan,0,16,4,512,14.0,1920,1.37,HP,1472.0
 1663,HP Omen 16-b0085ng,Windows,core i7,16,4.6,24,35,geforce rtx 3070 mobile,8,GDDR6,1750,16,4,512,16.1,1920,2.37,HP,2128.0
 230,"Asus VivoBook 15X A1503, i5-12500H",Windows,core i5,16,4.5,18,45,iris xe graphics g7 80eus,0,nan,0,8,4,512,15.6,1920,1.7,Asus,893.0
-998,"Lenovo ThinkPad P15 G2, i7-11800H RTX A3000",Windows,core i7,16,4.6,24,35,rtx a3000 mobile,6,GDDR6,1375,32,1,512,15.6,1920,2.87,Lenovo,3193.0
+998,"Lenovo ThinkPad P15 G2, i7-11800H RTX A3000",Windows,core i7,16,4.6,24,35,rtx a3000 mobile,6,GDDR6,1375,32,4,512,15.6,1920,2.87,Lenovo,3193.0
 3,Lenovo Legion Slim 7-16IAH 82TF004YGE,Windows,core i7,20,4.7,24,45,geforce rtx 3060 mobile,6,GDDR6,1750,16,5,1024,16.0,2560,2.206,Lenovo,2313.0
 838,NX.A82EV.00H,Linux,ryzen 7,16,4.3,8,15,radeon rx vega 8,0,nan,0,8,4,512,15.6,1920,1.724,Acer,661.0
 261,Asus TUF Gaming F15 FX506HM-HN016,Windows,core i5,12,4.5,12,35,geforce rtx 3060 mobile,6,GDDR6,1750,16,4,512,15.6,1920,2.3,Asus,1156.0
