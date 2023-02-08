@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+    <div>
+        <h1 style="color:violet">Predict</h1>
+        <form action="{{url_for('predict')}}" method="post">
+            <input type="text" name="RAM" placeholder="" required="required" />    RAM(GB)<br>
+            <input type="text" name="CPU_Threads" placeholder="" required="required" />    CPU_Threads<br>
+            <input type="text" name="Display_Inch" placeholder="" required="required" />    Display_Inch<br>
+            <input type="text" name="CPU_TDP" placeholder="" required="required" />    CPU_TDP(W)<br>
+            <input type="text" name="GPU_Memory" placeholder="" required="required" />    GPU_Memory(GB)<br>
+            <input type="text" name="Display_height" placeholder="" required="required" />    Display_height(pixel)<br>
+            <input type="text" name="Weight" placeholder="" required="required" />    Weight(kg)<br>
+            <input type="text" name="CPU_L3" placeholder="" required="required" />    CPU_L3(MB)<br>
+            <input type="text" name="CPU_Boosted_Clock" placeholder="" required="required" />    CPU_Boosted_Clock<br>
+            <input type="text" name="GPU_memory_clock" placeholder="" required="required" />    GPU_memory_clock(MHz)<br>
+            <input type="text" name="Storage" placeholder="" required="required" />    Storage(GB)<br>
+            
+
+
+            <label for="GPU_Memory_Type">Choose the GPU Memory Type: </label>
+            <select name="GPU_Memory_Type">
+                <option value="GDDR5">GDDR5</option>
+                <option value="GDDR6">GDDR6</option>
+                <option value="LPDDR4X">LPDDR4X</option>
+                <option value="NoGPU">No GPU</option>
+            </select>
+            <p></p>
+            <label for="OS">Choose the OS: </label>
+            <select name="OS">
+                <option value="Linux">Linux</option>
+                <option value="MacOS">MacOS</option>
+                <option value="Windows">Windows</option>
+            </select>
+            <p></p>
+            <label for="RAM_DDR">Choose the RAM_DDR: </label>
+            <select name="RAM_DDR">
+                <option value="DDR1">DDR1</option>
+                <option value="DDR3">DDR3</option>
+                <option value="DDR4">DDR4</option>
+                <option value="DDR5">DDR5</option>
+            </select>
+            <p></p>
+
+            <label for="model">Choose the ML model: </label>
+            <select name="model">
+                <option value="ridge">Ridge Regression</option>
+                <option value="lasso">Lasso Regression</option>
+                <option value="random_forest">Random Forest</option>
+                <option value="xgb">Extreme Gradient Boosting</option>
+            </select>
+            <p></p>
+            <button type="submit" class="btn btn-primary">Predict</button></p>
+        </form>
+
+        <br>
+        <br>
+        <h1 style="color:violet">
+        {{prediction_text}}
+        </h1>
+    </div>
+</body>
+</html>

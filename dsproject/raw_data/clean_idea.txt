@@ -1,0 +1,3 @@
+Memory : so luong ram - bo nho (GB) - buss - ddr
+Storage: dung luong - phan loai (ssd - hdd (rpm = hdd))
+Display: inch - pixel
