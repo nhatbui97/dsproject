@@ -12,7 +12,7 @@ ridgemodel = pickle.load(open('ridgemodel.pkl','rb'))
 lassomodel = pickle.load(open('lassomodel.pkl','rb'))
 forestmodel = pickle.load(open('forestmodel.pkl','rb'))
 xgbmodel = pickle.load(open('xgbmodel.pkl','rb'))
-X_train_original = pd.read_csv('X_train_original.csv')
+X_train_original = pd.read_csv('X_train_original.csv', index_col = 'Unnamed: 0')
 cat_attribs = ['GPU_Memory_Type', 'OS', 'RAM_DDR']
 num_attribs = list(set(X_train_original.columns).difference(set(cat_attribs)))
 num_pipeline = Pipeline([
